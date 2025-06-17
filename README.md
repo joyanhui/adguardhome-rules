@@ -111,6 +111,14 @@ sed -i 's/your-suffix/你的doh后缀部分/g' /overlay/data/adguard_upstream_dn
 
 运行一次 `sh /overlay/data/adguard_upstream_dns_file_update.sh`,然后自己检查获取到的adguard_upstream_dns_file.txt这个文件是否正常。
 
+如果你中间运行出错了，导致dns全部失效 可以执行下面命令恢复dns基本的运行
+
+```sh
+echo '114.114.114.114
+223.6.6.6
+'>/overlay/data/adguard_upstream_dns_file.txt
+```
+
 ### 添加到计划任务
 
 ```sh
