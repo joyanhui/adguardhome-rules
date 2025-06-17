@@ -1,0 +1,163 @@
+bind_host: 0.0.0.0
+bind_port: 3000
+beta_bind_port: 0
+users:
+  - name: <youUserName>
+    password: <HashPassWord>
+auth_attempts: 5
+block_auth_min: 15
+http_proxy: ''
+language: ''
+debug_pprof: false
+web_session_ttl: 720
+dns:
+  bind_hosts:
+    - 0.0.0.0
+  port: 53
+  statistics_interval: 1
+  querylog_enabled: true
+  querylog_file_enabled: true
+  querylog_interval: 168h
+  querylog_size_memory: 1000
+  anonymize_client_ip: false
+  protection_enabled: true
+  blocking_mode: default
+  blocking_ipv4: ''
+  blocking_ipv6: ''
+  blocked_response_ttl: 10
+  parental_block_host: family-block.dns.adguard.com
+  safebrowsing_block_host: standard-block.dns.adguard.com
+  ratelimit: 50
+  ratelimit_whitelist: []
+  refuse_any: true
+  upstream_dns:
+    - tls://dot.360.cn
+    - quic://dns.alidns.com:853
+    - tls://dot.pub
+  upstream_dns_file: /overlay/data/adguard_upstream_dns_file.txt
+  bootstrap_dns:
+    - 123.125.81.6
+    - 223.6.6.6
+    - 119.29.29.29
+  all_servers: true
+  fastest_addr: false
+  fastest_timeout: 1s
+  allowed_clients: []
+  disallowed_clients: []
+  blocked_hosts:
+    - version.bind
+    - id.server
+    - hostname.bind
+  trusted_proxies:
+    - 127.0.0.0/8
+    - ::1/128
+  cache_size: 1024000
+  cache_ttl_min: 30
+  cache_ttl_max: 1800
+  cache_optimistic: true
+  bogus_nxdomain: []
+  aaaa_disabled: false
+  enable_dnssec: false
+  edns_client_subnet: false
+  max_goroutines: 300
+  handle_ddr: true
+  ipset: []
+  ipset_file: ''
+  filtering_enabled: true
+  filters_update_interval: 24
+  parental_enabled: false
+  safesearch_enabled: false
+  safebrowsing_enabled: false
+  safebrowsing_cache_size: 1048576
+  safesearch_cache_size: 1048576
+  parental_cache_size: 1048576
+  cache_time: 30
+  rewrites: []
+  blocked_services: []
+  upstream_timeout: 10s
+  private_networks: []
+  use_private_ptr_resolvers: true
+  local_ptr_upstreams: []
+  serve_http3: false
+  use_http3_upstreams: false
+tls:
+  enabled: true
+  server_name: ''
+  force_https: false
+  port_https: 30443
+  port_dns_over_tls: 0
+  port_dns_over_quic: 0
+  port_dnscrypt: 0
+  dnscrypt_config_file: ''
+  allow_unencrypted_doh: false
+  certificate_chain: |
+    -----BEGIN CERTIFICATE-----
+    <Example>
+    -----END CERTIFICATE-----
+  private_key: |
+    -----BEGIN RSA PRIVATE KEY-----
+    <Example>
+    -----END RSA PRIVATE KEY-----
+  certificate_path: ''
+  private_key_path: ''
+  strict_sni_check: false
+filters:
+  - enabled: false
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    name: AdGuard DNS filter
+    id: 1
+  - enabled: false
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+    name: AdAway Default Blocklist
+    id: 2
+  - enabled: true
+    url: https://easylist-downloads.adblockplus.org/easylist.txt
+    name: easylist国际网页
+    id: 1750134283
+  - enabled: true
+    url: https://easylist-downloads.adblockplus.org/easylistchina.txt
+    name: easylist国内网页
+    id: 1750134285
+  - enabled: true
+    url: https://<YourGithubProxyUrl>/https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+    name: anti-AD中文区
+    id: 1750134287
+whitelist_filters: []
+user_rules: []
+dhcp:
+  enabled: false
+  interface_name: ''
+  local_domain_name: lan
+  dhcpv4:
+    gateway_ip: ''
+    subnet_mask: ''
+    range_start: ''
+    range_end: ''
+    lease_duration: 86400
+    icmp_timeout_msec: 1000
+    options: []
+  dhcpv6:
+    range_start: ''
+    lease_duration: 86400
+    ra_slaac_only: false
+    ra_allow_slaac: false
+clients:
+  runtime_sources:
+    whois: true
+    arp: true
+    rdns: true
+    dhcp: true
+    hosts: true
+  persistent: []
+log_file: ''
+log_max_backups: 0
+log_max_size: 100
+log_max_age: 3
+log_compress: false
+log_localtime: false
+verbose: false
+os:
+  group: ''
+  user: ''
+  rlimit_nofile: 0
+schema_version: 14

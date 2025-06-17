@@ -18,6 +18,10 @@ jobs:
 
       - name: Download and process rules
         run: |
+          echo "清理分支..."
+          rm -rf ./*
+          rm -rf .github
+          echo "下载和处理所需文件..."
           wget "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct-list.txt" -O /tmp/adg_tmp_direct.txt
           sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]tls:\/\/dot.pub/g" -i /tmp/adg_tmp_direct.txt
 
@@ -25,21 +29,38 @@ jobs:
           sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]tls:\/\/dot.pub/g" -i /tmp/adg_tmp_winupdate.txt
 
           wget "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt" -O /tmp/adg_tmp_gfw.txt
-          sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]https:\/\/doh.leiyanhui.com\/dns/g" -i /tmp/adg_tmp_gfw.txt
+          sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]https:\/\/d-o-h.you-cf-domain.com\/your-suffix/g" -i /tmp/adg_tmp_gfw.txt
 
-          cat /tmp/adg_tmp_direct.txt > adguard_upstream_dns_file.txt
-          echo "#-----" >> adguard_upstream_dns_file.txt
-          cat /tmp/adg_tmp_winupdate.txt >> adguard_upstream_dns_file.txt
-          echo "#-----" >> adguard_upstream_dns_file.txt
-          cat /tmp/adg_tmp_gfw.txt >> adguard_upstream_dns_file.txt
+          echo "合并获取 chinaDirect_WinUpdate_Gfw..."
+          cat /tmp/adg_tmp_direct.txt > chinaDirect_WinUpdate_Gfw.txt
+          echo "#-----" >> chinaDirect_WinUpdate_Gfw.txt
+          cat /tmp/adg_tmp_winupdate.txt >> chinaDirect_WinUpdate_Gfw.txt
+          echo "#-----" >> chinaDirect_WinUpdate_Gfw.txt
+          cat /tmp/adg_tmp_gfw.txt >> chinaDirect_WinUpdate_Gfw.txt
+
+          echo "#----
+          https://doh.opendns.com/dns-query
+          https://dns.cloudflare.com/dns-query
+          https://dns.twnic.tw/dns-query
+          https://d-o-h.you-cf-domain.com/your-suffix
+          " >> chinaDirect_WinUpdate_Gfw.txt
+
+          echo "合并获取 Only_Gfw..."
+          cat /tmp/adg_tmp_gfw.txt > Only_Gfw.txt
+          echo "#----
+          tls://dot.360.cn
+          quic://dns.alidns.com:853
+          tls://dot.pub
+          https://dns.cloudflare.com/dns-query
+          " >> Only_Gfw.txt
 
       - name: Commit and push changes
         run: |
-          rm -rf .github
-          rm -rf other
-          rm -rf adgurdhome.md
-          rm -rf cfworks_doh.js
-          echo "规则文件清单">README.md
+          echo "## 规则文件清单
+          - chinaDirect_WinUpdate_Gfw 适合性能尚可的设备：使用dnspod的doh解析国内可直链域名和win更新域名，使用指定的doh解析gfw域名，未配置的使用后续可用的doh域名。也是我自己用在RAX3000M(1G+32G)的规则文件。
+          - Only_Gfw 适合性能紧张的设备：使用指定的doh解析gfw的域名，使用其他dns解析其他域名
+
+          ">README.md
           git config --global user.email "leiyanhui@gmail.com"
           git config --global user.name "joyanhui"
           git add .
