@@ -5857,4 +5857,5 @@ tls://dot.360.cn
 quic://dns.alidns.com:853
 tls://dot.pub
 https://dns.cloudflare.com/dns-query
+https://d-o-h.you-cf-domain.com/your-suffix
 

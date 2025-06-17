@@ -127596,7 +127596,7 @@
 [/zzux.com/]https://d-o-h.you-cf-domain.com/your-suffix
 #----
 https://doh.opendns.com/dns-query
-https://dns.cloudflare.com/dns-query
 https://dns.twnic.tw/dns-query
+https://dns.cloudflare.com/dns-query
 https://d-o-h.you-cf-domain.com/your-suffix
 
