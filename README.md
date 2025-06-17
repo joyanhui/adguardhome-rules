@@ -131,10 +131,10 @@ echo '114.114.114.114
 chmod +x  /overlay/data/adguard_upstream_dns_file_update.sh
 ```
 
-然后在openwrt的web管理里面：系统>计划任务 增加一行
+然后在openwrt的web管理里面：系统>计划任务 增加一行 本机时间每天早上8点15运行
 
 ```sh
-0 12 * * *   /overlay/data/adguard_upstream_dns_file_update.sh
+15 8 * * *   /overlay/data/adguard_upstream_dns_file_update.sh
 ```
 
 #### 配置adguard home 的上游dns为规则文件模式

@@ -2,8 +2,7 @@ name: Update AdGuard DNS Rules
 
 on:
   schedule:
-    - cron: '8 0 * * *' # 每天 运行
-
+    - cron: '20 23 * * *' # 北京时间每天早上7点运行（UTC时间前一天23:00）
   workflow_dispatch: # 允许手动触发
 
 jobs:
