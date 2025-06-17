@@ -42,6 +42,6 @@ jobs:
           echo "规则文件清单">README.md
           git config --global user.email "leiyanhui@gmail.com"
           git config --global user.name "joyanhui"
-          git add adguard_upstream_dns_file.txt
+          git add .
           git commit -m "Update AdGuard DNS rules" || echo "No changes to commit"
           git push origin release_file
