@@ -14,17 +14,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          ref: rules # 检出 rules 分支
+          ref: release_file # 检出 release_file 分支
 
       - name: Download and process rules
         run: |
-          wget "https://gh.leiyanhui.com/https://github.com/Loyalsoldier/v2ray-rules-dat/raw/refs/heads/release/direct-list.txt" -O /tmp/adg_tmp_direct.txt
+          wget "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct-list.txt" -O /tmp/adg_tmp_direct.txt
           sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]tls:\/\/dot.pub/g" -i /tmp/adg_tmp_direct.txt
 
-          wget "https://gh.leiyanhui.com/https://github.com/Loyalsoldier/v2ray-rules-dat/raw/refs/heads/release/win-update.txt" -O /tmp/adg_tmp_winupdate.txt
+          wget "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/win-update.txt" -O /tmp/adg_tmp_winupdate.txt
           sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]tls:\/\/dot.pub/g" -i /tmp/adg_tmp_winupdate.txt
 
-          wget "https://gh.leiyanhui.com/https://github.com/Loyalsoldier/v2ray-rules-dat/raw/refs/heads/release/gfw.txt" -O /tmp/adg_tmp_gfw.txt
+          wget "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt" -O /tmp/adg_tmp_gfw.txt
           sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]https:\/\/doh.leiyanhui.com\/dns/g" -i /tmp/adg_tmp_gfw.txt
 
           cat /tmp/adg_tmp_direct.txt > adguard_upstream_dns_file.txt
@@ -39,4 +39,4 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add adguard_upstream_dns_file.txt
           git commit -m "Update AdGuard DNS rules" || echo "No changes to commit"
-          git push origin rules
+          git push origin release_file
