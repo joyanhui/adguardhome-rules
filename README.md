@@ -102,8 +102,14 @@ sed -i 's/your-suffix/你的doh后缀部分/g' /overlay/data/adguard_upstream_dn
 
 如果你没有自己的私有githubPoryx和doh
 
-- `https://你的githubProxy代理站地址/` 修改为 `https://goppx.com/`
-- `你的doh域名部分` 可以修改为 `dns.cloudflare.com` `你的doh后缀部分` 修改为`dns-query`
+- GithubProxy
+  - `https://你的githubProxy代理站地址/` 修改为 `https://goppx.com/`。也可以把wget的完整地址更换为
+  - `https://joyanhui.github.io/adguardhome-rules/ADG_chinaDirect_WinUpdate_Gfw.txt`
+  - `https://gcore.jsdelivr.net/gh/joyanhui/adguardhome-rules@release_file/ADG_chinaDirect_WinUpdate_Gfw.txt`
+  - `https://testingcf.jsdelivr.net/gh/joyanhui/adguardhome-rules@release_file/ADG_chinaDirect_WinUpdate_Gfw.txt`
+  - `https://cdn.jsdmirror.com/gh/joyanhui/adguardhome-rules@release_file/ADG_chinaDirect_WinUpdate_Gfw.txt`
+- 无污染的dns,udp/tcp无可用的，tls不稳定，目前只有cloudflare的多数时间和地区可用。强烈建议自建
+  - `你的doh域名部分` 可以修改为 `dns.cloudflare.com` `你的doh后缀部分` 修改为`dns-query`
 
 [[joyanhui/adguardhome-rules/tree/release_file]](https://github.com/joyanhui/adguardhome-rules/tree/release_file) 分支中有多个每日自动更新的规则文件，选择其中一个适合你的
 
