@@ -122785,7 +122785,6 @@
 [/cloud.dify.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloud.mail.ru/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudflare-ipfs.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/cloudfront.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudfunctions.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/club1069.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/clubhouseapi.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -123144,6 +123143,7 @@
 [/dw-world.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dw.de/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dweb.link/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dwnews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dwnews.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dynamic-dns.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -124425,6 +124425,7 @@
 [/iownyour.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipdefenseforum.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipfire.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ipfs.4everland.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipfs.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/iphone4hongkong.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/iphonetaiwan.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -125251,6 +125252,7 @@
 [/nflximg.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nflxso.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nflxvideo.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nftstorage.link/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nga.mil/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ngensis.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nhentai.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -126282,6 +126284,7 @@
 [/storj.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/storm.mg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/stormmediagroup.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/storry.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/stoweboyd.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/straitstimes.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/stranabg.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -127102,6 +127105,7 @@
 [/vultryhw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/w-pool.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/w.idaiwan.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/w3s.link/]https://d-o-h.you-cf-domain.com/your-suffix
 [/waffle1999.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wahas.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/waikeung.org/]https://d-o-h.you-cf-domain.com/your-suffix
