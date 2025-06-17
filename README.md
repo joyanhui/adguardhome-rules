@@ -147,7 +147,7 @@ upstream_dns_file: /overlay/data/adguard_upstream_dns_file.txt
 
 ### 进阶 adguardhome 搭建自己的doh
 
-本地的adguardhome也可以对外提供 doh。有两种方式 一种是自签证书或者购买一个长期证书。另外一种方式就是配合证书管理和反向代理工具，下面用 lucky来做简单说明。
+本地的adguardhome也可以对外提供 doh。有两种方式 一种是自签证书[[在线生成]](https://www.toolhelper.cn/SSL/SSLGenerate)或者购买一个长期证书。另外一种方式就是配合证书管理和反向代理工具，下面用 lucky来做简单说明。
 
 #### adguardhome 启用doh
 
