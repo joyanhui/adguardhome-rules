@@ -85,16 +85,25 @@ dot因为端口特殊的问题基本都不稳定，doh的话 cloudclare在多数
 
 #### 创建一个自动更新adguard上游dns规则文件的脚本
 
-创建一个自动更新脚本 比如 `/overlay/data/adguard_upstream_dns_file_update.sh` 复制下面的代码 修改后 ssh登陆到运行adguard的openwrt 粘贴运行
+创建一个自动更新脚本 比如
 
-````sh
-echo '#!/bin/sh
+`nano /overlay/data/adguard_upstream_dns_file_update.sh` 内容如下
+
+```sh
+#!/bin/sh
 rm -rf /overlay/data/adguard_upstream_dns_file.txt
-wget "http://你的githubProxy代理站地址/https://raw.githubusercontent.com/joyanhui/adguardhome-rules/refs/heads/release_file/ADG_chinaDirect_WinUpdate_Gfw.txt" -O /overlay/data/adguard_upstream_dns_file.txt
+wget "https://你的githubProxy代理站地址/https://raw.githubusercontent.com/joyanhui/adguardhome-rules/refs/heads/release_file/ADG_chinaDirect_WinUpdate_Gfw.txt" -O /overlay/data/adguard_upstream_dns_file.txt
+
 sed -i 's/d-o-h.you-cf-domain.com/你的doh域名部分/g' /overlay/data/adguard_upstream_dns_file.txt
-sed -i 'your-suffix/你的doh后缀部分/g' /overlay/data/adguard_upstream_dns_file.txt
+sed -i 's/your-suffix/你的doh后缀部分/g' /overlay/data/adguard_upstream_dns_file.txt
+
 /etc/init.d/adguardhome restart
-'' >>  /overlay/data/adguard_upstream_dns_file_update.sh
+```
+
+如果你没有自己的私有githubPoryx和doh
+
+- `https://你的githubProxy代理站地址/` 修改为 `https://goppx.com/`
+- `你的doh域名部分` 可以修改为 `dns.cloudflare.com` `你的doh后缀部分` 修改为`dns-query`
 
 [[joyanhui/adguardhome-rules/tree/release_file]](https://github.com/joyanhui/adguardhome-rules/tree/release_file) 分支中有多个每日自动更新的规则文件，选择其中一个适合你的
 
@@ -106,7 +115,7 @@ sed -i 'your-suffix/你的doh后缀部分/g' /overlay/data/adguard_upstream_dns_
 
 ```sh
 chmod +x  /overlay/data/adguard_upstream_dns_file_update.sh
-````
+```
 
 然后在openwrt的web管理里面：系统>计划任务 增加一行
 
