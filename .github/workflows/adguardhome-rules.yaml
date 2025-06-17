@@ -31,34 +31,36 @@ jobs:
           wget "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt" -O /tmp/adg_tmp_gfw.txt
           sed "s/^full://g;/^regexp:.*$/d;s/^/[\//g;s/$/\/]https:\/\/d-o-h.you-cf-domain.com\/your-suffix/g" -i /tmp/adg_tmp_gfw.txt
 
-          echo "合并获取 chinaDirect_WinUpdate_Gfw..."
-          cat /tmp/adg_tmp_direct.txt > chinaDirect_WinUpdate_Gfw.txt
-          echo "#-----" >> chinaDirect_WinUpdate_Gfw.txt
-          cat /tmp/adg_tmp_winupdate.txt >> chinaDirect_WinUpdate_Gfw.txt
-          echo "#-----" >> chinaDirect_WinUpdate_Gfw.txt
-          cat /tmp/adg_tmp_gfw.txt >> chinaDirect_WinUpdate_Gfw.txt
-
+          echo "合并获取 ADG_chinaDirect_WinUpdate_Gfw ..."
+          cat /tmp/adg_tmp_direct.txt > ADG_chinaDirect_WinUpdate_Gfw.txt
+          echo "#-----" >> ADG_chinaDirect_WinUpdate_Gfw.txt
+          cat /tmp/adg_tmp_winupdate.txt >> ADG_chinaDirect_WinUpdate_Gfw.txt
+          echo "#-----" >> ADG_chinaDirect_WinUpdate_Gfw.txt
+          cat /tmp/adg_tmp_gfw.txt >> ADG_chinaDirect_WinUpdate_Gfw.txt
+          echo "补充一下未匹配域名的上游dns ADG_chinaDirect_WinUpdate_Gfw..."
           echo "#----
           https://doh.opendns.com/dns-query
-          https://dns.cloudflare.com/dns-query
           https://dns.twnic.tw/dns-query
+          https://dns.cloudflare.com/dns-query
           https://d-o-h.you-cf-domain.com/your-suffix
-          " >> chinaDirect_WinUpdate_Gfw.txt
+          " >> ADG_chinaDirect_WinUpdate_Gfw.txt
 
-          echo "合并获取 Only_Gfw..."
-          cat /tmp/adg_tmp_gfw.txt > Only_Gfw.txt
+          echo "合并获取 ADG_Only_Gfw ..."
+          cat /tmp/adg_tmp_gfw.txt > ADG_Only_Gfw.txt
+          echo "补充一下未匹配域名的上游dns ADG_chinaDirect_WinUpdate_Gfw..."
           echo "#----
           tls://dot.360.cn
           quic://dns.alidns.com:853
           tls://dot.pub
           https://dns.cloudflare.com/dns-query
-          " >> Only_Gfw.txt
+          https://d-o-h.you-cf-domain.com/your-suffix
+          " >> ADG_Only_Gfw.txt
 
       - name: Commit and push changes
         run: |
           echo "## 规则文件清单
-          - chinaDirect_WinUpdate_Gfw 适合性能尚可的设备：使用dnspod的doh解析国内可直链域名和win更新域名，使用指定的doh解析gfw域名，未配置的使用后续可用的doh域名。也是我自己用在RAX3000M(1G+32G)的规则文件。
-          - Only_Gfw 适合性能紧张的设备：使用指定的doh解析gfw的域名，使用其他dns解析其他域名
+          - ADG_chinaDirect_WinUpdate_Gfw.txt 只适合性能尚可的设备：使用dnspod的doh解析国内可直链域名和win更新域名，使用指定的doh解析gfw域名，未配置的使用后续可用的doh域名。也是我自己用在RAX3000M(1G+32G)的规则文件。
+          - ADG_Only_Gfw.txt 通用性好：使用指定的doh解析gfw的域名，使用其他dns解析其他域名
 
           ">README.md
           git config --global user.email "leiyanhui@gmail.com"
