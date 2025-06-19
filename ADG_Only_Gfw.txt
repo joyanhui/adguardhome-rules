@@ -1738,6 +1738,7 @@
 [/focusvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/fofg.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/fooooo.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/forbes.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/foreignaffairs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/foreignpolicy.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/form.new/]https://d-o-h.you-cf-domain.com/your-suffix
