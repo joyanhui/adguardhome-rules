@@ -9,7 +9,7 @@ const str = '/'
 const lastVisitProxyCookie = '__PROXY_VISITEDSITE__'
 const passwordCookieName = '__PROXY_PWD__'
 const proxyHintCookieName = '__PROXY_HINT__'
-const password = ''
+const password = 'abc123'
 const showPasswordPage = true
 const replaceUrlObj = '__location__yproxy__'
 const injectedJsId = '__yproxy_injected_js_id__'
@@ -20,6 +20,7 @@ var thisProxyServerUrl_hostOnly
 const proxyHintInjection = `
 
 //---***========================================***---提示使用代理---***========================================***---
+
 
 setTimeout(() => {
   var hint = \`Warning: You are currently using a web proxy, so do not log in to any website. Click to close this hint. For further details, please visit <a href="https://github.com/1234567Yang/cf-proxy-ex/" style="color:rgb(250,250,180);">https://github.com/1234567Yang/cf-proxy-ex/</a>. <br>警告：您当前正在使用网络代理，请勿登录任何网站。单击关闭此提示。详情请见 <a href="https://github.com/1234567Yang/cf-proxy-ex/" style="color:rgb(250,250,180);">https://github.com/1234567Yang/cf-proxy-ex/</a>。\`;
@@ -37,6 +38,7 @@ setTimeout(() => {
     alert(hint);
   }
 }, 5000);
+
 
 `
 var httpRequestInjection = `
@@ -726,7 +728,7 @@ const mainPage = `
 const pwdPage = `
 <!DOCTYPE html>
 <html>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <head>
         <script>
             function setPassword() {
@@ -745,9 +747,11 @@ const pwdPage = `
                 location.reload();
             }
         </script>
+        <style> body {font-family: Arial, sans-serif;display: flex;flex-direction: column;align-items: center;justify-content: center;min-height: 100vh;margin: 0;padding: 20px;background-color: #f5f5f5;}h1 {color: #333;margin-bottom: 30px;}div {display: flex;flex-direction: column;width: 100%;max-width: 300px;}input {padding: 12px;margin-bottom: 15px;border: 1px solid #ddd;border-radius: 4px;font-size: 16px;}button {padding: 12px;background-color: #4CAF50;color: white;border: none;border-radius: 4px;font-size: 16px;cursor: pointer;transition: background-color 0.3s;}button:hover {background-color: #45a049;}</style>
     </head>
 
     <body>
+    <h1>hello</h1>
         <div>
             <input id="password" type="password" placeholder="Password">
             <button onclick="setPassword()">
