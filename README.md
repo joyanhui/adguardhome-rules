@@ -67,6 +67,7 @@ adguard home支持 `[/example.local/]94.140.14.140: 指定为特定域名的上�
 域名，可以申请免费那些域名。不过建议从阿里云或者cloudflare或者其他地方购买一个。8位数字的xyz域名一年只要几块钱。免费的二级域名比较容易在敏感时期全部被大局域网屏蔽，然后dns托管到cloudflare,开通 cloudflare worker。这个网络很多教程。
 
 - 配置自己的 github代理镜像网址 worker源码 https://github.com/joyanhui/gh-proxy/blob/master/index.js
+- 另外一个 推荐 [cfworks_proxy_alot.js](https://github.com/joyanhui/adguardhome-rules/blob/main/cfworks_proxy_alot.js) from[1234567Yang](https://github.com/1234567Yang/cf-proxy-ex/blob/main/_worker.js)
 - 配置自己的 doh源码： [cfworks_doh.js](https://github.com/joyanhui/adguardhome-rules/blob/main/cfworks_doh.js) 记得修改里面的?dns-query=
 
 如果你不想折腾可以从网络搜索其他人的，这里提供几个目前可用的
