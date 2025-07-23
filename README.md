@@ -36,21 +36,23 @@ opkg install adguardhome #安装
 
 访问你运行adguardhome的加端口号 3000，例如:http://192.168.1.1:3000
 
-dns端口就用53,因为上面我们已经把Dnsmasq的dns功能关闭了，所以这里adguard可以站哟机构53端口。 web访问端口不要用80,还是3000就好啦。
+首次登陆会让你设置管理员信息 以及端口
 
-以及配置好管理账号密码以后 进入adg的管理面板
+dns端口就用53,因为上面我们已经把Dnsmasq的dns功能关闭了，所以这里adguard可以占用53端口。 web访问端口不要用80,改回3000啦。
+
+配置完成后 就可以进到管理面板了.
 
 #### adguardhome 基本dns配置
 
 adg的管理面板：设置 > DNS设置
 
-- 上游 DNS 服务器 随便输入一个可用的，不用配置太多，因为后面我们要用配置路径的方式用文件来配置上游dns规则。建议就输入一个 `223.5.5.5`
+- 上游 DNS 服务器 随便输入一个可用的，不用配置太多，因为后面我们要用配置路径的方式用文件来配置上游dns规则,现在配置也会被覆盖掉。建议就输入一个 `223.5.5.5`
 - 负载均衡/并行请求/最快ip地址 建议选择 并行请求
 - Bootstrap DNS 服务器 输入几个公共dns的ip 例如 `123.125.81.6` `223.6.6.6` `119.29.29.29`一行一个
 - DNS 服务配置 速度限制 建议修改20-100左右，我这里配置为50
 - DNS缓存配置 根据自己需求和硬件性能配置我这里配置 缓存大小`1024000` 最小ttl`30` 最大ttl`1800`
 
-> 此时 整个局域网的，包括路由器openwrt自己的dns 均由adguard接管。测试未访问过的网站是否可以正常ping到ip地址。例如：`ping news.163.com` `ping news.baidu.com` `ping image.baidu.com`
+> 此时 整个局域网的，包括路由器openwrt自己的dns 均由adguard接管。测试一个从未访问过的网站是否可以正常ping到ip地址。例如：`ping news.163.com` `ping news.baidu.com` `ping image.baidu.com`
 
 ### adguardhome 配置分流规则
 
@@ -58,29 +60,37 @@ adg的管理面板：设置 > DNS设置
 
 adguard home支持 `[/example.local/]94.140.14.140: 指定为特定域名的上游服务器；` 这样的规则，那么我们只需要整理对应的域名列表 然后指定对应的上游dns即可。但是在adguard home的管理面部中的上游dns配置这个页面 显然不可能输入上几万个域名。但是adguard支持直接用文件配置。而我们又可以从Loyalsoldier等大佬的仓库获得一些我们需要的域名清单。虽然格式不符合要求，但是我们可以自己用程序稍微处理一下让他符合adguard home的格式，再把多个域名清单列表合并到一个里面那就大功告成了。
 
-所以我提供好了 每天会更新的规则文件，你只需要下载回去自己再用脚本修改一下即可。 然后这个脚本 可以用wget下载sed修改，然后添加到计划人物每天运行就可以自动更新了。 地址是 `https://github.com/joyanhui/adguardhome-rules/tree/release_file`
+所以我提供了一个每天会更新的规则文件，你只需要用脚本自动下载回去自己再用脚本修改一下即可。 然后添加把脚本添加到计划任务每天运行就可以自动更新了。 
+
+规则文件在这个仓库分支`release_file`里面 地址是 `https://github.com/joyanhui/adguardhome-rules/tree/release_file`
 
 #### 无辅助上网环境的情况下
 
-你要确定你有办法可以直接方法github的文件，以及有无污染的dns上游可用，建议自己准备一个域名自己从cloudflare自建一个github镜像站和自建一个私有doh.
+你需要先有
+- 可以直接方法github的文件(可是是工具,也可以是别人的一个gh-proxy网址)
+- 有无污染的dns上游
 
-域名，可以申请免费那些域名。不过建议从阿里云或者cloudflare或者其他地方购买一个。8位数字的xyz域名一年只要几块钱。免费的二级域名比较容易在敏感时期全部被大局域网屏蔽，然后dns托管到cloudflare,开通 cloudflare worker。这个网络很多教程。
+##### 自建这里两个东西
+
+建议自己准备一个域名自己从cloudflare自建一个github镜像站和自建一个私有doh.
+域名可以申请免费那些域名。不过建议从阿里云或者cloudflare或者其他地方购买一个。8位数字的xyz域名一年只要几块钱。免费的二级域名比较容易在敏感时期全部被大局域网屏蔽，然后dns托管到cloudflare,开通 cloudflare worker。这个网络很多教程。我就不多说了
 
 - 配置自己的 github代理镜像网址 worker源码 https://github.com/joyanhui/gh-proxy/blob/master/index.js
 - 另外一个 推荐 [cfworks_proxy_alot.js](https://github.com/joyanhui/adguardhome-rules/blob/main/cfworks_proxy_alot.js) from[1234567Yang](https://github.com/1234567Yang/cf-proxy-ex/blob/main/_worker.js)
 - 配置自己的 doh源码： [cfworks_doh.js](https://github.com/joyanhui/adguardhome-rules/blob/main/cfworks_doh.js) 记得修改里面的?dns-query=
+##### 网络上公开的一些 
 
-如果你不想折腾可以从网络搜索其他人的，这里提供几个目前可用的
+如果你不想折腾可以从网络搜索其他人的，这里提供几个目前暂时可用的
 
-##### github proxy 地址收集
+###### github proxy 地址收集
 
 - https://goppx.com/
 - github proxy: https://github.akams.cn/
 - github proxy: https://ghproxy.net/
+- 类jsDelivr的项目 :  https://cdn.jsdmirror.com/
+###### 无污染的 dns 地址收集
 
-##### 无污染的 dns 地址收集
-
-dot因为端口特殊的问题基本都不稳定，doh的话 cloudclare在多数下可用
+dot因为端口特殊的问题基本都不稳定，doh的话 cloudclare在多数下可用. 
 
 - https://dns.cloudflare.com/dns-query
 
