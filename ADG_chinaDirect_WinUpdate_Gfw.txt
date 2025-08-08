@@ -120501,6 +120501,7 @@
 [/bitcointalk.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitcoinworld.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitfinex.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bitget.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bithumb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitmex.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitshare.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -120996,6 +120997,7 @@
 [/clipfish.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloud.dify.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloud.mail.ru/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cloudflare-dns.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudflare-ipfs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudfunctions.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/club1069.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -125123,6 +125125,7 @@
 [/unstable.icu/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unwire.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/uocn.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/upbit.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/updates.tdesktop.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/upghsbc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/upholdjustice.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -125544,7 +125547,6 @@
 [/www.moztw.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.msn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.nbc.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/www.nodeloc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.owind.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.oxid.it/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.powerpointninja.com/]https://d-o-h.you-cf-domain.com/your-suffix
