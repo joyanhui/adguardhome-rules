@@ -71461,8 +71461,6 @@
 [/mypian.com/]tls://dot.pub
 [/mypiao.com/]tls://dot.pub
 [/mypiaojia.com/]tls://dot.pub
-[/mypikpak.com/]tls://dot.pub
-[/mypikpak.net/]tls://dot.pub
 [/mypitaya.com/]tls://dot.pub
 [/mypity.com/]tls://dot.pub
 [/mypiwik.com/]tls://dot.pub
@@ -71729,7 +71727,6 @@
 [/naiveadmin.com/]tls://dot.pub
 [/naiveblue.com/]tls://dot.pub
 [/naiwch.com/]tls://dot.pub
-[/naixi.net/]tls://dot.pub
 [/naixuecha.com/]tls://dot.pub
 [/naiyouxuexi.com/]tls://dot.pub
 [/najingtech.com/]tls://dot.pub
@@ -97561,7 +97558,6 @@
 [/ustbtc.com/]tls://dot.pub
 [/ustc.edu/]tls://dot.pub
 [/ustcers.com/]tls://dot.pub
-[/ustclug.org/]tls://dot.pub
 [/ustui.com/]tls://dot.pub
 [/usuredata.com/]tls://dot.pub
 [/usuuu.com/]tls://dot.pub
@@ -104816,7 +104812,6 @@
 [/xiaomeiti.com/]tls://dot.pub
 [/xiaomeng1235.com/]tls://dot.pub
 [/xiaomi.com/]tls://dot.pub
-[/xiaomi.eu/]tls://dot.pub
 [/xiaomi.hk/]tls://dot.pub
 [/xiaomi.net/]tls://dot.pub
 [/xiaomi.org/]tls://dot.pub
@@ -106602,6 +106597,7 @@
 [/xn--54q23ckxiyx0e.com/]tls://dot.pub
 [/xn--54q249denfzw9a.net/]tls://dot.pub
 [/xn--54q40czz0g7xp.com/]tls://dot.pub
+[/xn--55qw42g/]tls://dot.pub
 [/xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com/]tls://dot.pub
 [/xn--55qwa79fh6ku8czve.com/]tls://dot.pub
 [/xn--55qx2ag79c1iq.com/]tls://dot.pub
