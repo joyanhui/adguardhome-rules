@@ -5148,6 +5148,7 @@
 [/udn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/udn.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/udnbkk.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/udomain.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/uforadio.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ufreevpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ugo.com/]https://d-o-h.you-cf-domain.com/your-suffix
