@@ -54617,7 +54617,6 @@
 [/itiankong.net/]tls://dot.pub
 [/itianliao.com/]tls://dot.pub
 [/itiexue.net/]tls://dot.pub
-[/itiger.com/]tls://dot.pub
 [/itigergrowth.com/]tls://dot.pub
 [/itigergrowtha.com/]tls://dot.pub
 [/itigerup.com/]tls://dot.pub
@@ -61793,7 +61792,6 @@
 [/kowa-dental.com/]tls://dot.pub
 [/kowa103.com/]tls://dot.pub
 [/kowloonhospital.com/]tls://dot.pub
-[/kox.moe/]tls://dot.pub
 [/koyuki.cc/]tls://dot.pub
 [/kpblw.com/]tls://dot.pub
 [/kpbyd.com/]tls://dot.pub
@@ -70630,7 +70628,6 @@
 [/moweather.com/]tls://dot.pub
 [/mowgz.com/]tls://dot.pub
 [/mowowo.com/]tls://dot.pub
-[/mox.moe/]tls://dot.pub
 [/moxfive.xyz/]tls://dot.pub
 [/moxiai.com/]tls://dot.pub
 [/moxian.com/]tls://dot.pub
@@ -98603,7 +98600,6 @@
 [/voip366.com/]tls://dot.pub
 [/vojs.tv/]tls://dot.pub
 [/vokop.com/]tls://dot.pub
-[/vol.moe/]tls://dot.pub
 [/volc-dns.com/]tls://dot.pub
 [/volc-dns.net/]tls://dot.pub
 [/volc-dns.pub/]tls://dot.pub
@@ -122697,6 +122693,7 @@
 [/itemdb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/itemfix.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ithelp.ithome.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/itiger.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/itsaol.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/itshidden.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/itsky.it/]https://d-o-h.you-cf-domain.com/your-suffix
