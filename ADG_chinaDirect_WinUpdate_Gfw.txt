@@ -25648,7 +25648,6 @@
 [/copl.com.hk/]tls://dot.pub
 [/copperalliance.asia/]tls://dot.pub
 [/copperhome.net/]tls://dot.pub
-[/copy-manga.com/]tls://dot.pub
 [/copyedu.com/]tls://dot.pub
 [/copyfuture.com/]tls://dot.pub
 [/copyswisswatches.com/]tls://dot.pub
@@ -29145,6 +29144,7 @@
 [/delixidrive.com/]tls://dot.pub
 [/deliyun.com/]tls://dot.pub
 [/dell-alw.com/]tls://dot.pub
+[/dell-brand.com/]tls://dot.pub
 [/dell027.com/]tls://dot.pub
 [/dellecs.com/]tls://dot.pub
 [/dellemc-solution.com/]tls://dot.pub
@@ -37210,6 +37210,7 @@
 [/functionads.com/]tls://dot.pub
 [/functionaltextilesshanghai.com/]tls://dot.pub
 [/functioncool.com/]tls://dot.pub
+[/functiongraph.run/]tls://dot.pub
 [/fund001.com/]tls://dot.pub
 [/fundebug.com/]tls://dot.pub
 [/fundebug.net/]tls://dot.pub
@@ -67823,9 +67824,7 @@
 [/manfen5.com/]tls://dot.pub
 [/manfred-auto.com/]tls://dot.pub
 [/manfrottoclub.com/]tls://dot.pub
-[/mangacopy.com/]tls://dot.pub
 [/mangafuna.xyz/]tls://dot.pub
-[/mangafunb.fun/]tls://dot.pub
 [/manganesenanhai.com/]tls://dot.pub
 [/mangg.com/]tls://dot.pub
 [/mangguo.com/]tls://dot.pub
@@ -77330,6 +77329,7 @@
 [/plateno.com/]tls://dot.pub
 [/platenogroup.com/]tls://dot.pub
 [/platform-cn.com/]tls://dot.pub
+[/platform.dell.com/]tls://dot.pub
 [/platinum-traveller.com/]tls://dot.pub
 [/platinumchina.com/]tls://dot.pub
 [/play-analytics.com/]tls://dot.pub
@@ -82247,6 +82247,7 @@
 [/robam.com/]tls://dot.pub
 [/robei.com/]tls://dot.pub
 [/roboeyeai.com/]tls://dot.pub
+[/robomaster.com/]tls://dot.pub
 [/roboo.com/]tls://dot.pub
 [/robook.com/]tls://dot.pub
 [/robopeak.net/]tls://dot.pub
@@ -103012,7 +103013,6 @@
 [/www.amd.com/]tls://dot.pub
 [/www.cg/]tls://dot.pub
 [/www.com.my/]tls://dot.pub
-[/www.dell-brand.com/]tls://dot.pub
 [/www.dell.com/]tls://dot.pub
 [/www.djivideos.com/]tls://dot.pub
 [/www.gov.mo/]tls://dot.pub
@@ -118941,6 +118941,7 @@
 [/adcdownload.apple.com.akadns.net/]tls://dot.pub
 [/admob-cn.com/]tls://dot.pub
 [/adservice.google.com/]tls://dot.pub
+[/afcs.dell.com/]tls://dot.pub
 [/ai.zhaomi.cn/]tls://dot.pub
 [/alibaba.cdn.steampipe.steamcontent.com/]tls://dot.pub
 [/amp-api-edge-lb-cn.itunes-apple.com.akadns.net/]tls://dot.pub
@@ -119021,6 +119022,7 @@
 [/client-api.itunes.apple.com/]tls://dot.pub
 [/clientflow.apple.com/]tls://dot.pub
 [/clientflow.apple.com.akadns.net/]tls://dot.pub
+[/clientperipherals.dell.com/]tls://dot.pub
 [/clientservices.googleapis.com/]tls://dot.pub
 [/cma.itunes.apple.com/]tls://dot.pub
 [/cn-smp-paymentservices.apple.com/]tls://dot.pub
@@ -119044,8 +119046,10 @@
 [/cstat.cdn-apple.com/]tls://dot.pub
 [/ctldl.windowsupdate.com/]tls://dot.pub
 [/cueme-api.quark.cn/]tls://dot.pub
+[/customization-cdn.dell.com/]tls://dot.pub
 [/dartsearch-cn.net/]tls://dot.pub
 [/dd-cdn.origin-apple.com.akadns.net/]tls://dot.pub
+[/dds.dell.com/]tls://dot.pub
 [/dejavu.apple.com/]tls://dot.pub
 [/devblogs.microsoft.com/]tls://dot.pub
 [/developer.microsoft.com/]tls://dot.pub
@@ -119053,6 +119057,7 @@
 [/devstreaming-cdn.apple.com/]tls://dot.pub
 [/dg-meta.video.google.com/]tls://dot.pub
 [/discussionschinese.apple.com/]tls://dot.pub
+[/dl.dell.com/]tls://dot.pub
 [/dl.google.com/]tls://dot.pub
 [/dl.l.google.com/]tls://dot.pub
 [/docs.microsoft.com/]tls://dot.pub
@@ -119065,20 +119070,30 @@
 [/download.tensorflow.google.com/]tls://dot.pub
 [/download.visualstudio.microsoft.com/]tls://dot.pub
 [/downloaddispatch.itunes.apple.com/]tls://dot.pub
+[/ea2cn-dev-outlet.dell.com/]tls://dot.pub
+[/ea2cn-prod-outlet.dell.com/]tls://dot.pub
+[/ea2cn-staging-outlet.dell.com/]tls://dot.pub
 [/emmapplecodevice.googleapis.com/]tls://dot.pub
 [/emoi-cncdn.bing.com/]tls://dot.pub
 [/experiments.apple.com/]tls://dot.pub
 [/f.c2r.ts.cdn.office.net/]tls://dot.pub
+[/fcs.dell.com/]tls://dot.pub
 [/fides-pol.apple.com/]tls://dot.pub
 [/firebase-settings.crashlytics.com/]tls://dot.pub
 [/fontfiles.googleapis.com/]tls://dot.pub
 [/fonts.googleapis.com/]tls://dot.pub
 [/fonts.gstatic.com/]tls://dot.pub
 [/fs.microsoft.com/]tls://dot.pub
+[/fta.dell.com/]tls://dot.pub
+[/ftaapj.dell.com/]tls://dot.pub
+[/ftaemea.dell.com/]tls://dot.pub
+[/ftasitapj.dell.com/]tls://dot.pub
 [/g0.gstatic.com/]tls://dot.pub
 [/g1.gstatic.com/]tls://dot.pub
 [/g2.gstatic.com/]tls://dot.pub
 [/g3.gstatic.com/]tls://dot.pub
+[/gbxgateway-dev.dell.com/]tls://dot.pub
+[/gbxgateway.dell.com/]tls://dot.pub
 [/geetest.datasink.sensorsdata.cn/]tls://dot.pub
 [/go.corp.google.com/]tls://dot.pub
 [/gog-cdn-fastly.gog.com/]tls://dot.pub
@@ -119135,6 +119150,7 @@
 [/hellofontpreview.oss-cn-beijing.aliyuncs.com/]tls://dot.pub
 [/hellowebfonts.oss-cn-beijing.aliyuncs.com/]tls://dot.pub
 [/hospital.pku.edu.cn/]tls://dot.pub
+[/i.dell.com/]tls://dot.pub
 [/i.pki.goog/]tls://dot.pub
 [/icloud-cdn.icloud.com.akadns.net/]tls://dot.pub
 [/icloud.cdn-apple.com/]tls://dot.pub
@@ -119199,6 +119215,7 @@
 [/music.apple.com/]tls://dot.pub
 [/myapp.itunes.apple.com/]tls://dot.pub
 [/myvs.download.prss.microsoft.com/]tls://dot.pub
+[/nexus.dell.com/]tls://dot.pub
 [/np-edge.itunes.apple.com/]tls://dot.pub
 [/ntp.aliyun.com/]tls://dot.pub
 [/ntp.tencent.com/]tls://dot.pub
@@ -119227,6 +119244,7 @@
 [/oscdn.origin-apple.com.akadns.net/]tls://dot.pub
 [/osxapps.itunes.apple.com/]tls://dot.pub
 [/osxapps.itunes.g.aaplimg.com/]tls://dot.pub
+[/p.cdn.persaas.dell.com/]tls://dot.pub
 [/p1-juejin.byteimg.com/]tls://dot.pub
 [/p2-juejin.byteimg.com/]tls://dot.pub
 [/p3-juejin.byteimg.com/]tls://dot.pub
@@ -119290,6 +119308,7 @@
 [/safebrowsing-cache.google.com/]tls://dot.pub
 [/safebrowsing.googleapis.com/]tls://dot.pub
 [/scanservice1.qcpp1.net/]tls://dot.pub
+[/scene7-cdn.dell.com/]tls://dot.pub
 [/sdx.microsoft.com/]tls://dot.pub
 [/se-edge.itunes.apple.com/]tls://dot.pub
 [/se2.itunes.apple.com/]tls://dot.pub
@@ -119303,9 +119322,13 @@
 [/sh-pod2-smp-device.apple.com/]tls://dot.pub
 [/shazam-insights.cdn-apple.com/]tls://dot.pub
 [/shell.cdn.office.net/]tls://dot.pub
+[/si.cdn.dell.com/]tls://dot.pub
 [/silverlight.dlservice.microsoft.com/]tls://dot.pub
 [/slupdate.dlservice.microsoft.com/]tls://dot.pub
+[/sm.dell.com/]tls://dot.pub
 [/smp-device-content.apple.com/]tls://dot.pub
+[/snp.cdn.dell.com/]tls://dot.pub
+[/snpi.dell.com/]tls://dot.pub
 [/software.download.prss.microsoft.com/]tls://dot.pub
 [/sp.itunes.apple.com/]tls://dot.pub
 [/ss.bjmu.edu.cn/]tls://dot.pub
@@ -119337,6 +119360,7 @@
 [/sup.l.google.com/]tls://dot.pub
 [/support-china.apple-support.akadns.net/]tls://dot.pub
 [/support.apple.com/]tls://dot.pub
+[/supportassist.dell.com/]tls://dot.pub
 [/surface.downloads.prss.microsoft.com/]tls://dot.pub
 [/swallow-apple-com.v.aaplimg.com/]tls://dot.pub
 [/swallow.apple.com/]tls://dot.pub
@@ -119383,11 +119407,13 @@
 [/wl.dlservice.microsoft.com/]tls://dot.pub
 [/wscont1.apps.microsoft.com/]tls://dot.pub
 [/wscont2.apps.microsoft.com/]tls://dot.pub
+[/www-csb.dell.com/]tls://dot.pub
 [/www-google-analytics.l.google.com/]tls://dot.pub
 [/www-googletagmanager.l.google.com/]tls://dot.pub
 [/www.amd.com/]tls://dot.pub
 [/www.apple.com/]tls://dot.pub
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub
+[/www.dell.com/]tls://dot.pub
 [/www.destinationurl.com/]tls://dot.pub
 [/www.entrust.cn/]tls://dot.pub
 [/www.gstatic.com/]tls://dot.pub
@@ -121625,6 +121651,7 @@
 [/fdc89.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/feedburner.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/feeder.co/]https://d-o-h.you-cf-domain.com/your-suffix
+[/feedly.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/feeds.fileforum.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/feedx.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/feelssh.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -123255,6 +123282,7 @@
 [/mog.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mohu.club/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mohu.rocks/]https://d-o-h.you-cf-domain.com/your-suffix
+[/moj.gov.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mojim.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mol.gov.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/molihua.org/]https://d-o-h.you-cf-domain.com/your-suffix
