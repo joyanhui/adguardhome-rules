@@ -735,6 +735,8 @@
 [/bsky.app/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bsky.network/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bsky.social/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bt4g.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bt4gprx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bt95.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btaia.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btbit.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4681,6 +4683,7 @@
 [/talkonly.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tanc.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tangren.us/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tanks.gg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taoism.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tapanwap.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tapatalk.com/]https://d-o-h.you-cf-domain.com/your-suffix
