@@ -2970,6 +2970,7 @@
 [/2366.com/]tls://dot.pub
 [/23673.com/]tls://dot.pub
 [/236z.com/]tls://dot.pub
+[/2375sj.com/]tls://dot.pub
 [/237y.com/]tls://dot.pub
 [/238000.net/]tls://dot.pub
 [/238090.com/]tls://dot.pub
@@ -16049,6 +16050,7 @@
 [/biqugao.cc/]tls://dot.pub
 [/biquge.info/]tls://dot.pub
 [/biquge.la/]tls://dot.pub
+[/biquge123.com/]tls://dot.pub
 [/biquge365.com/]tls://dot.pub
 [/biquge8.com/]tls://dot.pub
 [/biquge9.cc/]tls://dot.pub
@@ -18113,6 +18115,7 @@
 [/bxshopya.com/]tls://dot.pub
 [/bxshscc.xyz/]tls://dot.pub
 [/bxsnews.com/]tls://dot.pub
+[/bxtag.com/]tls://dot.pub
 [/bxv8.com/]tls://dot.pub
 [/bxwatch.com/]tls://dot.pub
 [/bxwljt.com/]tls://dot.pub
@@ -19417,6 +19420,7 @@
 [/ccoalnews.com/]tls://dot.pub
 [/ccoaonline.com/]tls://dot.pub
 [/ccoco.vip/]tls://dot.pub
+[/ccode.cc/]tls://dot.pub
 [/ccoi.ren/]tls://dot.pub
 [/cconn.cc/]tls://dot.pub
 [/ccoop.net/]tls://dot.pub
@@ -23962,6 +23966,7 @@
 [/cn.bing.net/]tls://dot.pub
 [/cn.mm.bing.net/]tls://dot.pub
 [/cn.net/]tls://dot.pub
+[/cn.online.standardchartered.com/]tls://dot.pub
 [/cn.pool.ntp.org/]tls://dot.pub
 [/cn.vc/]tls://dot.pub
 [/cn.windowssearch.com/]tls://dot.pub
@@ -31075,6 +31080,7 @@
 [/drivergenius.com/]tls://dot.pub
 [/drivers.amd.com/]tls://dot.pub
 [/driverzeng.com/]tls://dot.pub
+[/driverzj.com/]tls://dot.pub
 [/drivethelife.com/]tls://dot.pub
 [/drjou.cc/]tls://dot.pub
 [/drjy6688.com/]tls://dot.pub
@@ -34990,6 +34996,7 @@
 [/feihe.com/]tls://dot.pub
 [/feihe168.com/]tls://dot.pub
 [/feiheair.com/]tls://dot.pub
+[/feihengip.com/]tls://dot.pub
 [/feihonghb.com/]tls://dot.pub
 [/feihongtec.com/]tls://dot.pub
 [/feihu.me/]tls://dot.pub
@@ -35873,6 +35880,7 @@
 [/fleety.com/]tls://dot.pub
 [/flexifont.com/]tls://dot.pub
 [/fleyun.com/]tls://dot.pub
+[/flfc5999.com/]tls://dot.pub
 [/flgame.net/]tls://dot.pub
 [/flhimalayandn.com/]tls://dot.pub
 [/fliggy.com/]tls://dot.pub
@@ -37598,6 +37606,7 @@
 [/gaojima.com/]tls://dot.pub
 [/gaojipro.com/]tls://dot.pub
 [/gaojitui.com/]tls://dot.pub
+[/gaojiua.com/]tls://dot.pub
 [/gaokao.com/]tls://dot.pub
 [/gaokao365.com/]tls://dot.pub
 [/gaokao789.com/]tls://dot.pub
@@ -44492,6 +44501,7 @@
 [/haluan2u.com/]tls://dot.pub
 [/haluoha.com/]tls://dot.pub
 [/haluolinks.com/]tls://dot.pub
+[/halvie.com/]tls://dot.pub
 [/hamdl.com/]tls://dot.pub
 [/hamedal.com/]tls://dot.pub
 [/haminol.com/]tls://dot.pub
@@ -55995,6 +56005,7 @@
 [/jikecdn.com/]tls://dot.pub
 [/jikedata.com/]tls://dot.pub
 [/jikedingyue.com/]tls://dot.pub
+[/jikedog.com/]tls://dot.pub
 [/jikefan.com/]tls://dot.pub
 [/jikegou.net/]tls://dot.pub
 [/jikeiot.cloud/]tls://dot.pub
@@ -57029,6 +57040,7 @@
 [/jkcorkpads.com/]tls://dot.pub
 [/jkcsjd.com/]tls://dot.pub
 [/jkd.com/]tls://dot.pub
+[/jkd360.com/]tls://dot.pub
 [/jkdsz.com/]tls://dot.pub
 [/jkelec.com/]tls://dot.pub
 [/jkh-ym.com/]tls://dot.pub
@@ -59528,6 +59540,7 @@
 [/kagirl.net/]tls://dot.pub
 [/kah8.com/]tls://dot.pub
 [/kahaozhushou.com/]tls://dot.pub
+[/kahuodong.com/]tls://dot.pub
 [/kai-asia-hk.com/]tls://dot.pub
 [/kai-lun.net/]tls://dot.pub
 [/kai-ying.com/]tls://dot.pub
@@ -63907,6 +63920,7 @@
 [/likangwei.com/]tls://dot.pub
 [/like.video/]tls://dot.pub
 [/like996.icu/]tls://dot.pub
+[/likeaboat2023.com/]tls://dot.pub
 [/likeacg.com/]tls://dot.pub
 [/likebuy.com/]tls://dot.pub
 [/likecha.com/]tls://dot.pub
@@ -67543,6 +67557,7 @@
 [/mc-dj.com/]tls://dot.pub
 [/mc-f.com/]tls://dot.pub
 [/mc-test.com/]tls://dot.pub
+[/mc-user.com/]tls://dot.pub
 [/mc-xborder.com/]tls://dot.pub
 [/mc.cc/]tls://dot.pub
 [/mc1314.com/]tls://dot.pub
@@ -67627,6 +67642,7 @@
 [/mcwshop.com/]tls://dot.pub
 [/mcx666.com/]tls://dot.pub
 [/mcxzs.com/]tls://dot.pub
+[/mcy003.org/]tls://dot.pub
 [/mcyhfl.com/]tls://dot.pub
 [/mcypls.com/]tls://dot.pub
 [/mcyz.com/]tls://dot.pub
@@ -70507,6 +70523,7 @@
 [/mycoss.com/]tls://dot.pub
 [/mycoss.net/]tls://dot.pub
 [/mycoss.org/]tls://dot.pub
+[/mycplife.com/]tls://dot.pub
 [/mycqgc.com/]tls://dot.pub
 [/mycreate.net/]tls://dot.pub
 [/mycyjg.com/]tls://dot.pub
@@ -71476,6 +71493,7 @@
 [/necool.com/]tls://dot.pub
 [/nedfon.co/]tls://dot.pub
 [/nedigitals.com/]tls://dot.pub
+[/neeca.net/]tls://dot.pub
 [/neefood.com/]tls://dot.pub
 [/neegle.net/]tls://dot.pub
 [/neeinn.com/]tls://dot.pub
@@ -77056,6 +77074,7 @@
 [/printhr.com/]tls://dot.pub
 [/printidea.art/]tls://dot.pub
 [/printlake.com/]tls://dot.pub
+[/privateapi.xyz/]tls://dot.pub
 [/privatess.win/]tls://dot.pub
 [/privspace.net/]tls://dot.pub
 [/prjdrj.com/]tls://dot.pub
@@ -81251,6 +81270,7 @@
 [/rjaaa.com/]tls://dot.pub
 [/rjcopy.com/]tls://dot.pub
 [/rjdk.org/]tls://dot.pub
+[/rjdownd.com/]tls://dot.pub
 [/rjetech.com/]tls://dot.pub
 [/rjeye.com/]tls://dot.pub
 [/rjfc110.com/]tls://dot.pub
@@ -88010,6 +88030,7 @@
 [/softbanks.net/]tls://dot.pub
 [/softbar.com/]tls://dot.pub
 [/softbingo.net/]tls://dot.pub
+[/softdownd.com/]tls://dot.pub
 [/softgostop.com/]tls://dot.pub
 [/softhome.cc/]tls://dot.pub
 [/softjinzhou.com/]tls://dot.pub
@@ -92063,6 +92084,7 @@
 [/tcfhty.com/]tls://dot.pub
 [/tcfmglobal.com/]tls://dot.pub
 [/tcgcardgame.com/]tls://dot.pub
+[/tcgdxyb.xyz/]tls://dot.pub
 [/tcggkj.com/]tls://dot.pub
 [/tcgke.com/]tls://dot.pub
 [/tcgsw.com/]tls://dot.pub
@@ -95740,6 +95762,7 @@
 [/u9u8.com/]tls://dot.pub
 [/u9u9.com/]tls://dot.pub
 [/u9wan.com/]tls://dot.pub
+[/uabkrsj.xyz/]tls://dot.pub
 [/uaff7j.com/]tls://dot.pub
 [/uahh.site/]tls://dot.pub
 [/uancf.com/]tls://dot.pub
@@ -99132,6 +99155,7 @@
 [/weihz.net/]tls://dot.pub
 [/weii.cc/]tls://dot.pub
 [/weiixxin.com/]tls://dot.pub
+[/weijia1999.com/]tls://dot.pub
 [/weijiancloud.com/]tls://dot.pub
 [/weijianmen.com/]tls://dot.pub
 [/weijingzhijia.com/]tls://dot.pub
@@ -99530,6 +99554,7 @@
 [/wenjuan.net/]tls://dot.pub
 [/wenjuan.pub/]tls://dot.pub
 [/wenjuanba.com/]tls://dot.pub
+[/wenjuanbang.com/]tls://dot.pub
 [/wenjuanshow.com/]tls://dot.pub
 [/wenjuntech.com/]tls://dot.pub
 [/wenkaoba.com/]tls://dot.pub
@@ -100457,6 +100482,7 @@
 [/windows10zj.com/]tls://dot.pub
 [/windows11.pro/]tls://dot.pub
 [/windows7en.com/]tls://dot.pub
+[/windowstool.net/]tls://dot.pub
 [/windowszj.com/]tls://dot.pub
 [/windpayer.com/]tls://dot.pub
 [/winds.red/]tls://dot.pub
@@ -102520,6 +102546,7 @@
 [/x81zw2.com/]tls://dot.pub
 [/x821.com/]tls://dot.pub
 [/x86android.com/]tls://dot.pub
+[/x86pi.com/]tls://dot.pub
 [/x8ds.com/]tls://dot.pub
 [/x8sb.com/]tls://dot.pub
 [/x9393.com/]tls://dot.pub
@@ -103412,6 +103439,7 @@
 [/xiangyueedu.com/]tls://dot.pub
 [/xiangyuezhongxue.com/]tls://dot.pub
 [/xiangyujiankang.com/]tls://dot.pub
+[/xiangyuncdn.com/]tls://dot.pub
 [/xiangyungx.com/]tls://dot.pub
 [/xiangyuyaoye.com/]tls://dot.pub
 [/xiangzhan.com/]tls://dot.pub
@@ -111784,6 +111812,7 @@
 [/yuqinpin.com/]tls://dot.pub
 [/yuquanhosp.com/]tls://dot.pub
 [/yuque.com/]tls://dot.pub
+[/yur09130og.com/]tls://dot.pub
 [/yuren.org/]tls://dot.pub
 [/yuriimg.com/]tls://dot.pub
 [/yurongoptical.com/]tls://dot.pub
@@ -121955,6 +121984,7 @@
 [/mcaf.ee/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mcfog.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mcreasite.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mcusercontent.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/md-t.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/me.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/me.ns.ci/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -123149,6 +123179,7 @@
 [/simpleproductivityblog.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/simpleswap.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/simplex.chat/]https://d-o-h.you-cf-domain.com/your-suffix
+[/sina.com.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sinchew.com.my/]https://d-o-h.you-cf-domain.com/your-suffix
 [/singaporepools.com.sg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/singfortibet.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -123449,6 +123480,7 @@
 [/taiwanus.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taiwanyes.ning.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/talk853.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/talkatone.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/talkboxapp.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/talkcc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/talkonly.net/]https://d-o-h.you-cf-domain.com/your-suffix
