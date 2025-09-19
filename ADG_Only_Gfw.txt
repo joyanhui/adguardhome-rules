@@ -1904,6 +1904,7 @@
 [/gardennetworks.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gardennetworks.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gartlive.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/garudalinux.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gate.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gatecoin.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gather.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1979,6 +1980,7 @@
 [/githubassets.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/githubcopilot.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/githubusercontent.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/gitlab.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gitlab.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gizlen.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gjczz.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3560,6 +3562,7 @@
 [/ninjacloak.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ninjaproxy.ninja/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nintendium.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nirsoft.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nitter.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nitter.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/niu.moe/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -5395,6 +5398,7 @@
 [/vpnworldwide.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vporn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vpser.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/vpsxb.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vraiesagesse.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vrchat.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vrmtr.com/]https://d-o-h.you-cf-domain.com/your-suffix
