@@ -5160,7 +5160,6 @@
 [/uberproxy.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/uc-japan.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/uchicago.edu/]https://d-o-h.you-cf-domain.com/your-suffix
-[/uderzo.it/]https://d-o-h.you-cf-domain.com/your-suffix
 [/udn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/udn.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/udnbkk.com/]https://d-o-h.you-cf-domain.com/your-suffix
