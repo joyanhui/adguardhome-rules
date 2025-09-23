@@ -304,6 +304,7 @@
 [/api-secure.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api-verify.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.ai/]https://d-o-h.you-cf-domain.com/your-suffix
+[/api.palworldgame.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.pureapk.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.steampowered.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3662,6 +3663,7 @@
 [/ocreampies.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ocry.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/october-review.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/octocaptcha.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/oculus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/oculuscdn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/odysee.com/]https://d-o-h.you-cf-domain.com/your-suffix
