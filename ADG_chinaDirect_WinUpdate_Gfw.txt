@@ -4122,7 +4122,6 @@
 [/388155.com/]tls://dot.pub
 [/388g.com/]tls://dot.pub
 [/3892222.com/]tls://dot.pub
-[/3899.net/]tls://dot.pub
 [/38999h.vip/]tls://dot.pub
 [/38blog.com/]tls://dot.pub
 [/38c99.com/]tls://dot.pub
@@ -7945,6 +7944,7 @@
 [/835images61.com/]tls://dot.pub
 [/835images73.com/]tls://dot.pub
 [/835images76.com/]tls://dot.pub
+[/835images83.com/]tls://dot.pub
 [/83661111.net/]tls://dot.pub
 [/83666.com/]tls://dot.pub
 [/83692.com/]tls://dot.pub
@@ -10419,7 +10419,6 @@
 [/ai012.com/]tls://dot.pub
 [/ai0513.com/]tls://dot.pub
 [/ai257.com/]tls://dot.pub
-[/ai2news.com/]tls://dot.pub
 [/ai572.com/]tls://dot.pub
 [/ai7.com/]tls://dot.pub
 [/ai7.org/]tls://dot.pub
@@ -13594,7 +13593,6 @@
 [/babeijiu.com/]tls://dot.pub
 [/babifood.com/]tls://dot.pub
 [/babiguoguo.com/]tls://dot.pub
-[/bablace.com/]tls://dot.pub
 [/babolchina.com/]tls://dot.pub
 [/baboshan.com/]tls://dot.pub
 [/babsoft.net/]tls://dot.pub
@@ -14388,7 +14386,6 @@
 [/baoyehb.com/]tls://dot.pub
 [/baoyejs.com/]tls://dot.pub
 [/baoying.com/]tls://dot.pub
-[/baoyingxiao.com/]tls://dot.pub
 [/baoyizn.com/]tls://dot.pub
 [/baoyt.com/]tls://dot.pub
 [/baoyuanchem.com/]tls://dot.pub
@@ -14579,7 +14576,6 @@
 [/bbs1x.net/]tls://dot.pub
 [/bbscloud.com/]tls://dot.pub
 [/bbsds.com/]tls://dot.pub
-[/bbsheji.com/]tls://dot.pub
 [/bbsls.net/]tls://dot.pub
 [/bbsmc.net/]tls://dot.pub
 [/bbsnet.com/]tls://dot.pub
@@ -24235,7 +24231,6 @@
 [/cnibx.com/]tls://dot.pub
 [/cniceberg.com/]tls://dot.pub
 [/cnicif.com/]tls://dot.pub
-[/cnidea.net/]tls://dot.pub
 [/cnielts.com/]tls://dot.pub
 [/cniiib.com/]tls://dot.pub
 [/cnimg.elex.com/]tls://dot.pub
@@ -29653,7 +29648,6 @@
 [/diqua.com/]tls://dot.pub
 [/dir001.com/]tls://dot.pub
 [/dir28.com/]tls://dot.pub
-[/dircash-promost.com/]tls://dot.pub
 [/directui.com/]tls://dot.pub
 [/dis9.net/]tls://dot.pub
 [/discountedkwatch.com/]tls://dot.pub
@@ -32083,7 +32077,6 @@
 [/easynet.vip/]tls://dot.pub
 [/easypakk.com/]tls://dot.pub
 [/easypayx.com/]tls://dot.pub
-[/easyreadtech.com/]tls://dot.pub
 [/easyrecovery.cc/]tls://dot.pub
 [/easyrecovery.net/]tls://dot.pub
 [/easyrecoverychina.com/]tls://dot.pub
@@ -38083,7 +38076,6 @@
 [/gdxdpg.com/]tls://dot.pub
 [/gdxdy.com/]tls://dot.pub
 [/gdxfl.com/]tls://dot.pub
-[/gdxianghai.com/]tls://dot.pub
 [/gdxindun.com/]tls://dot.pub
 [/gdxinqiang168.com/]tls://dot.pub
 [/gdxinxiang.com/]tls://dot.pub
@@ -53082,6 +53074,7 @@
 [/iok.la/]tls://dot.pub
 [/iol8.com/]tls://dot.pub
 [/ioms.cc/]tls://dot.pub
+[/ionchi.com/]tls://dot.pub
 [/ioncol.com/]tls://dot.pub
 [/ioneball.com/]tls://dot.pub
 [/ionewu.com/]tls://dot.pub
@@ -62282,6 +62275,7 @@
 [/lb-yz.com/]tls://dot.pub
 [/lb0398.com/]tls://dot.pub
 [/lb5.com/]tls://dot.pub
+[/lb54hon504ke.com/]tls://dot.pub
 [/lbbb.cc/]tls://dot.pub
 [/lbbee.com/]tls://dot.pub
 [/lbbniu.com/]tls://dot.pub
@@ -64612,7 +64606,6 @@
 [/lockscreenimg.com/]tls://dot.pub
 [/locnavi.com/]tls://dot.pub
 [/locojoy.com/]tls://dot.pub
-[/locoso.com/]tls://dot.pub
 [/locoy.com/]tls://dot.pub
 [/locoyposter.com/]tls://dot.pub
 [/locren.com/]tls://dot.pub
@@ -75345,7 +75338,6 @@
 [/peizi.com/]tls://dot.pub
 [/pejgzc.com/]tls://dot.pub
 [/pejxjy.com/]tls://dot.pub
-[/pek0b0.com/]tls://dot.pub
 [/pekhongyuan.com/]tls://dot.pub
 [/peksung.com/]tls://dot.pub
 [/pelejs.com/]tls://dot.pub
@@ -75381,7 +75373,6 @@
 [/pengyoukan.com/]tls://dot.pub
 [/pengyuanled.com/]tls://dot.pub
 [/pengyucpa.com/]tls://dot.pub
-[/pengyunxin.com/]tls://dot.pub
 [/pengyuwei.net/]tls://dot.pub
 [/pengzhihui.xyz/]tls://dot.pub
 [/penhuijiqi.com/]tls://dot.pub
@@ -78957,7 +78948,6 @@
 [/qsgx-pt.com/]tls://dot.pub
 [/qshang.com/]tls://dot.pub
 [/qshealth.com/]tls://dot.pub
-[/qshlh.com/]tls://dot.pub
 [/qsiedu.com/]tls://dot.pub
 [/qsiso.com/]tls://dot.pub
 [/qsjsjt.com/]tls://dot.pub
@@ -82396,6 +82386,7 @@
 [/scdnurea.com/]tls://dot.pub
 [/scdnv7uq.com/]tls://dot.pub
 [/scdnvij7.com/]tls://dot.pub
+[/scdnvip.com/]tls://dot.pub
 [/scdnw4kb.com/]tls://dot.pub
 [/scdnwehb.com/]tls://dot.pub
 [/scdnwljp.com/]tls://dot.pub
@@ -86221,7 +86212,6 @@
 [/sihotels.com/]tls://dot.pub
 [/sihuanpharm.com/]tls://dot.pub
 [/sihui-electric.com/]tls://dot.pub
-[/sihuida.net/]tls://dot.pub
 [/sihuisoft.com/]tls://dot.pub
 [/sihuixiqu.com/]tls://dot.pub
 [/sihuiyiliao.com/]tls://dot.pub
@@ -87450,6 +87440,7 @@
 [/so03300koaq.com/]tls://dot.pub
 [/so04060koaq.com/]tls://dot.pub
 [/so04061koaq.com/]tls://dot.pub
+[/so123.com/]tls://dot.pub
 [/so126.com/]tls://dot.pub
 [/so138.com/]tls://dot.pub
 [/so50.com/]tls://dot.pub
@@ -88625,6 +88616,7 @@
 [/store12.com/]tls://dot.pub
 [/storeapi.net/]tls://dot.pub
 [/storecorefulfillment.download.prss.microsoft.com/]tls://dot.pub
+[/storeedge.microsoft.com/]tls://dot.pub
 [/storeedgefd.dsx.mp.microsoft.com/]tls://dot.pub
 [/storkapp.me/]tls://dot.pub
 [/stormorai.com/]tls://dot.pub
@@ -89442,7 +89434,6 @@
 [/swordart.online/]tls://dot.pub
 [/swordofmorning.com/]tls://dot.pub
 [/swordtt.com/]tls://dot.pub
-[/swotbbs.com/]tls://dot.pub
 [/swpubar.com/]tls://dot.pub
 [/swq242xc54.com/]tls://dot.pub
 [/swrjzxw.com/]tls://dot.pub
@@ -94859,7 +94850,6 @@
 [/twatchmall.com/]tls://dot.pub
 [/twcczhu.com/]tls://dot.pub
 [/twcoal.com/]tls://dot.pub
-[/twd.icu/]tls://dot.pub
 [/twd2.me/]tls://dot.pub
 [/twd2.net/]tls://dot.pub
 [/twdxdl.com/]tls://dot.pub
@@ -96410,7 +96400,6 @@
 [/vastman.com/]tls://dot.pub
 [/vastsea.com/]tls://dot.pub
 [/vastteq.com/]tls://dot.pub
-[/vatdydw.com/]tls://dot.pub
 [/vatech-china.com/]tls://dot.pub
 [/vattenvalve.com/]tls://dot.pub
 [/vauoo.com/]tls://dot.pub
@@ -96801,6 +96790,7 @@
 [/vipbuluo.com/]tls://dot.pub
 [/vipcaocao.com/]tls://dot.pub
 [/vipchina.com/]tls://dot.pub
+[/vipcname.com/]tls://dot.pub
 [/vipcto.com/]tls://dot.pub
 [/vipdlt.com/]tls://dot.pub
 [/vipersaudio.com/]tls://dot.pub
@@ -99856,6 +99846,7 @@
 [/wikicaring.com/]tls://dot.pub
 [/wikielife.com/]tls://dot.pub
 [/wikiimgs.com/]tls://dot.pub
+[/wildcardx.net/]tls://dot.pub
 [/wilddog.com/]tls://dot.pub
 [/wilddream.net/]tls://dot.pub
 [/wildgun.net/]tls://dot.pub
@@ -107391,6 +107382,7 @@
 [/yebangyu.org/]tls://dot.pub
 [/yebaojiasu.com/]tls://dot.pub
 [/yeboyzq.com/]tls://dot.pub
+[/yebrewing.com/]tls://dot.pub
 [/yecao.fun/]tls://dot.pub
 [/yecao.net/]tls://dot.pub
 [/yecaoyun.com/]tls://dot.pub
@@ -109984,7 +109976,6 @@
 [/ypattern.com/]tls://dot.pub
 [/ypc-fc.com/]tls://dot.pub
 [/ypfph.com/]tls://dot.pub
-[/ypgjrz.com/]tls://dot.pub
 [/ypgyyq.com/]tls://dot.pub
 [/yph-shop.com/]tls://dot.pub
 [/yphbuy.com/]tls://dot.pub
