@@ -752,7 +752,6 @@
 [/btcbank.bank/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btctrade.im/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btdig.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/btdigg.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btguard.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btku.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/btku.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -5472,6 +5471,7 @@
 [/webrtc.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/webrush.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/webs-tv.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/websdr.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/website.informer.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/website.new/]https://d-o-h.you-cf-domain.com/your-suffix
 [/websitepulse.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -5719,6 +5719,7 @@
 [/xn--noss43i.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--oiq.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--p8j9a0d9c9a.xn--q9jyb4c/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xn--u2u927b.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xnpool.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xnxx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xpdo.net/]https://d-o-h.you-cf-domain.com/your-suffix
