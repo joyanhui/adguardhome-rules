@@ -1366,6 +1366,7 @@
 [/123242.com/]tls://dot.pub
 [/123245.com/]tls://dot.pub
 [/123254.com/]tls://dot.pub
+[/123294.com/]tls://dot.pub
 [/123295.com/]tls://dot.pub
 [/123326.com/]tls://dot.pub
 [/12333.com/]tls://dot.pub
@@ -9614,6 +9615,7 @@
 [/accuramed.com/]tls://dot.pub
 [/accurate-china.com/]tls://dot.pub
 [/accurate520.com/]tls://dot.pub
+[/accxiaoheihe.com/]tls://dot.pub
 [/acdianyuan.com/]tls://dot.pub
 [/ace-info.com/]tls://dot.pub
 [/ace-pow.com/]tls://dot.pub
@@ -13015,6 +13017,7 @@
 [/autohenan.com/]tls://dot.pub
 [/autoho.com/]tls://dot.pub
 [/autohome.com/]tls://dot.pub
+[/autohome.tel/]tls://dot.pub
 [/autohr.org/]tls://dot.pub
 [/autohunan.com/]tls://dot.pub
 [/autoij.com/]tls://dot.pub
@@ -20544,6 +20547,7 @@
 [/chayu.com/]tls://dot.pub
 [/chayueshebao.com/]tls://dot.pub
 [/chayuqing.com/]tls://dot.pub
+[/chaz.fun/]tls://dot.pub
 [/chazhengla.com/]tls://dot.pub
 [/chazidian.com/]tls://dot.pub
 [/chaziyu.com/]tls://dot.pub
@@ -22585,6 +22589,7 @@
 [/chuizi.net/]tls://dot.pub
 [/chujian.xyz/]tls://dot.pub
 [/chujing-electric.com/]tls://dot.pub
+[/chujingapp.com/]tls://dot.pub
 [/chujuan.net/]tls://dot.pub
 [/chujunkeji.com/]tls://dot.pub
 [/chukong-inc.com/]tls://dot.pub
@@ -40348,6 +40353,7 @@
 [/guazhuan.com/]tls://dot.pub
 [/guazi-apps.com/]tls://dot.pub
 [/guazi.com/]tls://dot.pub
+[/guazi.net/]tls://dot.pub
 [/guazipai.com/]tls://dot.pub
 [/guazistatic.com/]tls://dot.pub
 [/guazixs.com/]tls://dot.pub
@@ -52203,6 +52209,8 @@
 [/imcec.org/]tls://dot.pub
 [/imchinese.net/]tls://dot.pub
 [/imcn.me/]tls://dot.pub
+[/imcome.net/]tls://dot.pub
+[/imcoming.com/]tls://dot.pub
 [/imconlinereg.com/]tls://dot.pub
 [/imd-marketing.com/]tls://dot.pub
 [/imdadui.com/]tls://dot.pub
@@ -65480,6 +65488,8 @@
 [/lyd-china.com/]tls://dot.pub
 [/lyd6688.com/]tls://dot.pub
 [/lydaas.com/]tls://dot.pub
+[/lydaas.net/]tls://dot.pub
+[/lydass.net/]tls://dot.pub
 [/lydezx.net/]tls://dot.pub
 [/lydfyy.com/]tls://dot.pub
 [/lydhb888.com/]tls://dot.pub
@@ -93362,6 +93372,7 @@
 [/towavephone.com/]tls://dot.pub
 [/towelltech.com/]tls://dot.pub
 [/tower.im/]tls://dot.pub
+[/tower0788.com/]tls://dot.pub
 [/towinor.com/]tls://dot.pub
 [/towmfs.com/]tls://dot.pub
 [/towmy.com/]tls://dot.pub
@@ -101834,6 +101845,7 @@
 [/xdpjump.com/]tls://dot.pub
 [/xdplt.com/]tls://dot.pub
 [/xdpvp.com/]tls://dot.pub
+[/xdqtech.com/]tls://dot.pub
 [/xdrcftv.com/]tls://dot.pub
 [/xdressy.com/]tls://dot.pub
 [/xdrig.com/]tls://dot.pub
@@ -115633,6 +115645,7 @@
 [/ztmao.com/]tls://dot.pub
 [/ztmvip.com/]tls://dot.pub
 [/ztn.com/]tls://dot.pub
+[/ztna-dingtalk.com/]tls://dot.pub
 [/ztnews.net/]tls://dot.pub
 [/ztno.com/]tls://dot.pub
 [/ztny188.com/]tls://dot.pub
