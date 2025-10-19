@@ -116765,8 +116765,6 @@
 [/ml.cdn-apple.com/]tls://dot.pub
 [/monitoring.qpdp1.net/]tls://dot.pub
 [/moocs.unipus.cn/]tls://dot.pub
-[/msgr.dlservice.microsoft.com/]tls://dot.pub
-[/msgruser.dlservice.microsoft.com/]tls://dot.pub
 [/music.apple.com/]tls://dot.pub
 [/myapp.itunes.apple.com/]tls://dot.pub
 [/myvs.download.prss.microsoft.com/]tls://dot.pub
@@ -116831,7 +116829,6 @@
 [/publicassets.cdn-apple.com/]tls://dot.pub
 [/qagpublic.qatp1.net/]tls://dot.pub
 [/qgadmin.qcpp1.net/]tls://dot.pub
-[/qh.dlservice.microsoft.com/]tls://dot.pub
 [/qiao-cn.com/]tls://dot.pub
 [/qpx.googleflights.net/]tls://dot.pub
 [/qualysapi.qatp1.net/]tls://dot.pub
@@ -116878,8 +116875,6 @@
 [/shazam-insights.cdn-apple.com/]tls://dot.pub
 [/shell.cdn.office.net/]tls://dot.pub
 [/si.cdn.dell.com/]tls://dot.pub
-[/silverlight.dlservice.microsoft.com/]tls://dot.pub
-[/slupdate.dlservice.microsoft.com/]tls://dot.pub
 [/sm.dell.com/]tls://dot.pub
 [/smp-device-content.apple.com/]tls://dot.pub
 [/snp.cdn.dell.com/]tls://dot.pub
@@ -116959,7 +116954,6 @@
 [/weather-map.apple.com/]tls://dot.pub
 [/weather-map2.apple.com/]tls://dot.pub
 [/weatherkit.apple.com/]tls://dot.pub
-[/wl.dlservice.microsoft.com/]tls://dot.pub
 [/wscont1.apps.microsoft.com/]tls://dot.pub
 [/wscont2.apps.microsoft.com/]tls://dot.pub
 [/www-csb.dell.com/]tls://dot.pub
@@ -116979,7 +116973,6 @@
 [/www.support.apple.com/]tls://dot.pub
 [/www.ztedevices.com/]tls://dot.pub
 [/www4-static.gog-statics.com/]tls://dot.pub
-[/xb.dlservice.microsoft.com/]tls://dot.pub
 [/xn--flw351e.com/]tls://dot.pub
 [/xp.apple.com/]tls://dot.pub
 [/xz.pphimalayanrt.com/]tls://dot.pub
