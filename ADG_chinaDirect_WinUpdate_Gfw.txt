@@ -8317,6 +8317,7 @@
 [/9000wy.com/]tls://dot.pub
 [/900112.com/]tls://dot.pub
 [/900501.xyz/]tls://dot.pub
+[/900cha.com/]tls://dot.pub
 [/900php.com/]tls://dot.pub
 [/900ppt.com/]tls://dot.pub
 [/900yi.com/]tls://dot.pub
@@ -52961,6 +52962,7 @@
 [/ips.com/]tls://dot.pub
 [/ips8.com/]tls://dot.pub
 [/ipsebe.com/]tls://dot.pub
+[/ipshu.com/]tls://dot.pub
 [/ipshudi.com/]tls://dot.pub
 [/ipsmap.com/]tls://dot.pub
 [/ipssh.net/]tls://dot.pub
@@ -53256,6 +53258,7 @@
 [/istarshine.com/]tls://dot.pub
 [/istartsurf.com/]tls://dot.pub
 [/istcw.com/]tls://dot.pub
+[/istoreos.com/]tls://dot.pub
 [/istpei.com/]tls://dot.pub
 [/istrongcloud.com/]tls://dot.pub
 [/istrongcloud.net/]tls://dot.pub
@@ -58432,6 +58435,7 @@
 [/jxpdf.com/]tls://dot.pub
 [/jxphone.com/]tls://dot.pub
 [/jxphyz.com/]tls://dot.pub
+[/jxpp.com/]tls://dot.pub
 [/jxpta.com/]tls://dot.pub
 [/jxqcw.com/]tls://dot.pub
 [/jxqtkj.com/]tls://dot.pub
@@ -69562,6 +69566,7 @@
 [/mw1950.com/]tls://dot.pub
 [/mwadx.com/]tls://dot.pub
 [/mwave.tech/]tls://dot.pub
+[/mwcdns.com/]tls://dot.pub
 [/mwclg.com/]tls://dot.pub
 [/mwcloudcdn.com/]tls://dot.pub
 [/mwcloudcdn.info/]tls://dot.pub
@@ -70846,6 +70851,7 @@
 [/networkesl.com/]tls://dot.pub
 [/networklo.com/]tls://dot.pub
 [/netzonesoft.com/]tls://dot.pub
+[/netzz.net/]tls://dot.pub
 [/neu-reality.com/]tls://dot.pub
 [/neucrack.com/]tls://dot.pub
 [/neuedu.com/]tls://dot.pub
@@ -100376,6 +100382,7 @@
 [/wsgeogen.com/]tls://dot.pub
 [/wsgjj.com/]tls://dot.pub
 [/wsgjp.com/]tls://dot.pub
+[/wsglb.com/]tls://dot.pub
 [/wsglb.net/]tls://dot.pub
 [/wsglb0.com/]tls://dot.pub
 [/wsglb0.info/]tls://dot.pub
@@ -101856,6 +101863,7 @@
 [/xdsyzzs.com/]tls://dot.pub
 [/xdter.com/]tls://dot.pub
 [/xdtev.com/]tls://dot.pub
+[/xdtool.com/]tls://dot.pub
 [/xdtos.com/]tls://dot.pub
 [/xduim.com/]tls://dot.pub
 [/xduoo.com/]tls://dot.pub
