@@ -23674,6 +23674,7 @@
 [/cn-zhongrui.com/]tls://dot.pub
 [/cn.bing.com/]tls://dot.pub
 [/cn.bing.net/]tls://dot.pub
+[/cn.eset.com/]tls://dot.pub
 [/cn.mm.bing.net/]tls://dot.pub
 [/cn.net/]tls://dot.pub
 [/cn.online.standardchartered.com/]tls://dot.pub
