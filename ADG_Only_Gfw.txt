@@ -1346,6 +1346,7 @@
 [/doc.new/]https://d-o-h.you-cf-domain.com/your-suffix
 [/docker.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/docker.io/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dockerstatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/docs.deno.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/docs.new/]https://d-o-h.you-cf-domain.com/your-suffix
 [/doctorvoice.org/]https://d-o-h.you-cf-domain.com/your-suffix
