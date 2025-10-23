@@ -20029,6 +20029,7 @@
 [/ceyice.net/]tls://dot.pub
 [/ceyige.com/]tls://dot.pub
 [/cezhu.net/]tls://dot.pub
+[/cf-china.info/]tls://dot.pub
 [/cf-ns.com/]tls://dot.pub
 [/cf-ns.net/]tls://dot.pub
 [/cf-ns.site/]tls://dot.pub
@@ -28445,7 +28446,6 @@
 [/deepfast.com/]tls://dot.pub
 [/deepin-ai.com/]tls://dot.pub
 [/deepin.com/]tls://dot.pub
-[/deepin.io/]tls://dot.pub
 [/deepin.org/]tls://dot.pub
 [/deepinghost.com/]tls://dot.pub
 [/deepinmind.com/]tls://dot.pub
@@ -63343,6 +63343,7 @@
 [/linglingkaimen.com/]tls://dot.pub
 [/linglingmo.site/]tls://dot.pub
 [/linglong.dev/]tls://dot.pub
+[/linglong.space/]tls://dot.pub
 [/linglongart.com/]tls://dot.pub
 [/linglonglife.com/]tls://dot.pub
 [/linglongtech.com/]tls://dot.pub
