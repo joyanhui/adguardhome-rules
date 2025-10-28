@@ -28125,8 +28125,14 @@
 [/dcloud.io/]tls://dot.pub
 [/dcloud.xin/]tls://dot.pub
 [/dcloudlive.com/]tls://dot.pub
+[/dcloudlive.net/]tls://dot.pub
 [/dclouds.cloud/]tls://dot.pub
+[/dcloudsp.com/]tls://dot.pub
+[/dcloudsp.net/]tls://dot.pub
 [/dcloudstc.com/]tls://dot.pub
+[/dcloudstc.net/]tls://dot.pub
+[/dcloudvod.com/]tls://dot.pub
+[/dcloudvod.net/]tls://dot.pub
 [/dclygroup.com/]tls://dot.pub
 [/dcmagcn.com/]tls://dot.pub
 [/dcmk17.com/]tls://dot.pub
@@ -45821,7 +45827,10 @@
 [/herllamo.com/]tls://dot.pub
 [/hermod1.com/]tls://dot.pub
 [/hero-geek.com/]tls://dot.pub
+[/hero.com/]tls://dot.pub
 [/herocoming.com/]tls://dot.pub
+[/heroesports.com/]tls://dot.pub
+[/herogame.com/]tls://dot.pub
 [/herohr.net/]tls://dot.pub
 [/heroic-ltd.com/]tls://dot.pub
 [/heroje.com/]tls://dot.pub
@@ -85450,6 +85459,7 @@
 [/shyuzhai.com/]tls://dot.pub
 [/shywly.com/]tls://dot.pub
 [/shyx-bio.com/]tls://dot.pub
+[/shyxhy.com/]tls://dot.pub
 [/shyxi5.com/]tls://dot.pub
 [/shyxwz.com/]tls://dot.pub
 [/shyy6688.com/]tls://dot.pub
