@@ -113417,6 +113417,7 @@
 [/zhuanhuanqi.com/]tls://dot.pub
 [/zhuanhuanqi.net/]tls://dot.pub
 [/zhuaniao.com/]tls://dot.pub
+[/zhuaninc.com/]tls://dot.pub
 [/zhuankeapp.com/]tls://dot.pub
 [/zhuankebang.com/]tls://dot.pub
 [/zhuankezu.com/]tls://dot.pub
