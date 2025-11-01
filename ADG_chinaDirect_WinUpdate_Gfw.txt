@@ -52208,7 +52208,6 @@
 [/imliuyi.com/]tls://dot.pub
 [/imlizhi.com/]tls://dot.pub
 [/immeee.com/]tls://dot.pub
-[/immersivetranslate.com/]tls://dot.pub
 [/immfast.com/]tls://dot.pub
 [/immi520.com/]tls://dot.pub
 [/immiexpo.com/]tls://dot.pub
@@ -122117,6 +122116,7 @@
 [/telesco.pe/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tellapart.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tellme.pw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/temu.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tenacy.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tenor.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tensorflow.org/]https://d-o-h.you-cf-domain.com/your-suffix
