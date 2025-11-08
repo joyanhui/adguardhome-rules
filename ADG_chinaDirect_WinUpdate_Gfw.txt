@@ -52384,7 +52384,6 @@
 [/infertilitybridge.com/]tls://dot.pub
 [/infimotion.com/]tls://dot.pub
 [/infineon-autoeco.com/]tls://dot.pub
-[/infineon.com/]tls://dot.pub
 [/infini-ai.com/]tls://dot.pub
 [/infinisign.com/]tls://dot.pub
 [/infinitescript.com/]tls://dot.pub
@@ -91784,7 +91783,6 @@
 [/thzu.cc/]tls://dot.pub
 [/ti-node.com/]tls://dot.pub
 [/ti-solar.com/]tls://dot.pub
-[/ti.com/]tls://dot.pub
 [/ti0s.com/]tls://dot.pub
 [/ti4la.icu/]tls://dot.pub
 [/tiamaes.com/]tls://dot.pub
@@ -118636,9 +118634,7 @@
 [/definebabe.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/deja.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/delcamp.net/]https://d-o-h.you-cf-domain.com/your-suffix
-[/delicious.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/demo.unlock-music.dev/]https://d-o-h.you-cf-domain.com/your-suffix
-[/democrats.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/demosisto.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/deno.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/depositphotos.com/]https://d-o-h.you-cf-domain.com/your-suffix
