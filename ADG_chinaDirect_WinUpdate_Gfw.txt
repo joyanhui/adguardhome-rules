@@ -27111,6 +27111,7 @@
 [/cztv.cc/]tls://dot.pub
 [/cztv.com/]tls://dot.pub
 [/cztv.tv/]tls://dot.pub
+[/cztvcdn.com/]tls://dot.pub
 [/cztvcloud.com/]tls://dot.pub
 [/cztzkg.com/]tls://dot.pub
 [/czur.com/]tls://dot.pub
@@ -37917,6 +37918,7 @@
 [/geekmaker.com/]tls://dot.pub
 [/geekman.vip/]tls://dot.pub
 [/geeknev.com/]tls://dot.pub
+[/geekpark/]tls://dot.pub
 [/geekpark.net/]tls://dot.pub
 [/geekpwn.org/]tls://dot.pub
 [/geeksblog.cc/]tls://dot.pub
@@ -92303,7 +92305,6 @@
 [/tinyyuan.com/]tls://dot.pub
 [/tipaipai.com/]tls://dot.pub
 [/tipask.com/]tls://dot.pub
-[/tipdim.org/]tls://dot.pub
 [/tipdm.com/]tls://dot.pub
 [/tipdm.org/]tls://dot.pub
 [/tipray.com/]tls://dot.pub
