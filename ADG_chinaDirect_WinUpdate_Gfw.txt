@@ -11976,6 +11976,7 @@
 [/anyview.net/]tls://dot.pub
 [/anyway.fm/]tls://dot.pub
 [/anyway.red/]tls://dot.pub
+[/anywlan.com/]tls://dot.pub
 [/anywood.com/]tls://dot.pub
 [/anyxz.com/]tls://dot.pub
 [/anzerclub.com/]tls://dot.pub
