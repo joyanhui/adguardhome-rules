@@ -117558,6 +117558,7 @@
 [/addons.mozilla.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/addyoutube.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/adelaidebbs.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/adguard-vpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/admin.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/admob.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/adpl.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119765,6 +119766,7 @@
 [/have8.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hbg.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hbo.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hbomax.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hclips.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hd.stheadline.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hdtvb.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -120707,6 +120709,7 @@
 [/mixx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mizzmona.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjib.gov.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mjj.rip/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjlsh.usc.cuhk.edu.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mlc.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mlcool.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -121619,6 +121622,7 @@
 [/rumble.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/runbtx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rushbee.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/rustdesk.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rusvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ruten.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rutracker.net/]https://d-o-h.you-cf-domain.com/your-suffix
