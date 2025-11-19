@@ -1061,6 +1061,7 @@
 [/cloud.mail.ru/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudflare-dns.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudflare-ipfs.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cloudflarestatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cloudfunctions.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/club1069.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/clubhouseapi.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3048,6 +3049,7 @@
 [/liberal.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/libertysculpturepark.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/libertytimes.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/library-access.sk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/library.usc.cuhk.edu.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/libredd.it/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lifemiles.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3273,6 +3275,7 @@
 [/middle-way.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mihr.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mihua.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mij.rip/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mikanani.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mike.cz.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mikesoltys.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3317,6 +3320,7 @@
 [/mixpod.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mixx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mizzmona.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mji.rip/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjib.gov.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjj.rip/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjlsh.usc.cuhk.edu.hk/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -5737,6 +5741,7 @@
 [/xmovies.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--11xs86f.icu/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--4gq171p.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xn--9iqy04a7fi01l.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--9pr62r24a.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--czq75pvv1aj5c.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--i2ru8q2qg.com/]https://d-o-h.you-cf-domain.com/your-suffix
