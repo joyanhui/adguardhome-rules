@@ -2308,6 +2308,7 @@
 [/greasyfork.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/greatfire.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/greatfire.us7.list-manage.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/greatfirevpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/greatfirewall.biz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/greatfirewallofchina.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/greatroc.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -5575,6 +5576,7 @@
 [/wikipedia.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wikipedia.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wikisource.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/wikiunblocked.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wikiversity.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wikivoyage.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wikiwand.com/]https://d-o-h.you-cf-domain.com/your-suffix
