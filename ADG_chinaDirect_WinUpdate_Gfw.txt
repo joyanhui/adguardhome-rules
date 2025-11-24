@@ -37968,7 +37968,6 @@
 [/geekmaker.com/]tls://dot.pub
 [/geekman.vip/]tls://dot.pub
 [/geeknev.com/]tls://dot.pub
-[/geekpark/]tls://dot.pub
 [/geekpark.net/]tls://dot.pub
 [/geekpwn.org/]tls://dot.pub
 [/geeksblog.cc/]tls://dot.pub
@@ -77301,6 +77300,7 @@
 [/qianvisa.com/]tls://dot.pub
 [/qianwa.com/]tls://dot.pub
 [/qianwanku.com/]tls://dot.pub
+[/qianwen.com/]tls://dot.pub
 [/qianxiangbank.com/]tls://dot.pub
 [/qianxibj.net/]tls://dot.pub
 [/qianximiye.com/]tls://dot.pub
