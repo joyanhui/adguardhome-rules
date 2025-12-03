@@ -44567,6 +44567,7 @@
 [/hapingapp.com/]tls://dot.pub
 [/hapipixia.com/]tls://dot.pub
 [/hapiyixia.com/]tls://dot.pub
+[/hapjs.org/]tls://dot.pub
 [/haplat.net/]tls://dot.pub
 [/happi123.com/]tls://dot.pub
 [/happigo.com/]tls://dot.pub
@@ -116462,7 +116463,6 @@
 [/b.c2r.ts.cdn.office.net/]tls://dot.pub
 [/bag-cdn.itunes-apple.com.akadns.net/]tls://dot.pub
 [/bag.itunes.apple.com/]tls://dot.pub
-[/bbs.ztedevices.com/]tls://dot.pub
 [/beacons.gcp.gvt2.com/]tls://dot.pub
 [/beacons.gvt2.com/]tls://dot.pub
 [/beacons2.gvt2.com/]tls://dot.pub
@@ -117002,7 +117002,6 @@
 [/www.pxcc.com/]tls://dot.pub
 [/www.recaptcha.net/]tls://dot.pub
 [/www.support.apple.com/]tls://dot.pub
-[/www.ztedevices.com/]tls://dot.pub
 [/www4-static.gog-statics.com/]tls://dot.pub
 [/xn--flw351e.com/]tls://dot.pub
 [/xp.apple.com/]tls://dot.pub
