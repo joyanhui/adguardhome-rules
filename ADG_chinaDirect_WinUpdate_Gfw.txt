@@ -7340,7 +7340,6 @@
 [/75ll.com/]tls://dot.pub
 [/75n474.com/]tls://dot.pub
 [/75pk.com/]tls://dot.pub
-[/75team.com/]tls://dot.pub
 [/75ww.com/]tls://dot.pub
 [/75xn.com/]tls://dot.pub
 [/76065.com/]tls://dot.pub
