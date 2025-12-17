@@ -554,6 +554,7 @@
 [/bit-z.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bit.do/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bit.ly/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bitbaby.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitbay.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitchute.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bitcointalk.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2630,6 +2631,7 @@
 [/icu-project.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/id.hao123.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/id.heroku.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/idcflare.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/idemocracy.asia/]https://d-o-h.you-cf-domain.com/your-suffix
 [/identi.ca/]https://d-o-h.you-cf-domain.com/your-suffix
 [/idiomconnection.com/]https://d-o-h.you-cf-domain.com/your-suffix
