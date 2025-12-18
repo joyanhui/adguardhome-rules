@@ -69045,6 +69045,7 @@
 [/moontonapp.com/]tls://dot.pub
 [/moontontech.net/]tls://dot.pub
 [/moonvy.com/]tls://dot.pub
+[/moonvy.cool/]tls://dot.pub
 [/moooc.cc/]tls://dot.pub
 [/mooooc.com/]tls://dot.pub
 [/mooool.com/]tls://dot.pub
