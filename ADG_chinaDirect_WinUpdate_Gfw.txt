@@ -1637,7 +1637,6 @@
 [/148com.com/]tls://dot.pub
 [/148la.com/]tls://dot.pub
 [/14944.net/]tls://dot.pub
-[/1495c8.com/]tls://dot.pub
 [/14hj.com/]tls://dot.pub
 [/14play.net/]tls://dot.pub
 [/14xd.com/]tls://dot.pub
@@ -6675,7 +6674,6 @@
 [/62669.com/]tls://dot.pub
 [/626x.com/]tls://dot.pub
 [/628.com/]tls://dot.pub
-[/628536nyv.com/]tls://dot.pub
 [/62923.vip/]tls://dot.pub
 [/629973.com/]tls://dot.pub
 [/62dns.com/]tls://dot.pub
@@ -11854,7 +11852,6 @@
 [/antvr.com/]tls://dot.pub
 [/antwork.link/]tls://dot.pub
 [/antzk.com/]tls://dot.pub
-[/anviettek.com/]tls://dot.pub
 [/anw.red/]tls://dot.pub
 [/anweilan.com/]tls://dot.pub
 [/anweishi.com/]tls://dot.pub
@@ -53742,6 +53739,7 @@
 [/jamalube.net/]tls://dot.pub
 [/jamcz.com/]tls://dot.pub
 [/jamidol.com/]tls://dot.pub
+[/jamms.org/]tls://dot.pub
 [/jammyfm.com/]tls://dot.pub
 [/jampotgames.com/]tls://dot.pub
 [/janbao.net/]tls://dot.pub
@@ -56968,7 +56966,6 @@
 [/js96008.com/]tls://dot.pub
 [/js96777.com/]tls://dot.pub
 [/jsadkg.com/]tls://dot.pub
-[/jsadt.com/]tls://dot.pub
 [/jsaeit.com/]tls://dot.pub
 [/jsaes.com/]tls://dot.pub
 [/jsafc.net/]tls://dot.pub
@@ -121750,6 +121747,7 @@
 [/startuplivingchina.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/stat.gov.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/static-economist.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/static.pocketcasts.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/static.shemalez.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/static01.nyt.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/staticflickr.com/]https://d-o-h.you-cf-domain.com/your-suffix
