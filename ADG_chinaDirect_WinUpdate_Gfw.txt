@@ -21532,6 +21532,7 @@
 [/chinaorff.org/]tls://dot.pub
 [/chinaorganicchem.com/]tls://dot.pub
 [/chinaorientgroup.com/]tls://dot.pub
+[/chinaott.com/]tls://dot.pub
 [/chinaott.net/]tls://dot.pub
 [/chinapag.com/]tls://dot.pub
 [/chinapandi.com/]tls://dot.pub
@@ -46008,6 +46009,7 @@
 [/hijin.vip/]tls://dot.pub
 [/hijoys.com/]tls://dot.pub
 [/hik-cloud.com/]tls://dot.pub
+[/hik-express.com/]tls://dot.pub
 [/hik-park.com/]tls://dot.pub
 [/hikailink.com/]tls://dot.pub
 [/hikari-ch.com/]tls://dot.pub
@@ -46017,6 +46019,7 @@
 [/hikerfans.com/]tls://dot.pub
 [/hikihj.com/]tls://dot.pub
 [/hikinginternational.com/]tls://dot.pub
+[/hikiot.com/]tls://dot.pub
 [/hiklife.com/]tls://dot.pub
 [/hikmall.com/]tls://dot.pub
 [/hikoon.com/]tls://dot.pub
@@ -117354,7 +117357,6 @@
 [/chromecast.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromeexperiments.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromestatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/chromium.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chuang-yen.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chubold.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chubun.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119461,6 +119463,7 @@
 [/looktoronto.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lotsawahouse.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lotuslight.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/lovart.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lovetvshow.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lpsg.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lrfz.com/]https://d-o-h.you-cf-domain.com/your-suffix

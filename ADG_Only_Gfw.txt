@@ -1016,7 +1016,6 @@
 [/chromecast.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromeexperiments.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromestatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/chromium.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chuang-yen.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chubold.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chubun.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3123,6 +3122,7 @@
 [/looktoronto.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lotsawahouse.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lotuslight.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/lovart.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lovetvshow.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lpsg.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lrfz.com/]https://d-o-h.you-cf-domain.com/your-suffix
