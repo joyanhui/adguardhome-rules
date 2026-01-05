@@ -1,4 +1,6 @@
-# 本仓库旨在提供adguardhome的规则
+# 本仓库旨在提供一个自动维护的adguardhome的规则
+
+> 规则文件 在 [release_file分支](https://github.com/joyanhui/adguardhome-rules/tree/release_file)
 
 > 使用问题交流请去恩山或[discussions](https://github.com/joyanhui/adguardhome-rules/discussions)
 
