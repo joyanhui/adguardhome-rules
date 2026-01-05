@@ -19512,6 +19512,7 @@
 [/cfachina.org/]tls://dot.pub
 [/cfanlost.com/]tls://dot.pub
 [/cfbond.com/]tls://dot.pub
+[/cfc108.com/]tls://dot.pub
 [/cfc365.com/]tls://dot.pub
 [/cfca-c.org/]tls://dot.pub
 [/cfccd.com/]tls://dot.pub
@@ -115531,6 +115532,7 @@
 [/agro.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ai.binwang.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ai.dev/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ai.studio/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiosearch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiph.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/airasia.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -116598,6 +116600,7 @@
 [/dawangidc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/daxa.cn/]https://d-o-h.you-cf-domain.com/your-suffix
 [/daylife.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dazn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/db.tt/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dbgjd.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dcard.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119093,6 +119096,8 @@
 [/onthehunt.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ontrac.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/oojj.de/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ooni.io/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ooni.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/open.com.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/open.firstory.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openai.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -121079,6 +121084,7 @@
 [/xbookcn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xbtce.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xcafe.in/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xcancel.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xcity.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xcritic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xerotica.com/]https://d-o-h.you-cf-domain.com/your-suffix
