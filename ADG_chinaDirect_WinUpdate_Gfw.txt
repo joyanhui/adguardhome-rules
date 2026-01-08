@@ -34880,6 +34880,7 @@
 [/fnkvision.com/]tls://dot.pub
 [/fnmobi.com/]tls://dot.pub
 [/fnnas.com/]tls://dot.pub
+[/fnnas.net/]tls://dot.pub
 [/fnnsh.com/]tls://dot.pub
 [/fnnspa.com/]tls://dot.pub
 [/fnos.net/]tls://dot.pub
@@ -89167,6 +89168,7 @@
 [/tapai.com/]tls://dot.pub
 [/tapaijiu.com/]tls://dot.pub
 [/tapapis.com/]tls://dot.pub
+[/tapapks.com/]tls://dot.pub
 [/tapas.net/]tls://dot.pub
 [/tapbooster.net/]tls://dot.pub
 [/tapdata.net/]tls://dot.pub
