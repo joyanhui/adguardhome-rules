@@ -83415,6 +83415,7 @@
 [/shouqu.me/]tls://dot.pub
 [/shoushenlvcheng.com/]tls://dot.pub
 [/shoutai.com/]tls://dot.pub
+[/shoutanjjj.com/]tls://dot.pub
 [/shouxi.com/]tls://dot.pub
 [/shouxieti.com/]tls://dot.pub
 [/shouxihu.net/]tls://dot.pub
