@@ -60783,6 +60783,7 @@
 [/lbswjt.com/]tls://dot.pub
 [/lbszx.com/]tls://dot.pub
 [/lbtek.com/]tls://dot.pub
+[/lbtp.com/]tls://dot.pub
 [/lbu.cc/]tls://dot.pub
 [/lbv1.com/]tls://dot.pub
 [/lbwbw.com/]tls://dot.pub
@@ -69908,13 +69909,6 @@
 [/nike.host/]tls://dot.pub
 [/nikefans.com/]tls://dot.pub
 [/niketracking.com/]tls://dot.pub
-[/nikke-de.com/]tls://dot.pub
-[/nikke-en.com/]tls://dot.pub
-[/nikke-fr.com/]tls://dot.pub
-[/nikke-global.com/]tls://dot.pub
-[/nikke-jp.com/]tls://dot.pub
-[/nikke-kr.com/]tls://dot.pub
-[/nikke-sea.com/]tls://dot.pub
 [/nikkisoft.com/]tls://dot.pub
 [/nikkiup2u2.com/]tls://dot.pub
 [/nikkon-china.com/]tls://dot.pub
