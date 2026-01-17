@@ -115266,6 +115266,7 @@
 [/aiweiwei.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiweiweiblog.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akademiye.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/akamai.tvb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akamaihd.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akiba-online.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akiba-web.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -115339,7 +115340,10 @@
 [/angularjs.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/animecrazy.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aniscartujo.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.in/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.li/]https://d-o-h.you-cf-domain.com/your-suffix
 [/annas-archive.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.pm/]https://d-o-h.you-cf-domain.com/your-suffix
 [/annas-archive.se/]https://d-o-h.you-cf-domain.com/your-suffix
 [/annatam.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anobii.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -116842,7 +116846,6 @@
 [/forum.mymaji.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/forum.palmislife.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/forum.slime.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
-[/forum.tvb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/forum.xinbao.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/forum4hk.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/fountmedia.io/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -118525,6 +118528,7 @@
 [/myspacecdn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mytalkbox.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mytizi.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mytvsuper.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mywife.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mywww.biz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/myz.info/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -120189,6 +120193,7 @@
 [/tv.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tv.jtbc.joins.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvants.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tvbanywhere.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvboxnow.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvider.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvmost.com.hk/]https://d-o-h.you-cf-domain.com/your-suffix
