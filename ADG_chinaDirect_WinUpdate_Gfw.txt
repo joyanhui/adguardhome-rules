@@ -13288,6 +13288,7 @@
 [/baimda.com/]tls://dot.pub
 [/baimei.com/]tls://dot.pub
 [/baimeidashu.com/]tls://dot.pub
+[/baimiao.tech/]tls://dot.pub
 [/baimiaoapp.com/]tls://dot.pub
 [/baimin.com/]tls://dot.pub
 [/baina.com/]tls://dot.pub
@@ -82469,6 +82470,7 @@
 [/shineoptics.com/]tls://dot.pub
 [/shineray-motors.com/]tls://dot.pub
 [/shinerayad.com/]tls://dot.pub
+[/shinescan.tech/]tls://dot.pub
 [/shinetsu.shop/]tls://dot.pub
 [/shineu.com/]tls://dot.pub
 [/shineway.com/]tls://dot.pub
