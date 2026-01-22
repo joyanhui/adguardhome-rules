@@ -77900,6 +77900,7 @@
 [/redmart.com/]tls://dot.pub
 [/redmou.com/]tls://dot.pub
 [/rednetdns.com/]tls://dot.pub
+[/rednotecdn.com/]tls://dot.pub
 [/redocn.com/]tls://dot.pub
 [/redodopower.com/]tls://dot.pub
 [/redoop.com/]tls://dot.pub
