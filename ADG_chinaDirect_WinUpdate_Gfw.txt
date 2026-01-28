@@ -114535,6 +114535,7 @@
 [/amp-api.apps.apple.com/]tls://dot.pub
 [/amp-api.media.apple.com/]tls://dot.pub
 [/amp-api.music.apple.com/]tls://dot.pub
+[/aod-ssl.itunes.apple.com/]tls://dot.pub
 [/aod.itunes.apple.com/]tls://dot.pub
 [/api-edge.apps.apple.com/]tls://dot.pub
 [/app-analytics-services.com/]tls://dot.pub
@@ -116062,6 +116063,7 @@
 [/babylonbee.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/babynet.com.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/backchina.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/backend-v2.crixet.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/backpackers.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/backtotiananmen.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bad.news/]https://d-o-h.you-cf-domain.com/your-suffix
