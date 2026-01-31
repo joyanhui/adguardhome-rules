@@ -465,6 +465,7 @@
 [/bbc.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bbc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bbc.in/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bbc.pdn.tritondigital.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bbcchinese.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bbchat.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bbci.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1271,6 +1272,7 @@
 [/dbgjd.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dcard.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dcmilitary.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dcs-spotify.megaphone.fm/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ddc.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ddex.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ddns.info/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2401,6 +2403,7 @@
 [/helloandroid.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/helloqueer.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hellouk.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/help.byspotify.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/helpeachpeople.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/helpster.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/helpzhuling.org/]https://d-o-h.you-cf-domain.com/your-suffix
