@@ -8801,6 +8801,7 @@
 [/9377os.com/]tls://dot.pub
 [/9377s.com/]tls://dot.pub
 [/9377z.com/]tls://dot.pub
+[/9378.com/]tls://dot.pub
 [/93913.com/]tls://dot.pub
 [/939394.xyz/]tls://dot.pub
 [/93966.com/]tls://dot.pub
@@ -22224,6 +22225,7 @@
 [/chmti.com/]tls://dot.pub
 [/chn-cstc.com/]tls://dot.pub
 [/chn-das.com/]tls://dot.pub
+[/chn-new-9sport.com/]tls://dot.pub
 [/chn0769.com/]tls://dot.pub
 [/chn112.com/]tls://dot.pub
 [/chn168.com/]tls://dot.pub
@@ -25074,6 +25076,7 @@
 [/cpeol.net/]tls://dot.pub
 [/cpepgc.com/]tls://dot.pub
 [/cpfia.org/]tls://dot.pub
+[/cpfwzs.com/]tls://dot.pub
 [/cpg-motor.com/]tls://dot.pub
 [/cphfgg.com/]tls://dot.pub
 [/cphiic.com/]tls://dot.pub
@@ -26017,6 +26020,7 @@
 [/cs27.com/]tls://dot.pub
 [/cs2c.com/]tls://dot.pub
 [/cs2ccloud.com/]tls://dot.pub
+[/cs2pw.com/]tls://dot.pub
 [/cs30.net/]tls://dot.pub
 [/cs451.com/]tls://dot.pub
 [/cs48.com/]tls://dot.pub
@@ -28197,6 +28201,7 @@
 [/dealsmake.com/]tls://dot.pub
 [/deansys.com/]tls://dot.pub
 [/dear520dear.com/]tls://dot.pub
+[/dearclick.com/]tls://dot.pub
 [/dearda.com/]tls://dot.pub
 [/dearedu.com/]tls://dot.pub
 [/dearisland.com/]tls://dot.pub
@@ -33332,6 +33337,7 @@
 [/excoino.com/]tls://dot.pub
 [/exd.design/]tls://dot.pub
 [/exdoll.com/]tls://dot.pub
+[/exedus.com.co/]tls://dot.pub
 [/exeedcars.com/]tls://dot.pub
 [/exexm.com/]tls://dot.pub
 [/exezhanqun.com/]tls://dot.pub
@@ -47389,6 +47395,7 @@
 [/horosama.com/]tls://dot.pub
 [/horou.com/]tls://dot.pub
 [/horphoto.com/]tls://dot.pub
+[/horsebrowser.com/]tls://dot.pub
 [/horsechinaone.com/]tls://dot.pub
 [/horti-expo2019.com/]tls://dot.pub
 [/hortor-comic.com/]tls://dot.pub
@@ -50516,6 +50523,7 @@
 [/ic-ldo.com/]tls://dot.pub
 [/ic-leasing.com/]tls://dot.pub
 [/ic-mag.com/]tls://dot.pub
+[/ic-spic.com/]tls://dot.pub
 [/ic-valley.com/]tls://dot.pub
 [/ic001.org/]tls://dot.pub
 [/ic2china.com/]tls://dot.pub
@@ -60351,6 +60359,7 @@
 [/kwaizt.com/]tls://dot.pub
 [/kwangfeng.com/]tls://dot.pub
 [/kwggroupholdings.com/]tls://dot.pub
+[/kwicdn.com/]tls://dot.pub
 [/kwimgs.com/]tls://dot.pub
 [/kwinbon.com/]tls://dot.pub
 [/kwise-log.com/]tls://dot.pub
@@ -73330,6 +73339,7 @@
 [/paihang8.com/]tls://dot.pub
 [/paihb.com/]tls://dot.pub
 [/paihotels.cc/]tls://dot.pub
+[/paihuisy.com/]tls://dot.pub
 [/paikew.com/]tls://dot.pub
 [/paiky.com/]tls://dot.pub
 [/paiky.net/]tls://dot.pub
@@ -73895,7 +73905,9 @@
 [/peipusci.com/]tls://dot.pub
 [/peise.net/]tls://dot.pub
 [/peisebiao.com/]tls://dot.pub
+[/peiwan.tv/]tls://dot.pub
 [/peiwanlu.com/]tls://dot.pub
+[/peiwantv.com/]tls://dot.pub
 [/peixianedu.com/]tls://dot.pub
 [/peixiang.com/]tls://dot.pub
 [/peixinbao.com/]tls://dot.pub
@@ -89847,6 +89859,7 @@
 [/tdchats.us/]tls://dot.pub
 [/tdchatvip.us/]tls://dot.pub
 [/tddmp.com/]tls://dot.pub
+[/tdfsm.com/]tls://dot.pub
 [/tdgdy.org/]tls://dot.pub
 [/tdgod.com/]tls://dot.pub
 [/tdiac.com/]tls://dot.pub
@@ -92865,6 +92878,7 @@
 [/tv002.com/]tls://dot.pub
 [/tv121.com/]tls://dot.pub
 [/tv189.com/]tls://dot.pub
+[/tv2-zuqiu.com/]tls://dot.pub
 [/tv20806.com/]tls://dot.pub
 [/tv373.com/]tls://dot.pub
 [/tvandnet.com/]tls://dot.pub
@@ -100545,6 +100559,7 @@
 [/xhytd.com/]tls://dot.pub
 [/xhyun.vip/]tls://dot.pub
 [/xhzysg.com/]tls://dot.pub
+[/xi-9.com/]tls://dot.pub
 [/xi-soft.com/]tls://dot.pub
 [/xi.su/]tls://dot.pub
 [/xi5jie.com/]tls://dot.pub
@@ -107379,6 +107394,7 @@
 [/yousheyoujia.com/]tls://dot.pub
 [/youshibeike.com/]tls://dot.pub
 [/youshifu.com/]tls://dot.pub
+[/youshihui.cc/]tls://dot.pub
 [/youshikoudai.com/]tls://dot.pub
 [/youshixiu.com/]tls://dot.pub
 [/youshop01.com/]tls://dot.pub
