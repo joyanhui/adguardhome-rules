@@ -2332,6 +2332,7 @@
 [/greenvpn.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/grindr.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/grok.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/grokipedia.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ground.news/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gs-discuss.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/gsearch.media/]https://d-o-h.you-cf-domain.com/your-suffix
