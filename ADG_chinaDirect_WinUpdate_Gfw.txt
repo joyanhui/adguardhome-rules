@@ -79401,7 +79401,6 @@
 [/redmart.com/]tls://dot.pub
 [/redmou.com/]tls://dot.pub
 [/rednetdns.com/]tls://dot.pub
-[/rednotecdn.com/]tls://dot.pub
 [/redocn.com/]tls://dot.pub
 [/redodopower.com/]tls://dot.pub
 [/redoop.com/]tls://dot.pub
@@ -101812,7 +101811,6 @@
 [/xhslink.com/]tls://dot.pub
 [/xhslw.com/]tls://dot.pub
 [/xhsmlt.com/]tls://dot.pub
-[/xhsrcdn.com/]tls://dot.pub
 [/xhsrmyy.com/]tls://dot.pub
 [/xhsxmt.com/]tls://dot.pub
 [/xhsyqx.com/]tls://dot.pub
