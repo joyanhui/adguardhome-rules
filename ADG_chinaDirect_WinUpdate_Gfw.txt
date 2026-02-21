@@ -117185,6 +117185,7 @@
 [/akamaihd.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akiba-online.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akiba-web.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/akile.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akinator.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/akow.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/alabout.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -117319,6 +117320,7 @@
 [/aspistrategist.org.au/]https://d-o-h.you-cf-domain.com/your-suffix
 [/assembla.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/assets.bwbx.io/]https://d-o-h.you-cf-domain.com/your-suffix
+[/assets.nxtrace.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/assimp.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/astrill.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/atc.org.au/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119344,6 +119346,7 @@
 [/mediafreakcity.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mediawiki.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/medium.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/meee.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/meetup.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mega.co.nz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mega.io/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119678,6 +119681,7 @@
 [/ooni.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/open.firstory.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openai.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/opencritic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/opendemocracy.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openid.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openleaks.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -121013,6 +121017,7 @@
 [/www.antd.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.aolnews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.bing.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/www.clashverge.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.cmoinc.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.dmm.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.eastturkistan.net/]https://d-o-h.you-cf-domain.com/your-suffix
