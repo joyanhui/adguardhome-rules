@@ -3505,6 +3505,7 @@
 [/topsy.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/toptip.ca/]https://d-o-h.you-cf-domain.com/your-suffix
 [/toptoon.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tor.eff.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torguard.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torlock.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torproject.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3659,6 +3660,7 @@
 [/underwoodammo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unholyknight.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unirule.cloud/]https://d-o-h.you-cf-domain.com/your-suffix
+[/uniswap.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unknownspace.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unmineable.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unseen.is/]https://d-o-h.you-cf-domain.com/your-suffix
