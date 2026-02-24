@@ -1261,6 +1261,7 @@
 [/freebeacon.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/freebrowser.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/freechinaweibo.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/freedom.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/freedomhouse.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/freedominfonetweb.wordpress.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/freedomsherald.org/]https://d-o-h.you-cf-domain.com/your-suffix
