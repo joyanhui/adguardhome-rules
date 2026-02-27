@@ -116933,6 +116933,7 @@
 [/amp-api-edge-lb-cn.itunes-apple.com.akadns.net/]tls://dot.pub
 [/amp-api-edge-lb.itunes-apple.com.akadns.net/]tls://dot.pub
 [/amp-api-edge.apps.apple.com/]tls://dot.pub
+[/amp-api-edge.music.apple.com/]tls://dot.pub
 [/amp-api-search-edge.apps.apple.com/]tls://dot.pub
 [/amp-api-updates.apps.apple.com/]tls://dot.pub
 [/amp-api.apps.apple.com/]tls://dot.pub
@@ -117247,6 +117248,8 @@
 [/monitoring.qpdp1.net/]tls://dot.pub
 [/moocs.unipus.cn/]tls://dot.pub
 [/music.apple.com/]tls://dot.pub
+[/musicstatus.music.apple.com/]tls://dot.pub
+[/mvod.itunes.apple.com/]tls://dot.pub
 [/myapp.itunes.apple.com/]tls://dot.pub
 [/myvs.download.prss.microsoft.com/]tls://dot.pub
 [/nexus.dell.com/]tls://dot.pub
@@ -117403,6 +117406,7 @@
 [/snpi.dell.com/]tls://dot.pub
 [/software.download.prss.microsoft.com/]tls://dot.pub
 [/sp.itunes.apple.com/]tls://dot.pub
+[/speedysub.music.apple.com/]tls://dot.pub
 [/ss.bjmu.edu.cn/]tls://dot.pub
 [/ssl-google-analytics.l.google.com/]tls://dot.pub
 [/ssl.gstatic.com/]tls://dot.pub
