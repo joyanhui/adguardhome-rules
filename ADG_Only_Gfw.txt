@@ -757,6 +757,7 @@
 [/ck101.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/classicalguitarblog.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/claude.ai/]https://d-o-h.you-cf-domain.com/your-suffix
+[/claude.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cldr.unicode.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/clearsurance.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/clementine-player.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2261,6 +2262,7 @@
 [/mangafox.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mangmang.run/]https://d-o-h.you-cf-domain.com/your-suffix
 [/manta.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/manus.im/]https://d-o-h.you-cf-domain.com/your-suffix
 [/manyvoices.news/]https://d-o-h.you-cf-domain.com/your-suffix
 [/marc.info/]https://d-o-h.you-cf-domain.com/your-suffix
 [/martau.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3977,7 +3979,6 @@
 [/www.hoyolab.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.hustlercash.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.idlcoyote.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/www.imdb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.kindleren.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.lorenzetti.com.br/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.m-sport.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
