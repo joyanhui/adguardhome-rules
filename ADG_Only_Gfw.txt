@@ -248,12 +248,14 @@
 [/archives.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/arctosia.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/areca-backup.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/arena.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/arena.taipei/]https://d-o-h.you-cf-domain.com/your-suffix
 [/arethusa.su/]https://d-o-h.you-cf-domain.com/your-suffix
 [/arlingtoncemetery.mil/]https://d-o-h.you-cf-domain.com/your-suffix
 [/arte.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/artstation.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/arvanstorage.ir/]https://d-o-h.you-cf-domain.com/your-suffix
+[/arweave.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/asacp.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/asiaharvest.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/asianage.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3926,6 +3928,7 @@
 [/wiredpen.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wireguard.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wisevid.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/wispbyte.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/withgoogle.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/withyoutube.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/witopia.net/]https://d-o-h.you-cf-domain.com/your-suffix
