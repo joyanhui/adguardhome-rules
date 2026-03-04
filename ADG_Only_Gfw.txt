@@ -1054,6 +1054,7 @@
 [/ebtcbank.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ecfa.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ecimg.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/economist.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/edgecastcdn.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/edubridge.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/edx-cdn.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4140,7 +4141,6 @@
 [/z-library.sk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zalmos.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zamimg.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/zaobao.com.sg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zaochenbao.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zattoo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zb.com/]https://d-o-h.you-cf-domain.com/your-suffix
