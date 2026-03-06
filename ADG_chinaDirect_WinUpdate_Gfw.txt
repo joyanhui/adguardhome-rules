@@ -118922,6 +118922,7 @@
 [/dmcdn.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dmhy.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dmm.co.jp/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dns.cloudflare.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dns2go.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dnscrypt.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dnssec.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119509,6 +119510,7 @@
 [/google.cv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/google.cz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/google.de/]https://d-o-h.you-cf-domain.com/your-suffix
+[/google.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/google.dj/]https://d-o-h.you-cf-domain.com/your-suffix
 [/google.dk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/google.dm/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -119924,6 +119926,7 @@
 [/interseclab.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/inthenameofconfuciusmovie.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/investigating.wordpress.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/investing.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/invidio.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/inxian.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipdefenseforum.com/]https://d-o-h.you-cf-domain.com/your-suffix
