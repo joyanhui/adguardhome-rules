@@ -6418,6 +6418,7 @@
 [/52playgame.com/]tls://dot.pub
 [/52pojie.com/]tls://dot.pub
 [/52post.com/]tls://dot.pub
+[/52ppt.com/]tls://dot.pub
 [/52qixiang.com/]tls://dot.pub
 [/52qmct.com/]tls://dot.pub
 [/52qqba.com/]tls://dot.pub
@@ -14699,6 +14700,7 @@
 [/badmintoncn.com/]tls://dot.pub
 [/badmintone.com/]tls://dot.pub
 [/badong.net/]tls://dot.pub
+[/badou.com/]tls://dot.pub
 [/badouxueyuan.com/]tls://dot.pub
 [/badu.com/]tls://dot.pub
 [/badudns.cc/]tls://dot.pub
@@ -45734,6 +45736,7 @@
 [/haohanpower.tech/]tls://dot.pub
 [/haohanstar.com/]tls://dot.pub
 [/haohao8888.com/]tls://dot.pub
+[/haohaodoc.com/]tls://dot.pub
 [/haohaotuan.com/]tls://dot.pub
 [/haohaowan.com/]tls://dot.pub
 [/haohaowan.net/]tls://dot.pub
@@ -63172,6 +63175,7 @@
 [/lazycatmicroserver.com/]tls://dot.pub
 [/lazycomposer.com/]tls://dot.pub
 [/lazydim.com/]tls://dot.pub
+[/lazyer.net/]tls://dot.pub
 [/lazymap.com/]tls://dot.pub
 [/lazyren.com/]tls://dot.pub
 [/lazystones.com/]tls://dot.pub
@@ -100143,6 +100147,7 @@
 [/wenjuanshow.com/]tls://dot.pub
 [/wenjuntech.com/]tls://dot.pub
 [/wenkaoba.com/]tls://dot.pub
+[/wenkeju.com/]tls://dot.pub
 [/wenku.in/]tls://dot.pub
 [/wenku.net/]tls://dot.pub
 [/wenku365.com/]tls://dot.pub
@@ -122137,6 +122142,7 @@
 [/shenzhoufilm.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/shenzhouzhengdao.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/shiksha.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/shitjournal.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/shixiao.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/shizhao.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/shodanhq.com/]https://d-o-h.you-cf-domain.com/your-suffix
