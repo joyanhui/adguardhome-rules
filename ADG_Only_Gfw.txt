@@ -744,6 +744,7 @@
 [/chromestatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromium.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ci-en.jp/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cia.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cici.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ciciai.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cirosantilli.com/]https://d-o-h.you-cf-domain.com/your-suffix
