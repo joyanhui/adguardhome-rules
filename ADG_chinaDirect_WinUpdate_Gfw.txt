@@ -104290,7 +104290,6 @@
 [/xiaomidns.com/]tls://dot.pub
 [/xiaomidns.net/]tls://dot.pub
 [/xiaomiev.com/]tls://dot.pub
-[/xiaomiflash.com/]tls://dot.pub
 [/xiaomiinc.net/]tls://dot.pub
 [/xiaomimimo.com/]tls://dot.pub
 [/xiaomimobile.com/]tls://dot.pub
@@ -123090,6 +123089,7 @@
 [/xm.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xml-training-guide.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--11xs86f.icu/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xn--1jqvh729avzfcy2d8ummib.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--4gq171p.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--9iqy04a7fi01l.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--9pr62r24a.com/]https://d-o-h.you-cf-domain.com/your-suffix
