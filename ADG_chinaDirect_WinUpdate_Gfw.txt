@@ -12832,6 +12832,7 @@
 [/anhuisjx.com/]tls://dot.pub
 [/anhuisuya.com/]tls://dot.pub
 [/anhuiwine.com/]tls://dot.pub
+[/anhuiyun.com/]tls://dot.pub
 [/anhuizk.com/]tls://dot.pub
 [/ani-sh.com/]tls://dot.pub
 [/aniccw.net/]tls://dot.pub
@@ -118030,6 +118031,7 @@
 [/csi.gstatic.com/]tls://dot.pub
 [/cstat.apple.com/]tls://dot.pub
 [/cstat.cdn-apple.com/]tls://dot.pub
+[/ctdsb.clouddiffuse.xyz/]tls://dot.pub
 [/ctldl.windowsupdate.com/]tls://dot.pub
 [/cueme-api.quark.cn/]tls://dot.pub
 [/customization-cdn.dell.com/]tls://dot.pub
