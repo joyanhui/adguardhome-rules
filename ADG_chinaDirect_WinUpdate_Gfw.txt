@@ -65816,7 +65816,6 @@
 [/lousj.com/]tls://dot.pub
 [/lousw.com/]tls://dot.pub
 [/louyue.com/]tls://dot.pub
-[/lovart.ai/]tls://dot.pub
 [/lovcuty.com/]tls://dot.pub
 [/love-freedom.com/]tls://dot.pub
 [/love-math-edu.com/]tls://dot.pub
@@ -118205,6 +118204,7 @@
 [/itunes-apple.com.akadns.net/]tls://dot.pub
 [/itunes.apple.com/]tls://dot.pub
 [/itunesconnect.apple.com/]tls://dot.pub
+[/izattime.qcomgeo2.com/]tls://dot.pub
 [/js-cdn.music.apple.com/]tls://dot.pub
 [/km.support.apple.com/]tls://dot.pub
 [/ksn-cinfo-geo.kaspersky-labs.com/]tls://dot.pub
@@ -118500,6 +118500,7 @@
 [/www4-static.gog-statics.com/]tls://dot.pub
 [/xn--flw351e.com/]tls://dot.pub
 [/xp.apple.com/]tls://dot.pub
+[/xtratime.qcomgeo2.com/]tls://dot.pub
 [/xz.pphimalayanrt.com/]tls://dot.pub
 #-----
 [/00001b-1.l.windowsupdate.com/]tls://dot.pub
@@ -123097,6 +123098,7 @@
 [/xn--9pr62r24a.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--czq75pvv1aj5c.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--i2ru8q2qg.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xn--kcrv3utim32hx9f6qe.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--ngstr-lra8j.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--noss43i.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--oiq.cc/]https://d-o-h.you-cf-domain.com/your-suffix
