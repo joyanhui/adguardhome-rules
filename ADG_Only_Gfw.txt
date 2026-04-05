@@ -236,6 +236,7 @@
 [/appspot.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/appsto.re/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aptoide.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/archive-it.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/archive.fo/]https://d-o-h.you-cf-domain.com/your-suffix
 [/archive.is/]https://d-o-h.you-cf-domain.com/your-suffix
 [/archive.li/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -978,6 +979,7 @@
 [/dmhy.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dmm.co.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dns.cloudflare.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dns.sb/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dns2go.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dnscrypt.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dnssec.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -988,6 +990,7 @@
 [/dockerstatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/docs.new/]https://d-o-h.you-cf-domain.com/your-suffix
 [/documentingreality.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/doh.sb/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dolc.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dolf.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dongtaiwang.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -995,6 +998,7 @@
 [/doom9.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/doosho.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/doourbest.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dot.sb/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dotplane.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dotsub.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dotvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
