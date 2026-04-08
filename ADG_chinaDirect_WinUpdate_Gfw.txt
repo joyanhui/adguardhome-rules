@@ -121443,7 +121443,6 @@
 [/mediawiki.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/medium.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/meee.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
-[/meetup.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mega.co.nz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mega.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mega.nz/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -121511,6 +121510,7 @@
 [/mirrormedia.mg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/missav.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/missav.ws/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mistral.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mitbbs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/miuipolska.pl/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mixero.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -122017,7 +122017,6 @@
 [/putty.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pximg.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/python.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
-[/pytorch.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qbittorrent.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qgirl.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qi-gong.me/]https://d-o-h.you-cf-domain.com/your-suffix
