@@ -184,11 +184,9 @@
 [/angola.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/angularjs.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aniscartujo.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.in/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.li/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.org/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.pm/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.se/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.gd/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.gl/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.pk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anobii.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anonfiles.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anonymouse.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3350,7 +3348,6 @@
 [/tbssqh.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/teachparentstech.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/technews.tw/]https://d-o-h.you-cf-domain.com/your-suffix
-[/techspot.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/techviz.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/teck.in/]https://d-o-h.you-cf-domain.com/your-suffix
 [/teco-hk.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3364,7 +3361,6 @@
 [/telegram.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/telegram.space/]https://d-o-h.you-cf-domain.com/your-suffix
 [/telegramdownload.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/telegraph.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/telesco.pe/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tellapart.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/temu.com/]https://d-o-h.you-cf-domain.com/your-suffix

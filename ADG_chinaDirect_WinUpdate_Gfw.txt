@@ -13119,6 +13119,7 @@
 [/anysql.net/]tls://dot.pub
 [/anystandards.com/]tls://dot.pub
 [/anytesting.com/]tls://dot.pub
+[/anytocopy.com/]tls://dot.pub
 [/anyun100.com/]tls://dot.pub
 [/anyunjianzhan.com/]tls://dot.pub
 [/anyv.net/]tls://dot.pub
@@ -29029,6 +29030,7 @@
 [/daoboime.com/]tls://dot.pub
 [/daochen.com/]tls://dot.pub
 [/daocloud.io/]tls://dot.pub
+[/daocloud.vip/]tls://dot.pub
 [/daocloudapp.com/]tls://dot.pub
 [/daodao.com/]tls://dot.pub
 [/daodaojizhang.com/]tls://dot.pub
@@ -38544,6 +38546,7 @@
 [/gamenow.club/]tls://dot.pub
 [/gameol.com/]tls://dot.pub
 [/gamepingce.com/]tls://dot.pub
+[/gamepp.com/]tls://dot.pub
 [/gamer520.net/]tls://dot.pub
 [/gamerboom.com/]tls://dot.pub
 [/gameres.com/]tls://dot.pub
@@ -47474,6 +47477,7 @@
 [/hezijia.com/]tls://dot.pub
 [/hezimi.com/]tls://dot.pub
 [/hezongyy.com/]tls://dot.pub
+[/hezuvip.com/]tls://dot.pub
 [/hf-alu.com/]tls://dot.pub
 [/hf-aw.com/]tls://dot.pub
 [/hf-iflysse.com/]tls://dot.pub
@@ -75171,6 +75175,7 @@
 [/osaaa.com/]tls://dot.pub
 [/osakacopyshop.com/]tls://dot.pub
 [/osase.net/]tls://dot.pub
+[/osbdf.com/]tls://dot.pub
 [/osbean.com/]tls://dot.pub
 [/osbkj.com/]tls://dot.pub
 [/osbzr.com/]tls://dot.pub
@@ -83469,6 +83474,7 @@
 [/scqy100.com/]tls://dot.pub
 [/scraij.com/]tls://dot.pub
 [/scrape.center/]tls://dot.pub
+[/scratch5.com/]tls://dot.pub
 [/scratchmirror.com/]tls://dot.pub
 [/scratchmirror.net/]tls://dot.pub
 [/scrc168.com/]tls://dot.pub
@@ -88725,6 +88731,7 @@
 [/soulapp.me/]tls://dot.pub
 [/soulgame.mobi/]tls://dot.pub
 [/soulsky.net/]tls://dot.pub
+[/soulteary.com/]tls://dot.pub
 [/soulu365.com/]tls://dot.pub
 [/souluo.net/]tls://dot.pub
 [/souluojie.com/]tls://dot.pub
@@ -93919,6 +93926,7 @@
 [/tillcn.com/]tls://dot.pub
 [/tillglance.com/]tls://dot.pub
 [/timanetworks.com/]tls://dot.pub
+[/timbrd.com/]tls://dot.pub
 [/time-weekly.com/]tls://dot.pub
 [/time-year.com/]tls://dot.pub
 [/timecoo.com/]tls://dot.pub
@@ -101028,6 +101036,7 @@
 [/wilddog.com/]tls://dot.pub
 [/wilddream.net/]tls://dot.pub
 [/wildfire.work/]tls://dot.pub
+[/wildfirechat.net/]tls://dot.pub
 [/wildgun.net/]tls://dot.pub
 [/wildhorde.com/]tls://dot.pub
 [/wildto.com/]tls://dot.pub
@@ -119315,11 +119324,9 @@
 [/angola.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/angularjs.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aniscartujo.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.in/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.li/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.org/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.pm/]https://d-o-h.you-cf-domain.com/your-suffix
-[/annas-archive.se/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.gd/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.gl/]https://d-o-h.you-cf-domain.com/your-suffix
+[/annas-archive.pk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anobii.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anonfiles.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anonymouse.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -122481,7 +122488,6 @@
 [/tbssqh.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/teachparentstech.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/technews.tw/]https://d-o-h.you-cf-domain.com/your-suffix
-[/techspot.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/techviz.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/teck.in/]https://d-o-h.you-cf-domain.com/your-suffix
 [/teco-hk.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -122495,7 +122501,6 @@
 [/telegram.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/telegram.space/]https://d-o-h.you-cf-domain.com/your-suffix
 [/telegramdownload.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/telegraph.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/telesco.pe/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tellapart.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/temu.com/]https://d-o-h.you-cf-domain.com/your-suffix
