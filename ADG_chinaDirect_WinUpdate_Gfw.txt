@@ -32240,6 +32240,7 @@
 [/dubairen.com/]tls://dot.pub
 [/dubao123.com/]tls://dot.pub
 [/dubbing.tech/]tls://dot.pub
+[/dubbingx.com/]tls://dot.pub
 [/dubbo.io/]tls://dot.pub
 [/duble.live/]tls://dot.pub
 [/dubola.com/]tls://dot.pub
@@ -68962,6 +68963,7 @@
 [/miaocode.com/]tls://dot.pub
 [/miaodiyun.com/]tls://dot.pub
 [/miaodongbar.com/]tls://dot.pub
+[/miaodongshenghuo.com/]tls://dot.pub
 [/miaogongzi.cc/]tls://dot.pub
 [/miaogongzi.net/]tls://dot.pub
 [/miaohuiyanyi.com/]tls://dot.pub
@@ -79956,6 +79958,7 @@
 [/quaspa.com/]tls://dot.pub
 [/quazero.com/]tls://dot.pub
 [/quba360.com/]tls://dot.pub
+[/qubang.cc/]tls://dot.pub
 [/qubaobei.com/]tls://dot.pub
 [/qubiankeji.com/]tls://dot.pub
 [/qucai.com/]tls://dot.pub
@@ -95332,6 +95335,7 @@
 [/tsg-online.net/]tls://dot.pub
 [/tsggx.com/]tls://dot.pub
 [/tsgks.com/]tls://dot.pub
+[/tsgyun.com/]tls://dot.pub
 [/tshaisen.com/]tls://dot.pub
 [/tshe.com/]tls://dot.pub
 [/tshe.me/]tls://dot.pub
@@ -110415,6 +110419,7 @@
 [/yooek.com/]tls://dot.pub
 [/yoofh.com/]tls://dot.pub
 [/yoogene.com/]tls://dot.pub
+[/yoohe.net/]tls://dot.pub
 [/yoohouse.com/]tls://dot.pub
 [/yoojia.com/]tls://dot.pub
 [/yoojing.com/]tls://dot.pub
@@ -122115,6 +122120,7 @@
 [/savetibetstore.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/saveuighur.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sbme.me/]https://d-o-h.you-cf-domain.com/your-suffix
+[/sbti.unun.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/scache.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/scache1.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/scache2.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
