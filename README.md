@@ -48,19 +48,21 @@ adg的管理面板：设置 > DNS设置
 
 - 上游 DNS 服务器 暂时随便输入一个可用的，不用配置太多，因为后面我们要用配置路径的方式用文件来配置上游dns规则会覆盖掉此处的配置。建议就输入一个 `223.5.5.5`
 - 负载均衡/并行请求/最快ip地址 建议选择 并行请求
-- Bootstrap DNS 服务器 输入几个公共dns的ip 例如 `123.125.81.6` `223.6.6.6` `119.29.29.29`一行一个
+- Bootstrap DNS 服务器 输入几个公共dns的ip 例如 `123.125.81.6` `223.6.6.6` `119.29.29.29`一行一个，这个是负责解析dot/doh域名的。
 - DNS 服务配置 速度限制 建议修改20-100左右，我这里配置为50
 - DNS缓存配置 根据自己需求和硬件性能配置我这里配置 缓存大小`1024000` 最小ttl`30` 最大ttl`1800`
 
-> 此时 整个局域网的，包括路由器openwrt自己的dns 均由adguard接管。测试未访问过的网站是否可以正常ping到ip地址。例如：`ping news.163.com` `ping news.baidu.com` `ping image.baidu.com`
+> 此时 整个局域网的，包括路由器openwrt自己的dns 均由adguard接管，只是还没有完成分流工作。你可以ping一下你从未访问过的域名看是否可以ping到ip地址。例如：`ping news.163.com` `ping news.163.com` `ping mail.126.com`  `ping news.baidu.com` `ping image.baidu.com`
 
 ### adguardhome 配置分流规则
 
 #### adguardhome 分流思路
 
-adguard home支持 `[/example.local/]94.140.14.140: 指定为特定域名的上游服务器；` 这样的规则，那么我们只需要整理对应的域名列表 然后指定对应的上游dns即可。但是在adguard home的管理面部中的上游dns配置这个页面 显然不可能输入上几万个域名。但是adguard支持直接用文件配置。而我们又可以从Loyalsoldier等大佬的仓库获得一些我们需要的域名清单。虽然格式不符合要求，但是我们可以自己用程序稍微处理一下让他符合adguard home的格式，再把多个域名清单列表合并到一个里面那就大功告成了。
+原理：adguard home支持 `[/example.local/]94.140.14.140: 指定为特定域名的上游服务器；` 这样的规则，那么我们只需要整理对应的域名列表 然后指定对应的上游dns即可。但是在adguard home的管理面部中的上游dns配置这个页面 显然不可能输入上几万个域名。
 
-所以我提供好了 每天会更新的规则文件，你只需要下载回去自己再用脚本修改一下即可。 然后这个脚本 可以用wget下载sed修改，然后添加到计划人物每天运行就可以自动更新了。 地址是 `https://github.com/joyanhui/adguardhome-rules/tree/release_file`
+但是adguard支持直接用文件配置。而我们又可以从Loyalsoldier等大佬的仓库获得一些我们需要的域名清单。虽然格式不符合要求，但是我们可以自己用脚本稍微处理一下让他符合adguard home的格式，再把多个域名清单列表合并到一个里面那就大功告成了。
+
+所以我提供好了 每天会更新的规则文件，你只需要下载回去自己配合一个脚本（后文提供了）。 然后这个脚本 可以用wget下载sed修改，然后添加到计划任务每天运行就可以自动更新了。 规则文件地址是 `https://github.com/joyanhui/adguardhome-rules/tree/release_file`
 
 #### 无辅助上网环境的情况下
 
