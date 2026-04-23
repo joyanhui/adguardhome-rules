@@ -223,6 +223,7 @@
 [/apkpure.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/app.box.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/app.cloudcone.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/app.element.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/app.smartmailcloud.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/appadvice.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/appbrain.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -263,6 +264,7 @@
 [/asianfanfics.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/asiansexdiary.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/asiaone.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/asiasociety.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ask.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/askstudent.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/askynz.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -355,6 +357,7 @@
 [/beijing2022.art/]https://d-o-h.you-cf-domain.com/your-suffix
 [/beijingspring.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bell.wiki/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bellingcat.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/berlinerbericht.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/berlintwitterwall.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bestvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -742,7 +745,6 @@
 [/chromecast.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromeexperiments.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromestatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/chromium.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ci-en.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cia.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cici.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2013,6 +2015,7 @@
 [/ismaelan.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ismprofessional.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/israbox.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/issues.chromium.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/issuu.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/isupportuyghurs.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/italiatibet.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2154,6 +2157,7 @@
 [/lamayeshe.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lamnia.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/landofhope.tv/]https://d-o-h.you-cf-domain.com/your-suffix
+[/lantern.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/laogai.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/laogairesearch.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/laqingdan.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2935,6 +2939,7 @@
 [/raw.githack.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rawgit.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rawgithub.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/rawstory.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rcam.target.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rcinet.ca/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rd.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2946,6 +2951,7 @@
 [/realcourage.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/realitykings.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/reason.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/recordedfuture.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/recoveryversion.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/red-lang.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/redbubble.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2981,6 +2987,7 @@
 [/rixcloud.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rlwlw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rmbl.ws/]https://d-o-h.you-cf-domain.com/your-suffix
+[/roblox.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/robustnessiskey.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocket-inc.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocket.chat/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3192,7 +3199,6 @@
 [/southnews.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/southpark.cc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sowers.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
-[/soylentnews.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/spaces.hightail.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/spacex.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/spankbang.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3404,6 +3410,7 @@
 [/thewgo.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thewirechina.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/theync.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/thinkchina.sg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thinkgeek.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thinkingtaiwan.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thinkwithgoogle.com/]https://d-o-h.you-cf-domain.com/your-suffix
