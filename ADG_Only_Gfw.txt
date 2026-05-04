@@ -3043,9 +3043,6 @@
 [/saveuighur.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sbme.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sbti.unun.dev/]https://d-o-h.you-cf-domain.com/your-suffix
-[/scache.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/scache1.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/scache2.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/schema.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/scmp.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/scramble.io/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3226,7 +3223,6 @@
 [/sproutcore.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/squirrelvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ss-link.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/ss7.vzw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ssglobal.co/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ssl.webpack.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sspanel.net/]https://d-o-h.you-cf-domain.com/your-suffix
