@@ -88,6 +88,7 @@
 [/acast.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/accountkit.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acevpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/acg.mn/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acg.rip/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acg18.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acgbox.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -413,6 +414,7 @@
 [/blacked.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/blackmagicdesign.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/blackvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bleepingcomputer.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/blinkx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/blip.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/blockcast.it/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -525,6 +527,7 @@
 [/books.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/booktopia.com.au/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bookwalker.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/boomplay.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bootstrapcdn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/borgenmagazine.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/botanwang.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -792,6 +795,7 @@
 [/cn.uptodown.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cna.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cnbbnews.wordpress.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cnbc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cnbeta.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cnd.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cnnews.chosun.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -871,6 +875,7 @@
 [/ct.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctinets.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctinews.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ctinsider.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctitv.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctowc.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cts.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1065,6 +1070,7 @@
 [/ecimg.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/economist.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/edgecastcdn.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/edigest.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/edubridge.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/edx-cdn.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/eesti.ee/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1790,6 +1796,7 @@
 [/hinet.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hitbtc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hitomi.la/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hive.blog/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hiveon.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hk-pub.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hk.gradconnection.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1964,6 +1971,7 @@
 [/indiemerch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/inews-api.tvb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/info-graf.fr/]https://d-o-h.you-cf-domain.com/your-suffix
+[/infosec.exchange/]https://d-o-h.you-cf-domain.com/your-suffix
 [/infura.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/inherit.live/]https://d-o-h.you-cf-domain.com/your-suffix
 [/initiativesforchina.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2102,6 +2110,7 @@
 [/kantie.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kaotic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/karayou.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/kathmandupost.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kawaiikawaii.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kawase.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kb.monitorware.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2176,6 +2185,7 @@
 [/legra.ph/]https://d-o-h.you-cf-domain.com/your-suffix
 [/leisurepro.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lematin.ch/]https://d-o-h.you-cf-domain.com/your-suffix
+[/lemonde.fr/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lenwhite.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lesoir.be/]https://d-o-h.you-cf-domain.com/your-suffix
 [/letscorp.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2188,6 +2198,7 @@
 [/liberal.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/libertysculpturepark.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/libertytimes.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/libgen.is/]https://d-o-h.you-cf-domain.com/your-suffix
 [/library-access.sk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/library.usc.cuhk.edu.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/libredd.it/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2309,6 +2320,7 @@
 [/media.nu.nl/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mediachinese.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mediafreakcity.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mediamatters.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mediawiki.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/medium.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/meee.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2388,6 +2400,7 @@
 [/mizzmona.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mji.rip/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjj.rip/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mjj.today/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mjlsh.usc.cuhk.edu.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mlc.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mlzs.work/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2437,6 +2450,7 @@
 [/mubi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mullvad.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/multiply.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/music.amazon.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/musixmatch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/muzi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/muzi.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2510,10 +2524,12 @@
 [/news18.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newsancai.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newsblur.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/newshub.co.nz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newsmax.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newstamago.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newstapa.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newstatesman.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/newstimes.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newsweek.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newtalk.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/newthuhole.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2528,6 +2544,8 @@
 [/nflximg.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nflxso.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nflxvideo.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nfsc.press/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nfscofficial.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nftstorage.link/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nga.mil/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nhentai.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2673,6 +2691,7 @@
 [/ourtv.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/overcast.fm/]https://d-o-h.you-cf-domain.com/your-suffix
 [/overdaily.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/overdrive.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/overplay.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/oversea.istarshine.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ovpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2724,6 +2743,7 @@
 [/pemulihan.or.id/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pen.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pendrivelinux.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/penguin.com.au/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pentoy.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/peoplenews.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/peopo.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3009,6 +3029,7 @@
 [/rti.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rti.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rtm.tnt-ea.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/rts.ch/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rule34.xxx/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rule34video.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rumble.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3120,6 +3141,7 @@
 [/simpleswap.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/simplex.chat/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sina.com.hk/]https://d-o-h.you-cf-domain.com/your-suffix
+[/sinchew.com.my/]https://d-o-h.you-cf-domain.com/your-suffix
 [/singaporepools.com.sg/]https://d-o-h.you-cf-domain.com/your-suffix
 [/singlelogin.se/]https://d-o-h.you-cf-domain.com/your-suffix
 [/singtao.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3373,6 +3395,8 @@
 [/tfiflve.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tg-me.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tg.dev/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tgstat.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/the-sun.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/theatlantic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/theatrum-belli.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thebcomplex.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3405,6 +3429,7 @@
 [/thetatoken.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thetibetpost.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thetvdb.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/theweek.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thewgo.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/thewirechina.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/theync.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3578,6 +3603,7 @@
 [/tv.jtbc.joins.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvbanywhere.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvboxnow.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tvdy1.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tvunetworks.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tw-blog.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tw.jiepang.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3786,6 +3812,7 @@
 [/voicettank.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vot.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vovo2000.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/vox.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/voxer.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vpl.bibliocommons.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vpn.ac/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3961,6 +3988,7 @@
 [/workatruna.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/workerempowerment.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/workers.dev/]https://d-o-h.you-cf-domain.com/your-suffix
+[/worldjournal.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/worldvpn.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wowgirls.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wowhead.com/]https://d-o-h.you-cf-domain.com/your-suffix
