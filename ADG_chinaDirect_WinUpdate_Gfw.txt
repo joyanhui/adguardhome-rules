@@ -863,7 +863,6 @@
 [/07666.com/]tls://dot.pub
 [/0768000.com/]tls://dot.pub
 [/0769che.com/]tls://dot.pub
-[/0769king.xin/]tls://dot.pub
 [/0769net.com/]tls://dot.pub
 [/0769pf.com/]tls://dot.pub
 [/0769sun.com/]tls://dot.pub
@@ -3740,7 +3739,6 @@
 [/316watches.com/]tls://dot.pub
 [/3171688.com/]tls://dot.pub
 [/317608.com/]tls://dot.pub
-[/31793.com/]tls://dot.pub
 [/317hu.com/]tls://dot.pub
 [/318595.xyz/]tls://dot.pub
 [/3188.la/]tls://dot.pub
@@ -8259,7 +8257,6 @@
 [/7moor-fs2.com/]tls://dot.pub
 [/7moor-zx.com/]tls://dot.pub
 [/7moor.com/]tls://dot.pub
-[/7msj.com/]tls://dot.pub
 [/7mx.com/]tls://dot.pub
 [/7mz3a.com/]tls://dot.pub
 [/7nepal.com/]tls://dot.pub
@@ -8364,6 +8361,7 @@
 [/800pharm.com/]tls://dot.pub
 [/800tuan.com/]tls://dot.pub
 [/800tzw.com/]tls://dot.pub
+[/800vdc.com/]tls://dot.pub
 [/800vod.com/]tls://dot.pub
 [/800wen.com/]tls://dot.pub
 [/800xiaoshuo.com/]tls://dot.pub
@@ -9959,7 +9957,6 @@
 [/9dian.info/]tls://dot.pub
 [/9dida.net/]tls://dot.pub
 [/9dinn.com/]tls://dot.pub
-[/9douyu.com/]tls://dot.pub
 [/9droom.com/]tls://dot.pub
 [/9duw.com/]tls://dot.pub
 [/9dwork.com/]tls://dot.pub
@@ -17750,7 +17747,6 @@
 [/bokexia.com/]tls://dot.pub
 [/bokeyz.com/]tls://dot.pub
 [/boktour.com/]tls://dot.pub
-[/bokunwatch.com/]tls://dot.pub
 [/bolaa.com/]tls://dot.pub
 [/bolan.net/]tls://dot.pub
 [/bolaninfo.com/]tls://dot.pub
@@ -23542,7 +23538,6 @@
 [/ciyynodegroup.cyou/]tls://dot.pub
 [/cizip.com/]tls://dot.pub
 [/cj0515.com/]tls://dot.pub
-[/cj120.com/]tls://dot.pub
 [/cj5bs.com/]tls://dot.pub
 [/cj5bs.net/]tls://dot.pub
 [/cj8.ren/]tls://dot.pub
@@ -25275,7 +25270,6 @@
 [/coding.love/]tls://dot.pub
 [/coding.me/]tls://dot.pub
 [/coding.net/]tls://dot.pub
-[/coding3min.com/]tls://dot.pub
 [/codingapp.com/]tls://dot.pub
 [/codingchangeworld.com/]tls://dot.pub
 [/codingcorp.net/]tls://dot.pub
@@ -33048,7 +33042,6 @@
 [/ejoy365hk.com/]tls://dot.pub
 [/ejrfood.com/]tls://dot.pub
 [/ejsoon.win/]tls://dot.pub
-[/ejtieyi.com/]tls://dot.pub
 [/ejtsyc.com/]tls://dot.pub
 [/eju.com/]tls://dot.pub
 [/ejuhome.com/]tls://dot.pub
@@ -65934,7 +65927,6 @@
 [/mayiwenku.com/]tls://dot.pub
 [/mayiwsk.com/]tls://dot.pub
 [/mayiyx.com/]tls://dot.pub
-[/mayizhuanlan.com/]tls://dot.pub
 [/maylandresort.com/]tls://dot.pub
 [/maylove2333.com/]tls://dot.pub
 [/mayora-sh.com/]tls://dot.pub
@@ -67709,6 +67701,7 @@
 [/mmbang.net/]tls://dot.pub
 [/mmbao.com/]tls://dot.pub
 [/mmbest.com/]tls://dot.pub
+[/mmbizgo.com/]tls://dot.pub
 [/mmbjq.com/]tls://dot.pub
 [/mmbread.com/]tls://dot.pub
 [/mmc-data.com/]tls://dot.pub
@@ -84990,7 +84983,6 @@
 [/sjzhr.com/]tls://dot.pub
 [/sjzhushou.com/]tls://dot.pub
 [/sjzjifeng.com/]tls://dot.pub
-[/sjzjinliulin.com/]tls://dot.pub
 [/sjzjkqgs.com/]tls://dot.pub
 [/sjzjtjt.com/]tls://dot.pub
 [/sjzkz.com/]tls://dot.pub
@@ -91974,7 +91966,6 @@
 [/tourgansu.com/]tls://dot.pub
 [/tourhr.com/]tls://dot.pub
 [/tourjob.net/]tls://dot.pub
-[/tourongjia.com/]tls://dot.pub
 [/tourongzi.org/]tls://dot.pub
 [/toursbms.com/]tls://dot.pub
 [/tourscool.com/]tls://dot.pub
@@ -98705,7 +98696,6 @@
 [/wouu.net/]tls://dot.pub
 [/wow.fun/]tls://dot.pub
 [/wowamazingthings.com/]tls://dot.pub
-[/wowbbs.com/]tls://dot.pub
 [/wowcat.net/]tls://dot.pub
 [/wowchina.com/]tls://dot.pub
 [/wowenda.com/]tls://dot.pub
@@ -104057,7 +104047,6 @@
 [/xyzcdn.net/]tls://dot.pub
 [/xyzcn.com/]tls://dot.pub
 [/xyzdict.com/]tls://dot.pub
-[/xyzdns.xyz/]tls://dot.pub
 [/xyzele.com/]tls://dot.pub
 [/xyzfm.link/]tls://dot.pub
 [/xyzfm.space/]tls://dot.pub
@@ -119025,6 +119014,7 @@
 [/ultrasurf.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ultravpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ultravpn.fr/]https://d-o-h.you-cf-domain.com/your-suffix
+[/umap.openstreetmap.fr/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unblock-us.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unblock.cn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/unblockdmm.com/]https://d-o-h.you-cf-domain.com/your-suffix
