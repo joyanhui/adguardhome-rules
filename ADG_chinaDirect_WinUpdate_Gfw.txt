@@ -1681,6 +1681,7 @@
 [/123242.com/]tls://dot.pub
 [/123245.com/]tls://dot.pub
 [/123254.com/]tls://dot.pub
+[/123278.com/]tls://dot.pub
 [/123294.com/]tls://dot.pub
 [/123295.com/]tls://dot.pub
 [/12333.com/]tls://dot.pub
@@ -3803,6 +3804,7 @@
 [/332831.com/]tls://dot.pub
 [/333-555.com/]tls://dot.pub
 [/333.com/]tls://dot.pub
+[/3331.com/]tls://dot.pub
 [/33315.com/]tls://dot.pub
 [/333232.xyz/]tls://dot.pub
 [/333333.com/]tls://dot.pub
@@ -12541,6 +12543,7 @@
 [/ant-financial.com/]tls://dot.pub
 [/ant-open.com/]tls://dot.pub
 [/anta.com/]tls://dot.pub
+[/antafu.com/]tls://dot.pub
 [/antaiib.com/]tls://dot.pub
 [/antairui.net/]tls://dot.pub
 [/antangbusiness.com/]tls://dot.pub
@@ -15954,6 +15957,7 @@
 [/bhshunhui.com/]tls://dot.pub
 [/bhshyy.com/]tls://dot.pub
 [/bhsr.com/]tls://dot.pub
+[/bhsun.com/]tls://dot.pub
 [/bhszyyy.com/]tls://dot.pub
 [/bhtv.cc/]tls://dot.pub
 [/bhuitong.com/]tls://dot.pub
@@ -49025,7 +49029,6 @@
 [/hujingnb.com/]tls://dot.pub
 [/huke88.com/]tls://dot.pub
 [/hukeck.com/]tls://dot.pub
-[/hukelc.com/]tls://dot.pub
 [/hukenb.com/]tls://dot.pub
 [/hukexyy.com/]tls://dot.pub
 [/hukou021.com/]tls://dot.pub
@@ -50237,6 +50240,7 @@
 [/hzzp.com/]tls://dot.pub
 [/hzzpko3186.vip/]tls://dot.pub
 [/hzzqzc.com/]tls://dot.pub
+[/hzzred.com/]tls://dot.pub
 [/hzzrmc.com/]tls://dot.pub
 [/hzzsfs.com/]tls://dot.pub
 [/hzzsxh.com/]tls://dot.pub
@@ -54422,6 +54426,7 @@
 [/jidubook.com/]tls://dot.pub
 [/jidujiao.com/]tls://dot.pub
 [/jidujiasu.com/]tls://dot.pub
+[/jie.ge/]tls://dot.pub
 [/jieanjiaotong.com/]tls://dot.pub
 [/jiebai.com/]tls://dot.pub
 [/jiebanchuyou.com/]tls://dot.pub
@@ -54750,6 +54755,7 @@
 [/jingdudai.com/]tls://dot.pub
 [/jingdukaoyan.com/]tls://dot.pub
 [/jingdw.com/]tls://dot.pub
+[/jingeshou.com/]tls://dot.pub
 [/jingge.com/]tls://dot.pub
 [/jinggeng.net/]tls://dot.pub
 [/jinggon.com/]tls://dot.pub
@@ -55433,6 +55439,7 @@
 [/jj0833.com/]tls://dot.pub
 [/jj20.com/]tls://dot.pub
 [/jj59.com/]tls://dot.pub
+[/jj5agame.com/]tls://dot.pub
 [/jj831.com/]tls://dot.pub
 [/jj99.icu/]tls://dot.pub
 [/jjbang.com/]tls://dot.pub
@@ -55900,7 +55907,6 @@
 [/jnyng.com/]tls://dot.pub
 [/jnyyjt.com/]tls://dot.pub
 [/jnzhuoxin.com/]tls://dot.pub
-[/jnzjzx.net/]tls://dot.pub
 [/jnzl.com/]tls://dot.pub
 [/jnzongchi.com/]tls://dot.pub
 [/jnzx.cc/]tls://dot.pub
@@ -67290,6 +67296,7 @@
 [/modelevel.com/]tls://dot.pub
 [/modelltd.com/]tls://dot.pub
 [/modelones.com/]tls://dot.pub
+[/modelscope.ai/]tls://dot.pub
 [/modelscope.net/]tls://dot.pub
 [/modelwhale.com/]tls://dot.pub
 [/modeng178.com/]tls://dot.pub
@@ -77418,7 +77425,6 @@
 [/qygjyey.com/]tls://dot.pub
 [/qyglzz.com/]tls://dot.pub
 [/qygvip128.com/]tls://dot.pub
-[/qygvip40.com/]tls://dot.pub
 [/qyhgsb.com/]tls://dot.pub
 [/qyhl.vip/]tls://dot.pub
 [/qyhr.org/]tls://dot.pub
@@ -78382,7 +78388,6 @@
 [/rightpaddle.com/]tls://dot.pub
 [/rigol.com/]tls://dot.pub
 [/rigouwang.com/]tls://dot.pub
-[/riitao.com/]tls://dot.pub
 [/riji001.com/]tls://dot.pub
 [/riji100zi.com/]tls://dot.pub
 [/rijigu.com/]tls://dot.pub
@@ -79399,6 +79404,7 @@
 [/safetyimg.com/]tls://dot.pub
 [/safetystatic.com/]tls://dot.pub
 [/safetyvod.com/]tls://dot.pub
+[/safewk.com/]tls://dot.pub
 [/safround.com/]tls://dot.pub
 [/sagewc-exp.com/]tls://dot.pub
 [/sagigame.net/]tls://dot.pub
@@ -80435,7 +80441,6 @@
 [/sdglql.com/]tls://dot.pub
 [/sdgmjiaoyun.com/]tls://dot.pub
 [/sdgren.com/]tls://dot.pub
-[/sdgsdggg.xyz/]tls://dot.pub
 [/sdgsgcjsjt.com/]tls://dot.pub
 [/sdgsjc.com/]tls://dot.pub
 [/sdgslb.com/]tls://dot.pub
@@ -80512,6 +80517,7 @@
 [/sdjcf.com/]tls://dot.pub
 [/sdjcsh.com/]tls://dot.pub
 [/sdjcw.com/]tls://dot.pub
+[/sdjcxxgs.com/]tls://dot.pub
 [/sdjiance.com/]tls://dot.pub
 [/sdjiankan.com/]tls://dot.pub
 [/sdjianmei.com/]tls://dot.pub
@@ -95449,6 +95455,7 @@
 [/wcjm.org/]tls://dot.pub
 [/wclbox.com/]tls://dot.pub
 [/wcloud.com/]tls://dot.pub
+[/wcloudcdn.com/]tls://dot.pub
 [/wcode.net/]tls://dot.pub
 [/wcp.hk/]tls://dot.pub
 [/wcqjyw.com/]tls://dot.pub
@@ -97205,7 +97212,6 @@
 [/wise-iot.com/]tls://dot.pub
 [/wise99.com/]tls://dot.pub
 [/wiseasy.com/]tls://dot.pub
-[/wisebond.net/]tls://dot.pub
 [/wisecity.net/]tls://dot.pub
 [/wisecotech.com/]tls://dot.pub
 [/wisedoo.com/]tls://dot.pub
@@ -98261,6 +98267,7 @@
 [/wujue.com/]tls://dot.pub
 [/wukaikai.tech/]tls://dot.pub
 [/wukao.com/]tls://dot.pub
+[/wukazhifupos.com/]tls://dot.pub
 [/wukong.com/]tls://dot.pub
 [/wukong.la/]tls://dot.pub
 [/wukongbjb.com/]tls://dot.pub
@@ -109686,6 +109693,7 @@
 [/zhenyunpan.com/]tls://dot.pub
 [/zhenzhuchanfu.com/]tls://dot.pub
 [/zheshenet.com/]tls://dot.pub
+[/zheshouka.com/]tls://dot.pub
 [/zhetao.com/]tls://dot.pub
 [/zhetian.org/]tls://dot.pub
 [/zhetouniu.com/]tls://dot.pub
@@ -113253,12 +113261,10 @@
 [/cn.download.nvidia.com/]tls://dot.pub
 [/cn.widevine.com/]tls://dot.pub
 [/cn.windowssearch.com/]tls://dot.pub
-[/cnappinstall.googleadapis.com/]tls://dot.pub
 [/communities.apple.com/]tls://dot.pub
 [/configuration.apple.com/]tls://dot.pub
 [/configuration.apple.com.akadns.net/]tls://dot.pub
 [/connectivitycheck.gstatic.com/]tls://dot.pub
-[/content.googleadapis.com/]tls://dot.pub
 [/crashlyticsreports-pa.googleapis.com/]tls://dot.pub
 [/crl-lb.apple.com.akadns.net/]tls://dot.pub
 [/crl.apple.com/]tls://dot.pub
@@ -113317,7 +113323,6 @@
 [/download.developer.apple.com/]tls://dot.pub
 [/download.microsoft.com/]tls://dot.pub
 [/download.mlcc.google.com/]tls://dot.pub
-[/download.qatp1.net/]tls://dot.pub
 [/download.tensorflow.google.com/]tls://dot.pub
 [/download.visualstudio.microsoft.com/]tls://dot.pub
 [/downloaddispatch.itunes.apple.com/]tls://dot.pub
@@ -113325,7 +113330,6 @@
 [/ea2cn-prod-outlet.dell.com/]tls://dot.pub
 [/ea2cn-staging-outlet.dell.com/]tls://dot.pub
 [/edge.geo.kaspersky.com/]tls://dot.pub
-[/emmapplecodevice.googleapis.com/]tls://dot.pub
 [/emoi-cncdn.bing.com/]tls://dot.pub
 [/end-api.shallow.ink/]tls://dot.pub
 [/end.shallow.ink/]tls://dot.pub
@@ -113349,7 +113353,6 @@
 [/gbxgateway-dev.dell.com/]tls://dot.pub
 [/gbxgateway.dell.com/]tls://dot.pub
 [/geetest.datasink.sensorsdata.cn/]tls://dot.pub
-[/go.corp.google.com/]tls://dot.pub
 [/gog-cdn-fastly.gog.com/]tls://dot.pub
 [/gog-cdn.akamaized.net/]tls://dot.pub
 [/gog.qtlglb.com/]tls://dot.pub
@@ -113472,11 +113475,7 @@
 [/ksn-url.geoksn.kaspersky.com/]tls://dot.pub
 [/ksn-verdict-geo.kaspersky-labs.com/]tls://dot.pub
 [/ksn-verdict.geoksn.kaspersky.com/]tls://dot.pub
-[/l2-uberproxy.corp.google.com/]tls://dot.pub
 [/learn.microsoft.com/]tls://dot.pub
-[/logger-dev.corp.google.com/]tls://dot.pub
-[/logger.corp.google.com/]tls://dot.pub
-[/login.corp.google.com/]tls://dot.pub
 [/lv.queniujq.cn/]tls://dot.pub
 [/maps.apple.com/]tls://dot.pub
 [/mdr.ksn.kaspersky-labs.com/]tls://dot.pub
@@ -113486,7 +113485,6 @@
 [/mesu.apple.com/]tls://dot.pub
 [/misc-assets.itunes.apple.com/]tls://dot.pub
 [/ml.cdn-apple.com/]tls://dot.pub
-[/monitoring.qpdp1.net/]tls://dot.pub
 [/moocs.unipus.cn/]tls://dot.pub
 [/music.apple.com/]tls://dot.pub
 [/musicstatus.music.apple.com/]tls://dot.pub
@@ -113570,16 +113568,9 @@
 [/prod-support.apple-support.akadns.net/]tls://dot.pub
 [/prod.databe.floonet.goog/]tls://dot.pub
 [/productcard.gog-statics.com/]tls://dot.pub
-[/proxyconfig.corp.google.com/]tls://dot.pub
 [/publicassets.cdn-apple.com/]tls://dot.pub
-[/qagpublic.qatp1.net/]tls://dot.pub
-[/qgadmin.qcpp1.net/]tls://dot.pub
 [/qiao-cn.com/]tls://dot.pub
 [/qpx.googleflights.net/]tls://dot.pub
-[/qualysapi.qatp1.net/]tls://dot.pub
-[/qualysguard.qpdp1.net/]tls://dot.pub
-[/r.cert.corp.google.com/]tls://dot.pub
-[/rapture-prod.corp.google.com/]tls://dot.pub
 [/recaptcha-cn.net/]tls://dot.pub
 [/recaptcha.net/]tls://dot.pub
 [/redirector.bdn.dev/]tls://dot.pub
@@ -113625,7 +113616,6 @@
 [/s5.mzstatic.com/]tls://dot.pub
 [/safebrowsing-cache.google.com/]tls://dot.pub
 [/safebrowsing.googleapis.com/]tls://dot.pub
-[/scanservice1.qcpp1.net/]tls://dot.pub
 [/scene7-cdn.dell.com/]tls://dot.pub
 [/sdx.microsoft.com/]tls://dot.pub
 [/se-edge.itunes.apple.com/]tls://dot.pub
@@ -113651,7 +113641,6 @@
 [/ss.bjmu.edu.cn/]tls://dot.pub
 [/ssl-google-analytics.l.google.com/]tls://dot.pub
 [/ssl.gstatic.com/]tls://dot.pub
-[/sslredirect.corp.google.com/]tls://dot.pub
 [/staging-controlbe.floonet.goog/]tls://dot.pub
 [/staging-databe.floonet.goog/]tls://dot.pub
 [/staging.databe.floonet.goog/]tls://dot.pub
@@ -113666,15 +113655,9 @@
 [/store.storeimages.apple.com.akadns.net/]tls://dot.pub
 [/store.storeimages.cdn-apple.com/]tls://dot.pub
 [/storeedgefd.dsx.mp.microsoft.com/]tls://dot.pub
-[/streaming-uberproxy-rotation.corp.google.com/]tls://dot.pub
-[/streaming-uberproxy.corp.google.com/]tls://dot.pub
 [/streamingaudio.itunes.apple.com/]tls://dot.pub
 [/study.163.com/]tls://dot.pub
 [/su.itunes.apple.com/]tls://dot.pub
-[/sup-ssh-relay.corp.google.com/]tls://dot.pub
-[/sup-ssh-relay2.corp.google.com/]tls://dot.pub
-[/sup.corp.google.com/]tls://dot.pub
-[/sup.l.google.com/]tls://dot.pub
 [/support-china.apple-support.akadns.net/]tls://dot.pub
 [/support.apple.com/]tls://dot.pub
 [/supportassist.dell.com/]tls://dot.pub
@@ -113693,18 +113676,13 @@
 [/sync.itunes.apple.com/]tls://dot.pub
 [/tac.googleapis.com/]tls://dot.pub
 [/tesla-cdn.thron.cn/]tls://dot.pub
-[/test.gbugs-qa.chromium.org/]tls://dot.pub
 [/tf-feedback.itunes.apple.com/]tls://dot.pub
 [/time.amazonaws.cn/]tls://dot.pub
 [/time.izatcloud.net/]tls://dot.pub
 [/time.xtracloud.net/]tls://dot.pub
 [/tj-pod1-smp-device.apple.com/]tls://dot.pub
 [/tools.google.com/]tls://dot.pub
-[/tools.l.google.com/]tls://dot.pub
 [/tp.louisvuitton.com/]tls://dot.pub
-[/uberproxy-debug4.corp.google.com/]tls://dot.pub
-[/uberproxy.corp.google.com/]tls://dot.pub
-[/uberproxy6.corp.google.com/]tls://dot.pub
 [/universal-activity-service.itunes.apple.com/]tls://dot.pub
 [/update.crashlytics.com/]tls://dot.pub
 [/update.googleapis.com/]tls://dot.pub
@@ -113740,7 +113718,6 @@
 [/www.recaptcha.net/]tls://dot.pub
 [/www.support.apple.com/]tls://dot.pub
 [/www4-static.gog-statics.com/]tls://dot.pub
-[/xn--flw351e.com/]tls://dot.pub
 [/xp.apple.com/]tls://dot.pub
 [/xtratime.qcomgeo2.com/]tls://dot.pub
 [/xz.pphimalayanrt.com/]tls://dot.pub
