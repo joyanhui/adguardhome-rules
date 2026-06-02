@@ -24645,6 +24645,7 @@
 [/cnsihai.com/]tls://dot.pub
 [/cnsikao.com/]tls://dot.pub
 [/cnsimeng.com/]tls://dot.pub
+[/cnsimg.net/]tls://dot.pub
 [/cnsimin.com/]tls://dot.pub
 [/cnsiwu.com/]tls://dot.pub
 [/cnskg.com/]tls://dot.pub
@@ -89698,6 +89699,7 @@
 [/tianxingjianyiliao.com/]tls://dot.pub
 [/tianxinkeji.com/]tls://dot.pub
 [/tianya.com/]tls://dot.pub
+[/tianya.net/]tls://dot.pub
 [/tianya.tv/]tls://dot.pub
 [/tianya66.com/]tls://dot.pub
 [/tianyabook.com/]tls://dot.pub
@@ -100607,6 +100609,7 @@
 [/xinmeijiutian.com/]tls://dot.pub
 [/xinmeinuo.com/]tls://dot.pub
 [/xinmem.com/]tls://dot.pub
+[/xinmeng.info/]tls://dot.pub
 [/xinmenglife.com/]tls://dot.pub
 [/xinmeow.com/]tls://dot.pub
 [/xinmeti.com/]tls://dot.pub
