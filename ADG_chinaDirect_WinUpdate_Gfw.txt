@@ -17812,6 +17812,7 @@
 [/brightdairy.com/]tls://dot.pub
 [/brightdecolighting.com/]tls://dot.pub
 [/brightfood.com/]tls://dot.pub
+[/brighticecream.com/]tls://dot.pub
 [/brightliao.com/]tls://dot.pub
 [/brightmeat.com/]tls://dot.pub
 [/brilliance-auto.com/]tls://dot.pub
@@ -21756,6 +21757,7 @@
 [/chinacordblood.org/]tls://dot.pub
 [/chinacosco.com/]tls://dot.pub
 [/chinacourt.org/]tls://dot.pub
+[/chinacow.com/]tls://dot.pub
 [/chinacpda.com/]tls://dot.pub
 [/chinacpda.org/]tls://dot.pub
 [/chinacqme.com/]tls://dot.pub
@@ -100491,6 +100493,7 @@
 [/xinlingletu.com/]tls://dot.pub
 [/xinlip.com/]tls://dot.pub
 [/xinlischool.com/]tls://dot.pub
+[/xinlishumeng.com/]tls://dot.pub
 [/xinliwanju.com/]tls://dot.pub
 [/xinlixinli.net/]tls://dot.pub
 [/xinlong-holding.com/]tls://dot.pub
