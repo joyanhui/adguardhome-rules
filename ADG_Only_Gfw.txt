@@ -2720,7 +2720,6 @@
 [/pacom.mil/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pacopacomama.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/page.link/]https://d-o-h.you-cf-domain.com/your-suffix
-[/pages.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/paimon.moe/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pancakeswap.finance/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pandafan.pub/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3333,6 +3332,7 @@
 [/surfeasy.com.au/]https://d-o-h.you-cf-domain.com/your-suffix
 [/surfshark.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/surrenderat20.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/suyingtv.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/swagbucks.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/swapspace.co/]https://d-o-h.you-cf-domain.com/your-suffix
 [/swissinfo.ch/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4016,6 +4016,7 @@
 [/wowporn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/woyaolian.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wp.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/wplace.live/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wpoforum.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/writesonic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wsj.com/]https://d-o-h.you-cf-domain.com/your-suffix
