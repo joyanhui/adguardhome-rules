@@ -112543,6 +112543,7 @@
 [/cl2-cdn.origin-apple.com.akadns.net/]tls://dot.pub
 [/cl2-cn.apple.com/]tls://dot.pub
 [/cl2.apple.com/]tls://dot.pub
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub
 [/cl3-cdn.origin-apple.com.akadns.net/]tls://dot.pub
 [/cl3.apple.com/]tls://dot.pub
 [/cl4-cdn.origin-apple.com.akadns.net/]tls://dot.pub
@@ -112683,6 +112684,7 @@
 [/gs-loc-cn.apple.com/]tls://dot.pub
 [/gs-loc.apple.com/]tls://dot.pub
 [/gsp10-ssl-cn.ls.apple.com/]tls://dot.pub
+[/gsp11-cn.ls.apple.com/]tls://dot.pub
 [/gsp12-cn.ls.apple.com/]tls://dot.pub
 [/gsp13-cn.ls.apple.com/]tls://dot.pub
 [/gsp4-cn.ls.apple.com/]tls://dot.pub
@@ -112711,8 +112713,6 @@
 [/hospital.pku.edu.cn/]tls://dot.pub
 [/i.dell.com/]tls://dot.pub
 [/i.pki.goog/]tls://dot.pub
-[/icloud-cdn.icloud.com.akadns.net/]tls://dot.pub
-[/icloud.cdn-apple.com/]tls://dot.pub
 [/images-cn-8.ssl-images-amazon.com/]tls://dot.pub
 [/images-cn.ssl-images-amazon.com/]tls://dot.pub
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub
@@ -112810,10 +112810,8 @@
 [/ntp6.aliyun.com/]tls://dot.pub
 [/ntp7.aliyun.com/]tls://dot.pub
 [/o.pki.goog/]tls://dot.pub
-[/ocsp-lb.apple.com.akadns.net/]tls://dot.pub
 [/ocsp.apple.com/]tls://dot.pub
 [/ocsp.pki.goog/]tls://dot.pub
-[/ocsp2-lb.apple.com.akadns.net/]tls://dot.pub
 [/ocsp2.apple.com/]tls://dot.pub
 [/oemsoc.download.prss.microsoft.com/]tls://dot.pub
 [/officecdn.microsoft.com/]tls://dot.pub
@@ -112856,7 +112854,6 @@
 [/p9-juejin.byteimg.com/]tls://dot.pub
 [/pagead-googlehosted.l.google.com/]tls://dot.pub
 [/pancake.apple.com/]tls://dot.pub
-[/pancake.cdn-apple.com.akadns.net/]tls://dot.pub
 [/pba0.apple.com/]tls://dot.pub
 [/pd-nk.itunes.apple.com/]tls://dot.pub
 [/pd.itunes.apple.com/]tls://dot.pub
@@ -112889,7 +112886,6 @@
 [/refresh-bkg.activation-v2.kaspersky.com/]tls://dot.pub
 [/res-1.cdn.office.net/]tls://dot.pub
 [/res.cdn.office.net/]tls://dot.pub
-[/reserve-prime.apple.com/]tls://dot.pub
 [/s.mzstatic.com/]tls://dot.pub
 [/s00.upd.kaspersky.com/]tls://dot.pub
 [/s01.upd.kaspersky.com/]tls://dot.pub
