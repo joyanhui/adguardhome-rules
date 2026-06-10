@@ -51554,7 +51554,6 @@
 [/infomorning.com/]tls://dot.pub
 [/infong.net/]tls://dot.pub
 [/infoobs.com/]tls://dot.pub
-[/infoq.com/]tls://dot.pub
 [/infoqstatic.com/]tls://dot.pub
 [/inforbus.com/]tls://dot.pub
 [/inforeenviro.com/]tls://dot.pub
@@ -51885,7 +51884,6 @@
 [/iouluo.com/]tls://dot.pub
 [/ioxqm.com/]tls://dot.pub
 [/ioxunyun.com/]tls://dot.pub
-[/ip-cdn.com/]tls://dot.pub
 [/ip-guard.net/]tls://dot.pub
 [/ip-hercules.com/]tls://dot.pub
 [/ip-soc.com/]tls://dot.pub
