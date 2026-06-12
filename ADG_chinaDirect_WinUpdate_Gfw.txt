@@ -3302,6 +3302,7 @@
 [/264006.com/]tls://dot.pub
 [/264321.com/]tls://dot.pub
 [/264400.com/]tls://dot.pub
+[/265.com/]tls://dot.pub
 [/26582.vip/]tls://dot.pub
 [/26595.com/]tls://dot.pub
 [/265g.com/]tls://dot.pub
@@ -112489,7 +112490,6 @@
 [/zzzyyy.com/]tls://dot.pub
 [/zzzzaaaa.com/]tls://dot.pub
 [/zzzzzz.me/]tls://dot.pub
-[/265.com/]tls://dot.pub
 [/2mdn-cn.net/]tls://dot.pub
 [/2mdn.net/]tls://dot.pub
 [/a1.mzstatic.com/]tls://dot.pub
@@ -113043,6 +113043,7 @@
 [/www.gstatic.com/]tls://dot.pub
 [/www.microsoft.com/]tls://dot.pub
 [/www.pxcc.com/]tls://dot.pub
+[/www.recaptcha-cn.net/]tls://dot.pub
 [/www.recaptcha.net/]tls://dot.pub
 [/www.support.apple.com/]tls://dot.pub
 [/www4-static.gog-statics.com/]tls://dot.pub
