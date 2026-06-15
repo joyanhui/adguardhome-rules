@@ -38819,7 +38819,6 @@
 [/gmtv.cc/]tls://dot.pub
 [/gmtzy.com/]tls://dot.pub
 [/gmugmu.com/]tls://dot.pub
-[/gmw.com/]tls://dot.pub
 [/gmwiki.com/]tls://dot.pub
 [/gmxmym.ren/]tls://dot.pub
 [/gmya.net/]tls://dot.pub
@@ -65281,11 +65280,11 @@
 [/meishi13.com/]tls://dot.pub
 [/meishichina.com/]tls://dot.pub
 [/meishiffx.online/]tls://dot.pub
-[/meishij.net/]tls://dot.pub
 [/meishijr.com/]tls://dot.pub
 [/meishilife.com/]tls://dot.pub
 [/meishiqin.com/]tls://dot.pub
 [/meishischool.com/]tls://dot.pub
+[/meishitx.com/]tls://dot.pub
 [/meishiwangluo.com/]tls://dot.pub
 [/meishizuofa.com/]tls://dot.pub
 [/meishow.com/]tls://dot.pub
@@ -100153,7 +100152,6 @@
 [/xinshengsemi.com/]tls://dot.pub
 [/xinshi525.com/]tls://dot.pub
 [/xinshiba.com/]tls://dot.pub
-[/xinshipu.com/]tls://dot.pub
 [/xinshishen.com/]tls://dot.pub
 [/xinshouyou.com/]tls://dot.pub
 [/xinshouzhanzhang.com/]tls://dot.pub
