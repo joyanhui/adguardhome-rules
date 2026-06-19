@@ -87,6 +87,7 @@
 [/about.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/abplive.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acast.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/accountboy.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/accountkit.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acevpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/acg.mn/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2441,6 +2442,7 @@
 [/monocloud.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/monster.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moodyz.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/moomoo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moon.fm/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moonbbs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moonbingo.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4106,6 +4108,7 @@
 [/xn--oiq.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--p8j9a0d9c9a.xn--q9jyb4c/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xn--u2u927b.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xn--vuqv2cf7wzyig79c.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xnpool.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xnxx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xpud.org/]https://d-o-h.you-cf-domain.com/your-suffix
