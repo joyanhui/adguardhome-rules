@@ -13828,6 +13828,7 @@
 [/b-k-automation.com/]tls://dot.pub
 [/b-raymedia.com/]tls://dot.pub
 [/b.biz/]tls://dot.pub
+[/b.c2r.ts.cdn.office.net/]tls://dot.pub
 [/b01.net/]tls://dot.pub
 [/b02f0d7f3745ba7c.com/]tls://dot.pub
 [/b041e427810281.beer/]tls://dot.pub
@@ -31087,6 +31088,7 @@
 [/dxm-cdn.com/]tls://dot.pub
 [/dxm-int.com/]tls://dot.pub
 [/dxm-yibai.com/]tls://dot.pub
+[/dxmbaoxian.com/]tls://dot.pub
 [/dxmjinr.com/]tls://dot.pub
 [/dxmjuhe.com/]tls://dot.pub
 [/dxmlcf.com/]tls://dot.pub
@@ -33606,6 +33608,7 @@
 [/f-insight.com/]tls://dot.pub
 [/f-stack.org/]tls://dot.pub
 [/f.biz/]tls://dot.pub
+[/f.c2r.ts.cdn.office.net/]tls://dot.pub
 [/f.cx/]tls://dot.pub
 [/f008.com/]tls://dot.pub
 [/f015dfc4510292.beer/]tls://dot.pub
@@ -64798,6 +64801,7 @@
 [/mcpemaster.com/]tls://dot.pub
 [/mcpfks.com/]tls://dot.pub
 [/mcpmaid.com/]tls://dot.pub
+[/mcpworld.com/]tls://dot.pub
 [/mcq93.app/]tls://dot.pub
 [/mcqy.net/]tls://dot.pub
 [/mcsafebox.com/]tls://dot.pub
@@ -67766,6 +67770,7 @@
 [/mysqil.com/]tls://dot.pub
 [/mysql360.com/]tls://dot.pub
 [/mysqlab.net/]tls://dot.pub
+[/myssl-uri.com/]tls://dot.pub
 [/myssl.com/]tls://dot.pub
 [/mystarch.com/]tls://dot.pub
 [/mysteel.com/]tls://dot.pub
@@ -72518,6 +72523,7 @@
 [/perfect-input.com/]tls://dot.pub
 [/perfect99.com/]tls://dot.pub
 [/perfectdiary.com/]tls://dot.pub
+[/perfectlingo.com/]tls://dot.pub
 [/perfecttradinghk.com/]tls://dot.pub
 [/perfectwatchen.com/]tls://dot.pub
 [/perfertw.com/]tls://dot.pub
@@ -73948,6 +73954,7 @@
 [/pw1999.com/]tls://dot.pub
 [/pw88.com/]tls://dot.pub
 [/pwand.com/]tls://dot.pub
+[/pwcinema.com/]tls://dot.pub
 [/pwdding.icu/]tls://dot.pub
 [/pwithe.com/]tls://dot.pub
 [/pwjptdg.xyz/]tls://dot.pub
@@ -81104,6 +81111,7 @@
 [/sheketiandi.com/]tls://dot.pub
 [/shekou.com/]tls://dot.pub
 [/shelive.net/]tls://dot.pub
+[/shell.cdn.office.net/]tls://dot.pub
 [/shellpub.com/]tls://dot.pub
 [/shellsec.com/]tls://dot.pub
 [/shelter-china.com/]tls://dot.pub
@@ -84916,6 +84924,7 @@
 [/staticfile.org/]tls://dot.pub
 [/statickksmg.com/]tls://dot.pub
 [/statics.cc/]tls://dot.pub
+[/statics.teams.cdn.office.net/]tls://dot.pub
 [/staticsdd.com/]tls://dot.pub
 [/staticsoe.com/]tls://dot.pub
 [/staticsoem.com/]tls://dot.pub
@@ -85620,6 +85629,7 @@
 [/surely.cool/]tls://dot.pub
 [/surerp.com/]tls://dot.pub
 [/surface.download.prss.microsoft.com/]tls://dot.pub
+[/surface.downloads.prss.microsoft.com/]tls://dot.pub
 [/surfacetreatmentgroup.com/]tls://dot.pub
 [/surfacetreatmenttechnology.com/]tls://dot.pub
 [/surfcg.com/]tls://dot.pub
@@ -90563,6 +90573,7 @@
 [/trust400.com/]tls://dot.pub
 [/trusta-lawyer.com/]tls://dot.pub
 [/trustasia.com/]tls://dot.pub
+[/trustasia.net/]tls://dot.pub
 [/trustcn.com/]tls://dot.pub
 [/trustdecision.com/]tls://dot.pub
 [/trustedsign.com/]tls://dot.pub
@@ -112008,6 +112019,10 @@
 [/apptrailers.itunes.apple.com/]tls://dot.pub
 [/auth.music.apple.com/]tls://dot.pub
 [/avail.googleflights.net/]tls://dot.pub
+[/azuremigrate.download.prss.microsoft.com/]tls://dot.pub
+[/azuremigratetest.download.prss.microsoft.com/]tls://dot.pub
+[/azurestackhub.download.prss.microsoft.com/]tls://dot.pub
+[/azurestackhubuat.download.prss.microsoft.com/]tls://dot.pub
 [/b.c2r.ts.cdn.office.net/]tls://dot.pub
 [/bag-cdn.itunes-apple.com.akadns.net/]tls://dot.pub
 [/bag.itunes.apple.com/]tls://dot.pub
@@ -112015,16 +112030,14 @@
 [/beacons.gvt2.com/]tls://dot.pub
 [/beacons2.gvt2.com/]tls://dot.pub
 [/beacons3.gvt2.com/]tls://dot.pub
-[/bg.v4.a.dl.ws.microsoft.com/]tls://dot.pub
-[/bg4.v4.a.dl.ws.microsoft.com/]tls://dot.pub
 [/bj1.api.bing.com/]tls://dot.pub
 [/bookkeeper.itunes.apple.com/]tls://dot.pub
-[/build.microsoft.com/]tls://dot.pub
 [/c.admob.com/]tls://dot.pub
 [/c.android.clients.google.com/]tls://dot.pub
 [/c.pki.goog/]tls://dot.pub
 [/cache-management-prod.google.com/]tls://dot.pub
 [/cache.pack.google.com/]tls://dot.pub
+[/cbdstest.download.prss.microsoft.com/]tls://dot.pub
 [/cdn-cn.apple-mapkit.com/]tls://dot.pub
 [/cdn-cn1.apple-mapkit.com/]tls://dot.pub
 [/cdn-cn2.apple-mapkit.com/]tls://dot.pub
@@ -112033,7 +112046,6 @@
 [/cdn.ampproject.org/]tls://dot.pub
 [/cdn.apple-mapkit.com/]tls://dot.pub
 [/cdn.globalsigncdn.com.cdn.cloudflare.net/]tls://dot.pub
-[/cdn.marketplaceimages.windowsphone.com/]tls://dot.pub
 [/cdn1.apple-mapkit.com/]tls://dot.pub
 [/cdn2.apple-mapkit.com/]tls://dot.pub
 [/cdn3.apple-mapkit.com/]tls://dot.pub
@@ -112071,6 +112083,8 @@
 [/cn.download.nvidia.com/]tls://dot.pub
 [/cn.widevine.com/]tls://dot.pub
 [/cn.windowssearch.com/]tls://dot.pub
+[/collaborate.download.prss.microsoft.com/]tls://dot.pub
+[/collaborateppe.download.prss.microsoft.com/]tls://dot.pub
 [/communities.apple.com/]tls://dot.pub
 [/configuration.apple.com/]tls://dot.pub
 [/configuration.apple.com.akadns.net/]tls://dot.pub
@@ -112098,7 +112112,6 @@
 [/dd-cdn.origin-apple.com.akadns.net/]tls://dot.pub
 [/dds.dell.com/]tls://dot.pub
 [/dejavu.apple.com/]tls://dot.pub
-[/devblogs.microsoft.com/]tls://dot.pub
 [/developer.microsoft.com/]tls://dot.pub
 [/devimages-cdn.apple.com/]tls://dot.pub
 [/devstreaming-cdn.apple.com/]tls://dot.pub
@@ -112127,7 +112140,6 @@
 [/dnl-17.geo.kaspersky.com/]tls://dot.pub
 [/dnl-18.geo.kaspersky.com/]tls://dot.pub
 [/dnl-19.geo.kaspersky.com/]tls://dot.pub
-[/docs.microsoft.com/]tls://dot.pub
 [/doubleclick-cn.net/]tls://dot.pub
 [/doubleclick.net/]tls://dot.pub
 [/download.developer.apple.com/]tls://dot.pub
@@ -112136,6 +112148,8 @@
 [/download.tensorflow.google.com/]tls://dot.pub
 [/download.visualstudio.microsoft.com/]tls://dot.pub
 [/downloaddispatch.itunes.apple.com/]tls://dot.pub
+[/dreamspark.download.prss.microsoft.com/]tls://dot.pub
+[/dreamsparkuat.download.prss.microsoft.com/]tls://dot.pub
 [/ea2cn-dev-outlet.dell.com/]tls://dot.pub
 [/ea2cn-prod-outlet.dell.com/]tls://dot.pub
 [/ea2cn-staging-outlet.dell.com/]tls://dot.pub
@@ -112151,7 +112165,6 @@
 [/fontfiles.googleapis.com/]tls://dot.pub
 [/fonts.googleapis.com/]tls://dot.pub
 [/fonts.gstatic.com/]tls://dot.pub
-[/fs.microsoft.com/]tls://dot.pub
 [/fta.dell.com/]tls://dot.pub
 [/ftaapj.dell.com/]tls://dot.pub
 [/ftaemea.dell.com/]tls://dot.pub
@@ -112251,6 +112264,8 @@
 [/is4.mzstatic.com/]tls://dot.pub
 [/is5-ssl.mzstatic.com/]tls://dot.pub
 [/is5.mzstatic.com/]tls://dot.pub
+[/itacademy.download.prss.microsoft.com/]tls://dot.pub
+[/itacademyuat.download.prss.microsoft.com/]tls://dot.pub
 [/itunes-apple.com.akadns.net/]tls://dot.pub
 [/itunes.apple.com/]tls://dot.pub
 [/itunesconnect.apple.com/]tls://dot.pub
@@ -112281,16 +112296,25 @@
 [/ksn-url.geoksn.kaspersky.com/]tls://dot.pub
 [/ksn-verdict-geo.kaspersky-labs.com/]tls://dot.pub
 [/ksn-verdict.geoksn.kaspersky.com/]tls://dot.pub
-[/learn.microsoft.com/]tls://dot.pub
+[/lex.download.prss.microsoft.com/]tls://dot.pub
+[/lexuat.download.prss.microsoft.com/]tls://dot.pub
 [/lv.queniujq.cn/]tls://dot.pub
 [/maps.apple.com/]tls://dot.pub
+[/mbs.download.prss.microsoft.com/]tls://dot.pub
 [/mdr.ksn.kaspersky-labs.com/]tls://dot.pub
+[/mensura.cdn-apple.com/]tls://dot.pub
 [/mesu-cdn.apple.com.akadns.net/]tls://dot.pub
 [/mesu-china.apple.com.akadns.net/]tls://dot.pub
 [/mesu.apple.com/]tls://dot.pub
 [/misc-assets.itunes.apple.com/]tls://dot.pub
 [/ml.cdn-apple.com/]tls://dot.pub
 [/moocs.unipus.cn/]tls://dot.pub
+[/mpnbenefits.download.prss.microsoft.com/]tls://dot.pub
+[/mpnbenefitsrtl.download.prss.microsoft.com/]tls://dot.pub
+[/mpnbenefitsrtluat.download.prss.microsoft.com/]tls://dot.pub
+[/msdn.download.prss.microsoft.com/]tls://dot.pub
+[/msdprod-ad.download.prss.microsoft.com/]tls://dot.pub
+[/msproduct.download.prss.microsoft.com/]tls://dot.pub
 [/music.apple.com/]tls://dot.pub
 [/musicstatus.music.apple.com/]tls://dot.pub
 [/mvod.itunes.apple.com/]tls://dot.pub
@@ -112317,10 +112341,14 @@
 [/ocsp.pki.goog/]tls://dot.pub
 [/ocsp2.apple.com/]tls://dot.pub
 [/oemsoc.download.prss.microsoft.com/]tls://dot.pub
+[/oemsocuat.download.prss.microsoft.com/]tls://dot.pub
 [/officecdn.microsoft.com/]tls://dot.pub
+[/officemkt.download.prss.microsoft.com/]tls://dot.pub
+[/officemktuat.download.prss.microsoft.com/]tls://dot.pub
 [/opencourse.pku.edu.cn/]tls://dot.pub
 [/oscdn.apple.com/]tls://dot.pub
 [/oscdn.origin-apple.com.akadns.net/]tls://dot.pub
+[/osrelease.download.prss.microsoft.com/]tls://dot.pub
 [/osxapps.itunes.apple.com/]tls://dot.pub
 [/osxapps.itunes.g.aaplimg.com/]tls://dot.pub
 [/p.cdn.persaas.dell.com/]tls://dot.pub
@@ -112386,8 +112414,7 @@
 [/redirector.snap.gvt1.com/]tls://dot.pub
 [/redirector.xn--ngstr-lra8j.com/]tls://dot.pub
 [/refresh-bkg.activation-v2.kaspersky.com/]tls://dot.pub
-[/res-1.cdn.office.net/]tls://dot.pub
-[/res.cdn.office.net/]tls://dot.pub
+[/rsm.download.prss.microsoft.com/]tls://dot.pub
 [/s.mzstatic.com/]tls://dot.pub
 [/s00.upd.kaspersky.com/]tls://dot.pub
 [/s01.upd.kaspersky.com/]tls://dot.pub
@@ -112453,6 +112480,8 @@
 [/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub
 [/store.storeimages.apple.com.akadns.net/]tls://dot.pub
 [/store.storeimages.cdn-apple.com/]tls://dot.pub
+[/storecorefulfillment.download.prss.microsoft.com/]tls://dot.pub
+[/storeedge.microsoft.com/]tls://dot.pub
 [/storeedgefd.dsx.mp.microsoft.com/]tls://dot.pub
 [/streamingaudio.itunes.apple.com/]tls://dot.pub
 [/study.163.com/]tls://dot.pub
@@ -112460,6 +112489,7 @@
 [/support-china.apple-support.akadns.net/]tls://dot.pub
 [/support.apple.com/]tls://dot.pub
 [/supportassist.dell.com/]tls://dot.pub
+[/surface.download.prss.microsoft.com/]tls://dot.pub
 [/surface.downloads.prss.microsoft.com/]tls://dot.pub
 [/swallow-apple-com.v.aaplimg.com/]tls://dot.pub
 [/swallow.apple.com/]tls://dot.pub
@@ -112492,6 +112522,8 @@
 [/upp.itunes.apple.com/]tls://dot.pub
 [/valid.apple.com/]tls://dot.pub
 [/valid.origin-apple.com.akadns.net/]tls://dot.pub
+[/vlportal.download.prss.microsoft.com/]tls://dot.pub
+[/volic.download.prss.microsoft.com/]tls://dot.pub
 [/vscode.download.prss.microsoft.com/]tls://dot.pub
 [/vz.download.prss.microsoft.com/]tls://dot.pub
 [/wear.googleapis.com/]tls://dot.pub
@@ -112500,8 +112532,7 @@
 [/weather-map.apple.com/]tls://dot.pub
 [/weather-map2.apple.com/]tls://dot.pub
 [/weatherkit.apple.com/]tls://dot.pub
-[/wscont1.apps.microsoft.com/]tls://dot.pub
-[/wscont2.apps.microsoft.com/]tls://dot.pub
+[/windbg.download.prss.microsoft.com/]tls://dot.pub
 [/www-csb.dell.com/]tls://dot.pub
 [/www-google-analytics.l.google.com/]tls://dot.pub
 [/www-googletagmanager.l.google.com/]tls://dot.pub
@@ -112512,7 +112543,6 @@
 [/www.destinationurl.com/]tls://dot.pub
 [/www.entrust.cn/]tls://dot.pub
 [/www.gstatic.com/]tls://dot.pub
-[/www.microsoft.com/]tls://dot.pub
 [/www.pxcc.com/]tls://dot.pub
 [/www.recaptcha-cn.net/]tls://dot.pub
 [/www.recaptcha.net/]tls://dot.pub
