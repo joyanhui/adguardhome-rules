@@ -111881,6 +111881,7 @@
 [/a3.mzstatic.com/]tls://dot.pub
 [/a4.mzstatic.com/]tls://dot.pub
 [/a5.mzstatic.com/]tls://dot.pub
+[/account-cn.alibabacloud.com/]tls://dot.pub
 [/activate.activation-v2.kaspersky.com/]tls://dot.pub
 [/activation-v2.geo.kaspersky.com/]tls://dot.pub
 [/activation-v2.kaspersky.com/]tls://dot.pub
@@ -111903,6 +111904,7 @@
 [/aod-ssl.itunes.apple.com/]tls://dot.pub
 [/aod.itunes.apple.com/]tls://dot.pub
 [/api-edge.apps.apple.com/]tls://dot.pub
+[/api.alibabacloud.com/]tls://dot.pub
 [/app-analytics-services.com/]tls://dot.pub
 [/app-measurement-cn.com/]tls://dot.pub
 [/app-measurement.com/]tls://dot.pub
@@ -111976,6 +111978,7 @@
 [/clientservices.googleapis.com/]tls://dot.pub
 [/cma.itunes.apple.com/]tls://dot.pub
 [/cn-smp-paymentservices.apple.com/]tls://dot.pub
+[/cn.alibabacloud.com/]tls://dot.pub
 [/cn.download.nvidia.com/]tls://dot.pub
 [/cn.widevine.com/]tls://dot.pub
 [/cn.windowssearch.com/]tls://dot.pub
@@ -112369,6 +112372,7 @@
 [/staging.databe.floonet.goog/]tls://dot.pub
 [/static.gc.apple.com/]tls://dot.pub
 [/statics.teams.cdn.office.net/]tls://dot.pub
+[/status.alibabacloud.com/]tls://dot.pub
 [/stocks-sparkline-lb.apple.com.akadns.net/]tls://dot.pub
 [/stocks-sparkline.apple.com/]tls://dot.pub
 [/store.apple.com/]tls://dot.pub
@@ -113859,6 +113863,7 @@
 [/crazyshit.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/crbug.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/crchina.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/creader.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/creaders.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/creativelab5.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cristyli.com/]https://d-o-h.you-cf-domain.com/your-suffix
