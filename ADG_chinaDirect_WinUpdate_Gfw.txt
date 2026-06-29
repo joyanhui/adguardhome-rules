@@ -58788,7 +58788,6 @@
 [/kschuangku.com/]tls://dot.pub
 [/kscloudapi.com/]tls://dot.pub
 [/ksco.cc/]tls://dot.pub
-[/kscord.com/]tls://dot.pub
 [/ksdedu.com/]tls://dot.pub
 [/ksdhgy.com/]tls://dot.pub
 [/ksecit.com/]tls://dot.pub
