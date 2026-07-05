@@ -12253,6 +12253,7 @@
 [/anqingzhiyun.com/]tls://dot.pub
 [/anqn.com/]tls://dot.pub
 [/anqu.com/]tls://dot.pub
+[/anquan/]tls://dot.pub
 [/anquan.info/]tls://dot.pub
 [/anquan.org/]tls://dot.pub
 [/anquanbao.com/]tls://dot.pub
@@ -32476,7 +32477,6 @@
 [/embryochina.com/]tls://dot.pub
 [/embsky.com/]tls://dot.pub
 [/emby.men/]tls://dot.pub
-[/emby.yun/]tls://dot.pub
 [/embyvip.org/]tls://dot.pub
 [/emcbj.com/]tls://dot.pub
 [/emcdir.com/]tls://dot.pub
@@ -81780,6 +81780,7 @@
 [/shouhuisoft.com/]tls://dot.pub
 [/shouhuojiyun.com/]tls://dot.pub
 [/shouhuola.com/]tls://dot.pub
+[/shouji/]tls://dot.pub
 [/shouji.com/]tls://dot.pub
 [/shouji.racing/]tls://dot.pub
 [/shouji10086.com/]tls://dot.pub
@@ -82687,6 +82688,7 @@
 [/simwe.com/]tls://dot.pub
 [/simxhs.com/]tls://dot.pub
 [/sin0sites.com/]tls://dot.pub
+[/sina/]tls://dot.pub
 [/sina-cf.com/]tls://dot.pub
 [/sina.com/]tls://dot.pub
 [/sina.lt/]tls://dot.pub
@@ -94562,6 +94564,7 @@
 [/weibang.vip/]tls://dot.pub
 [/weibangong.com/]tls://dot.pub
 [/weibanzhushou.com/]tls://dot.pub
+[/weibo/]tls://dot.pub
 [/weibo.com/]tls://dot.pub
 [/weibo.tv/]tls://dot.pub
 [/weibocdn.com/]tls://dot.pub
@@ -99282,6 +99285,7 @@
 [/xihazsww.com/]tls://dot.pub
 [/xihegp.com/]tls://dot.pub
 [/xiherencai.com/]tls://dot.pub
+[/xihuan/]tls://dot.pub
 [/xihuan.me/]tls://dot.pub
 [/xihusgh.com/]tls://dot.pub
 [/xiimoon.com/]tls://dot.pub
@@ -100575,6 +100579,7 @@
 [/xn--91-y60d638c.xyz/]tls://dot.pub
 [/xn--9et52u/]tls://dot.pub
 [/xn--9kr72kqwe.com/]tls://dot.pub
+[/xn--9krt00a/]tls://dot.pub
 [/xn--9myo55bi8l.com/]tls://dot.pub
 [/xn--9pr56vfna007k.com/]tls://dot.pub
 [/xn--9pry86bq5ex68c.org/]tls://dot.pub
@@ -105882,6 +105887,7 @@
 [/yumingyouhui.com/]tls://dot.pub
 [/yummy.tech/]tls://dot.pub
 [/yumstone.com/]tls://dot.pub
+[/yun/]tls://dot.pub
 [/yun-ac.com/]tls://dot.pub
 [/yun-dns.com/]tls://dot.pub
 [/yun-gu.com/]tls://dot.pub
@@ -111928,6 +111934,7 @@
 [/emoi-cncdn.bing.com/]tls://dot.pub
 [/end-api.shallow.ink/]tls://dot.pub
 [/end.shallow.ink/]tls://dot.pub
+[/entitlements-edge.itunes.apple.com/]tls://dot.pub
 [/experiments.apple.com/]tls://dot.pub
 [/f.c2r.ts.cdn.office.net/]tls://dot.pub
 [/fcs.dell.com/]tls://dot.pub
@@ -111936,6 +111943,7 @@
 [/fontfiles.googleapis.com/]tls://dot.pub
 [/fonts.googleapis.com/]tls://dot.pub
 [/fonts.gstatic.com/]tls://dot.pub
+[/fpinit.itunes.apple.com/]tls://dot.pub
 [/fta.dell.com/]tls://dot.pub
 [/ftaapj.dell.com/]tls://dot.pub
 [/ftaemea.dell.com/]tls://dot.pub
