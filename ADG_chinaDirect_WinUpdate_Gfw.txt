@@ -91047,6 +91047,7 @@
 [/twty.vip/]tls://dot.pub
 [/twwtn.com/]tls://dot.pub
 [/twyuxin.com/]tls://dot.pub
+[/twyxh.com/]tls://dot.pub
 [/twyxi.com/]tls://dot.pub
 [/twzilla.com/]tls://dot.pub
 [/twzui6.com/]tls://dot.pub
@@ -111272,6 +111273,7 @@
 [/zwzyzx.com/]tls://dot.pub
 [/zx-tour.com/]tls://dot.pub
 [/zx-xcx.com/]tls://dot.pub
+[/zx.com/]tls://dot.pub
 [/zx0093.com/]tls://dot.pub
 [/zx017.com/]tls://dot.pub
 [/zx017.net/]tls://dot.pub
