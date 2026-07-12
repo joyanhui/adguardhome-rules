@@ -10178,6 +10178,7 @@
 [/ad77.com/]tls://dot.pub
 [/ad778.com/]tls://dot.pub
 [/ada-post.com/]tls://dot.pub
+[/adacpp.com/]tls://dot.pub
 [/adamahf.com/]tls://dot.pub
 [/adamcdn.com/]tls://dot.pub
 [/adamcoder.com/]tls://dot.pub
@@ -24750,6 +24751,7 @@
 [/color-measure.com/]tls://dot.pub
 [/color365.com/]tls://dot.pub
 [/colorbird.com/]tls://dot.pub
+[/colorfulclouds.com/]tls://dot.pub
 [/colorfulclouds.net/]tls://dot.pub
 [/colorfulltech.net/]tls://dot.pub
 [/colorimeter.com/]tls://dot.pub
@@ -30851,6 +30853,7 @@
 [/duoyi.com/]tls://dot.pub
 [/duoying.com/]tls://dot.pub
 [/duoyinsu.com/]tls://dot.pub
+[/duoyiwangluo.com/]tls://dot.pub
 [/duoyoumi.com/]tls://dot.pub
 [/duozhi.com/]tls://dot.pub
 [/duozhuayu.com/]tls://dot.pub
@@ -39499,6 +39502,7 @@
 [/gtetern.com/]tls://dot.pub
 [/gtfund.com/]tls://dot.pub
 [/gtg56.com/]tls://dot.pub
+[/gtgjtrip.com/]tls://dot.pub
 [/gtgqw.com/]tls://dot.pub
 [/gtgres.com/]tls://dot.pub
 [/gtht.com/]tls://dot.pub
@@ -58265,6 +58269,7 @@
 [/klhpw.com/]tls://dot.pub
 [/klhuyan.com/]tls://dot.pub
 [/klicen.com/]tls://dot.pub
+[/kling-ai.com/]tls://dot.pub
 [/klingai.com/]tls://dot.pub
 [/klingxai.com/]tls://dot.pub
 [/klinlee.com/]tls://dot.pub
@@ -60635,6 +60640,7 @@
 [/leyoo.com/]tls://dot.pub
 [/leyoujia.com/]tls://dot.pub
 [/leyu.com/]tls://dot.pub
+[/leyuansu.com/]tls://dot.pub
 [/leyue100.com/]tls://dot.pub
 [/leyuglobal.com/]tls://dot.pub
 [/leyun365.com/]tls://dot.pub
@@ -80826,6 +80832,7 @@
 [/shedongyun.com/]tls://dot.pub
 [/shedoor.com/]tls://dot.pub
 [/shedunews.com/]tls://dot.pub
+[/shedunews.net/]tls://dot.pub
 [/sheec-tencentclb.cloud/]tls://dot.pub
 [/sheec-tencentclb.com/]tls://dot.pub
 [/sheec-tencentclb.net/]tls://dot.pub
@@ -98872,6 +98879,7 @@
 [/xiaomei.cc/]tls://dot.pub
 [/xiaomeiti.com/]tls://dot.pub
 [/xiaomeng1235.com/]tls://dot.pub
+[/xiaomengai.com/]tls://dot.pub
 [/xiaomi.com/]tls://dot.pub
 [/xiaomi.hk/]tls://dot.pub
 [/xiaomi.net/]tls://dot.pub
@@ -103000,6 +103008,7 @@
 [/ygct.com/]tls://dot.pub
 [/ygdatabase.com/]tls://dot.pub
 [/ygdl.com/]tls://dot.pub
+[/ygduoyi.com/]tls://dot.pub
 [/yge.me/]tls://dot.pub
 [/ygeer.com/]tls://dot.pub
 [/ygei.com/]tls://dot.pub
@@ -110400,6 +110409,7 @@
 [/zmsq.com/]tls://dot.pub
 [/zmssh.com/]tls://dot.pub
 [/zmtpc.com/]tls://dot.pub
+[/zmtqsh.com/]tls://dot.pub
 [/zmtquan.com/]tls://dot.pub
 [/zmufivehospital.com/]tls://dot.pub
 [/zmumu.com/]tls://dot.pub
