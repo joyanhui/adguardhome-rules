@@ -30709,6 +30709,7 @@
 [/dulife.com/]tls://dot.pub
 [/dulifei.com/]tls://dot.pub
 [/dullr.com/]tls://dot.pub
+[/dulupay.com/]tls://dot.pub
 [/dulwich.org/]tls://dot.pub
 [/dumall.com/]tls://dot.pub
 [/dumanhua.com/]tls://dot.pub
@@ -106832,6 +106833,7 @@
 [/yzs.io/]tls://dot.pub
 [/yzsbh.com/]tls://dot.pub
 [/yzsfuer.com/]tls://dot.pub
+[/yzsgo.com/]tls://dot.pub
 [/yzshkjxx.com/]tls://dot.pub
 [/yzshyzz.com/]tls://dot.pub
 [/yzsljz.com/]tls://dot.pub
