@@ -112012,7 +112012,6 @@
 [/sylvan.apple.com/]tls://dot.pub
 [/sync.itunes.apple.com/]tls://dot.pub
 [/tac.googleapis.com/]tls://dot.pub
-[/tesla-cdn.thron.cn/]tls://dot.pub
 [/tf-feedback.itunes.apple.com/]tls://dot.pub
 [/time.amazonaws.cn/]tls://dot.pub
 [/time.izatcloud.net/]tls://dot.pub
