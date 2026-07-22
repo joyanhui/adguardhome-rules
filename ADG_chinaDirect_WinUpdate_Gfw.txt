@@ -19489,6 +19489,7 @@
 [/cd-zc.com/]tls://dot.pub
 [/cd00c44f211031.beer/]tls://dot.pub
 [/cd120.com/]tls://dot.pub
+[/cd120.info/]tls://dot.pub
 [/cd12371.com/]tls://dot.pub
 [/cd1958.com/]tls://dot.pub
 [/cd20.net/]tls://dot.pub
@@ -66324,6 +66325,7 @@
 [/moe321.com/]tls://dot.pub
 [/moeclub.org/]tls://dot.pub
 [/moedot.net/]tls://dot.pub
+[/moedu.com/]tls://dot.pub
 [/moeelf.com/]tls://dot.pub
 [/moefactory.com/]tls://dot.pub
 [/moefantasy.com/]tls://dot.pub
@@ -90293,6 +90295,7 @@
 [/tsingpost.com/]tls://dot.pub
 [/tsingshang.com/]tls://dot.pub
 [/tsingtek.com/]tls://dot.pub
+[/tsingtengms.com/]tls://dot.pub
 [/tsingtoo.com/]tls://dot.pub
 [/tsingtuo.com/]tls://dot.pub
 [/tsingyangroup.com/]tls://dot.pub
@@ -97915,6 +97918,7 @@
 [/xcxymw.com/]tls://dot.pub
 [/xcxzww.com/]tls://dot.pub
 [/xcyg.net/]tls://dot.pub
+[/xcz.im/]tls://dot.pub
 [/xczhmzb.com/]tls://dot.pub
 [/xczhsh.com/]tls://dot.pub
 [/xczim.com/]tls://dot.pub
@@ -116984,6 +116988,7 @@
 [/zello.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zenmate.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zenmate.com.ru/]https://d-o-h.you-cf-domain.com/your-suffix
+[/zenmux.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zerohedge.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zeronet.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zh-hans.cfsh99.com/]https://d-o-h.you-cf-domain.com/your-suffix
