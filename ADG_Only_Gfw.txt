@@ -771,6 +771,7 @@
 [/cia.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cici.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ciciai.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/circle19.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cirosantilli.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/citizencn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/citizenlab.ca/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2173,6 +2174,7 @@
 [/kantie.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kaotic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/karayou.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/kards.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kathmandupost.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kawaiikawaii.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kawase.com/]https://d-o-h.you-cf-domain.com/your-suffix
