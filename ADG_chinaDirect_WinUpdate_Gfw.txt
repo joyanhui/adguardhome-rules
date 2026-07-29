@@ -100292,6 +100292,7 @@
 [/xmmuye.com/]tls://dot.pub
 [/xmnjdwx.com/]tls://dot.pub
 [/xmocloud01.com/]tls://dot.pub
+[/xmoj.tech/]tls://dot.pub
 [/xmonecode.com/]tls://dot.pub
 [/xmos.tv/]tls://dot.pub
 [/xmov.ai/]tls://dot.pub
