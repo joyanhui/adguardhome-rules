@@ -687,6 +687,7 @@
 [/centerforhumanreprod.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/centralnation.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/centurys.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cerebras.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/certificate-transparency.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/certificate.revocationcheck.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cfr.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -767,6 +768,7 @@
 [/chromecast.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromeexperiments.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/chromestatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cht.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ci-en.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cia.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cici.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2523,7 +2525,6 @@
 [/motherless.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/movements.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moviefap.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/mozilla.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mpettis.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mpfinance.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mpinews.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2993,7 +2994,6 @@
 [/pullfolio.co/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pure18.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pureconcepts.net/]https://d-o-h.you-cf-domain.com/your-suffix
-[/puredns.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pureinsight.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/purepdf.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/purevpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3038,7 +3038,6 @@
 [/radio.garden/]https://d-o-h.you-cf-domain.com/your-suffix
 [/radioaustralia.net.au/]https://d-o-h.you-cf-domain.com/your-suffix
 [/radiohilight.net/]https://d-o-h.you-cf-domain.com/your-suffix
-[/radiojar.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/radioline.co/]https://d-o-h.you-cf-domain.com/your-suffix
 [/radiovaticana.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/radiovncr.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3151,7 +3150,6 @@
 [/safechat.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/safeguarddefenders.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/safervpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/sagernet.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/saintyculture.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sakuralive.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/salvation.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4145,7 +4143,6 @@
 [/www.antd.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.aolnews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.bing.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/www.clashverge.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.cmoinc.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.dmm.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/www.eastturkistan.net/]https://d-o-h.you-cf-domain.com/your-suffix
