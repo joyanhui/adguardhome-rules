@@ -111467,6 +111467,8 @@
 [/time.izatcloud.net/]tls://dot.pub
 [/time.xtracloud.net/]tls://dot.pub
 [/tj-pod1-smp-device.apple.com/]tls://dot.pub
+[/tj-pod2-smp-device.apple.com/]tls://dot.pub
+[/tj-pod3-smp-device.apple.com/]tls://dot.pub
 [/tools.google.com/]tls://dot.pub
 [/tp.louisvuitton.com/]tls://dot.pub
 [/universal-activity-service.itunes.apple.com/]tls://dot.pub
