@@ -63336,6 +63336,7 @@
 [/madajiefood.com/]tls://dot.pub
 [/madaomall.com/]tls://dot.pub
 [/madboxi.com/]tls://dot.pub
+[/made-in-china.com/]tls://dot.pub
 [/madefuns.com/]tls://dot.pub
 [/madeinchinastone.com/]tls://dot.pub
 [/madewei.com/]tls://dot.pub
@@ -65074,6 +65075,7 @@
 [/microxiang.com/]tls://dot.pub
 [/microyan.com/]tls://dot.pub
 [/microzuji.com/]tls://dot.pub
+[/micstatic.com/]tls://dot.pub
 [/mictormedical.com/]tls://dot.pub
 [/micu.hk/]tls://dot.pub
 [/micun.com/]tls://dot.pub
@@ -72676,6 +72678,7 @@
 [/powercx.com/]tls://dot.pub
 [/powerde.com/]tls://dot.pub
 [/powereasy.net/]tls://dot.pub
+[/poweremarket.com/]tls://dot.pub
 [/powerex1.com/]tls://dot.pub
 [/powerflow-tech.com/]tls://dot.pub
 [/powerfulchina.com/]tls://dot.pub
