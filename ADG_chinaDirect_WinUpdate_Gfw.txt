@@ -60644,6 +60644,7 @@
 [/lifevc.com/]tls://dot.pub
 [/lifevccdn.com/]tls://dot.pub
 [/lifeweeker.com/]tls://dot.pub
+[/lifexue.com/]tls://dot.pub
 [/lifeyk.com/]tls://dot.pub
 [/lifeyn.net/]tls://dot.pub
 [/lifezb.com/]tls://dot.pub
