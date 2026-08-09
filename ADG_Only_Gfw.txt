@@ -128,6 +128,7 @@
 [/agro.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ai.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ai.studio/]https://d-o-h.you-cf-domain.com/your-suffix
+[/aihub.top/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiosearch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiph.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/airconsole.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -342,6 +343,7 @@
 [/barnabu.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bartender.dowjones.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/barton.de/]https://d-o-h.you-cf-domain.com/your-suffix
+[/basemaps.arcgis.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bastillepost.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bayvoice.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bb-chat.tv/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1144,6 +1146,7 @@
 [/eromangadouzin.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/eromon.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/esg.t91y.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/esim.redteago.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/eslite.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/esurance.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/etherdelta.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1166,6 +1169,7 @@
 [/expatshield.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/expecthim.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/expekt.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/experience.arcgis.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/exploader.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/expressnews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/expressvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
