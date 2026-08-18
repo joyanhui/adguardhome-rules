@@ -3148,6 +3148,7 @@
 [/s-cute.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/s.yimg.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/s3-ap-northeast-1.amazonaws.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/s3.dualstack.us-west-2.amazonaws.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sacks.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sacom.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/sadistic-v.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4093,6 +4094,7 @@
 [/willw.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wilsoncenter.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/windscribe.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/windy.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wingamestore.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wingy.site/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wionews.com/]https://d-o-h.you-cf-domain.com/your-suffix
