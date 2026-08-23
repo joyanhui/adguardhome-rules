@@ -112256,6 +112256,7 @@
 [/api.palworldgame.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.pureapk.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/api.shuaiapi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.steampowered.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api5.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apiary.io/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -116225,6 +116226,7 @@
 [/x.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/x.company/]https://d-o-h.you-cf-domain.com/your-suffix
 [/x3guide.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/x86.fr/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xbabe.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xbookcn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xbtce.com/]https://d-o-h.you-cf-domain.com/your-suffix
