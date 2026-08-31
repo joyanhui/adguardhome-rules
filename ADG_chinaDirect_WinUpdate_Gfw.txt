@@ -3095,6 +3095,7 @@
 [/25fe391eb68e3f9c.com/]tls://dot.pub
 [/25game.com/]tls://dot.pub
 [/25ku.com/]tls://dot.pub
+[/25mao.com/]tls://dot.pub
 [/25nc.com/]tls://dot.pub
 [/25pp.com/]tls://dot.pub
 [/25q7ekcc67.com/]tls://dot.pub
@@ -41913,6 +41914,7 @@
 [/gzjkfk.com/]tls://dot.pub
 [/gzjkfund.com/]tls://dot.pub
 [/gzjkjl.com/]tls://dot.pub
+[/gzjkoa.com/]tls://dot.pub
 [/gzjkqh.com/]tls://dot.pub
 [/gzjkyljt.com/]tls://dot.pub
 [/gzjlp.com/]tls://dot.pub
@@ -42868,6 +42870,7 @@
 [/hanpupharm.com/]tls://dot.pub
 [/hanqigroup.com/]tls://dot.pub
 [/hanqinghb.com/]tls://dot.pub
+[/hanqiuming888.com/]tls://dot.pub
 [/hanqunfeng.com/]tls://dot.pub
 [/hans-ad.com/]tls://dot.pub
 [/hanschen.site/]tls://dot.pub
@@ -90966,6 +90969,7 @@
 [/under-5.shop/]tls://dot.pub
 [/underfill.cc/]tls://dot.pub
 [/uneed.com/]tls://dot.pub
+[/uneedx.com/]tls://dot.pub
 [/unfish.net/]tls://dot.pub
 [/ungifts.com/]tls://dot.pub
 [/uni-cent.com/]tls://dot.pub
@@ -113314,6 +113318,7 @@
 [/getlantern.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/getmalus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/getmdl.io/]https://d-o-h.you-cf-domain.com/your-suffix
+[/getmonero.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/getoutline.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/getsession.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/getsync.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -114512,6 +114517,7 @@
 [/nhentai.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nic.cz.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nic.gov/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nicoseiga.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nicovideo.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nightswatch.top/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nikke-en.com/]https://d-o-h.you-cf-domain.com/your-suffix
