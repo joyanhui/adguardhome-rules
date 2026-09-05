@@ -900,6 +900,7 @@
 [/csuchen.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/csw.org.uk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ct.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ctee.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctinets.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctinews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ctinsider.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1884,6 +1885,7 @@
 [/hkcoc.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hkcoc.weather.com.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hkdc.us/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hkej.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hket.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hkfaa.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hkgalden.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2306,6 +2308,7 @@
 [/linktr.ee/]https://d-o-h.you-cf-domain.com/your-suffix
 [/linux.do/]https://d-o-h.you-cf-domain.com/your-suffix
 [/linux.org.hk/]https://d-o-h.you-cf-domain.com/your-suffix
+[/linux.sb/]https://d-o-h.you-cf-domain.com/your-suffix
 [/liquiditytp.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/liquidvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/listennotes.com/]https://d-o-h.you-cf-domain.com/your-suffix
