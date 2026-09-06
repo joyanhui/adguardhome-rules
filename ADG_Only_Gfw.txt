@@ -4,6 +4,8 @@
 [/1000giri.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/10beasts.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/10musume.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/123av.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/123av.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/12bet.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/12vpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/12vpn.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1843,6 +1845,7 @@
 [/helpeachpeople.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/helpster.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hembed.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hentai.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/heqinglian.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/heritage.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/herokuapp.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3126,6 +3129,7 @@
 [/rmbl.ws/]https://d-o-h.you-cf-domain.com/your-suffix
 [/roblox.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/robustnessiskey.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/roc-taiwan.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocket-inc.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocket.chat/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocksdb.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3135,6 +3139,7 @@
 [/rolsociety.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ronjoneswriter.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rou.video/]https://d-o-h.you-cf-domain.com/your-suffix
+[/roushuwo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rsdlmonitor.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rsf-chinese.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rsf.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3437,6 +3442,7 @@
 [/superpages.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/supervpn.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/superzooi.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/supjav.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/support.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/supremecourt.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/suprememastertv.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3467,10 +3473,12 @@
 [/taaze.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taedp.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tagwalk.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/taiav.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tails.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taipeisociety.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taipeitimes.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taisounds.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/taiwanembassy.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taiwanhot.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taiwanjustice.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/taiwanncf.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4154,6 +4162,7 @@
 [/writesonic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wsj.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wsj.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/wtfpass.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wufafangwen.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wufi.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/wujieliulan.com/]https://d-o-h.you-cf-domain.com/your-suffix
