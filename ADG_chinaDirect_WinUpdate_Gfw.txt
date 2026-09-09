@@ -104471,6 +104471,7 @@
 [/yuanpanguoji.com/]tls://dot.pub
 [/yuanqiao.net/]tls://dot.pub
 [/yuanqiao.pw/]tls://dot.pub
+[/yuanqidesk.com/]tls://dot.pub
 [/yuanqilt.com/]tls://dot.pub
 [/yuanqingsh.com/]tls://dot.pub
 [/yuanqisenlin.com/]tls://dot.pub
