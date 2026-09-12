@@ -215,19 +215,15 @@
 [/apartmentratings.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apartments.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apat1989.org/]https://d-o-h.you-cf-domain.com/your-suffix
-[/api-gl.lbkrs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api-secure.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api-verify.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.ai/]https://d-o-h.you-cf-domain.com/your-suffix
-[/api.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/api.lbkrs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.moomoobull.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.palworldgame.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.pureapk.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.shuaiapi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.steampowered.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/api5.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apiary.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apigee.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apk.support/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -671,7 +667,6 @@
 [/cdn-images.mailchimp.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cdn-telegram.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cdn.arstechnica.net/]https://d-o-h.you-cf-domain.com/your-suffix
-[/cdn.futustatic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cdn.jwplayer.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cdn.printfriendly.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cdn.seatguru.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -821,7 +816,6 @@
 [/cn.sandscotaicentral.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cn.shafaqna.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cn.theaustralian.com.au/]https://d-o-h.you-cf-domain.com/your-suffix
-[/cn.uptodown.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cna.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cnbbnews.wordpress.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cnbeta.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1050,7 +1044,6 @@
 [/doujincafe.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dowjones.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/download.dappcdn.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/download.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dpool.top/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dpp.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/dpr.info/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2366,7 +2359,6 @@
 [/lyfhk.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lzjscript.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lzmtnews.org/]https://d-o-h.you-cf-domain.com/your-suffix
-[/m.hkgalden.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/m.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/m.moegirl.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/macgamestore.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2775,12 +2767,8 @@
 [/open.firstory.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openai.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openapi-quote.longbridge.cn/]https://d-o-h.you-cf-domain.com/your-suffix
-[/openapi-quote.longbridge.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openapi-trade.longbridge.cn/]https://d-o-h.you-cf-domain.com/your-suffix
-[/openapi-trade.longbridge.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/openapi.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openapi.longbridge.cn/]https://d-o-h.you-cf-domain.com/your-suffix
-[/openapi.longbridge.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/openart.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/opencritic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/opendemocracy.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3036,9 +3024,8 @@
 [/qoos.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qq.co.za/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qstatus.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/qtcard.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/qtcardfthk.futufin.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qtrac.eu/]https://d-o-h.you-cf-domain.com/your-suffix
+[/quakemachinex.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/questvisual.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/quitccp.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/quiz.directory/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3443,7 +3430,6 @@
 [/supervpn.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/superzooi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/supjav.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/support.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/supremecourt.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/suprememastertv.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/surfeasy.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3707,8 +3693,6 @@
 [/tou.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tpi.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tracfone.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/trade.futunn.com/]https://d-o-h.you-cf-domain.com/your-suffix
-[/trade.longportapp.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tradeup.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tradingview.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/translate.goog/]https://d-o-h.you-cf-domain.com/your-suffix
