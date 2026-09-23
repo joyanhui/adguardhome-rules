@@ -82099,6 +82099,7 @@
 [/sjf029.com/]tls://dot.pub
 [/sjfcdn.com/]tls://dot.pub
 [/sjfh168.com/]tls://dot.pub
+[/sjfls6.com/]tls://dot.pub
 [/sjfpro.com/]tls://dot.pub
 [/sjfzxm.com/]tls://dot.pub
 [/sjg8.com/]tls://dot.pub
@@ -110785,6 +110786,7 @@
 [/downloaddispatch.itunes.apple.com/]tls://dot.pub
 [/dreamspark.download.prss.microsoft.com/]tls://dot.pub
 [/dreamsparkuat.download.prss.microsoft.com/]tls://dot.pub
+[/drivers.amd.com/]tls://dot.pub
 [/edge.geo.kaspersky.com/]tls://dot.pub
 [/end-api.shallow.ink/]tls://dot.pub
 [/end.shallow.ink/]tls://dot.pub
