@@ -130,6 +130,7 @@
 [/agro.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ai.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ai.studio/]https://d-o-h.you-cf-domain.com/your-suffix
+[/aidc.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aihub.top/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiosearch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/aiph.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -528,6 +529,7 @@
 [/bloombergview.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bloomfortune.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/blubrry.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/blue-plus.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bmdru.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bnbstatic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bnext.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -550,6 +552,7 @@
 [/boxpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/boxun.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/boxun.tv/]https://d-o-h.you-cf-domain.com/your-suffix
+[/boylove.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/boysmaster.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/br.st/]https://d-o-h.you-cf-domain.com/your-suffix
 [/braumeister.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -626,6 +629,7 @@
 [/campaign-archive.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/campaignforuyghurs.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cams.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cangku.moe/]https://d-o-h.you-cf-domain.com/your-suffix
 [/canva.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/canyu.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/caobian.info/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -869,6 +873,7 @@
 [/coursehero.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/covenantswatch.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/coze.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/cpc.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cpj.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cpu-monkey.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cq99.us/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -891,6 +896,7 @@
 [/crucial.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/crunchyroll.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cruxpool.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/csc.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/csdparty.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/csis.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/csmonitor.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -980,6 +986,7 @@
 [/devio.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/devpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/devv.ai/]https://d-o-h.you-cf-domain.com/your-suffix
+[/dh.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/diaoyuislands.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/digiland.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/digisfera.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1166,6 +1173,7 @@
 [/evschool.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/exchristian.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/exhentai.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/eximbank.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/exmo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/exmormon.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/expatshield.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1819,7 +1827,9 @@
 [/hakkatv.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/halktv.com.tr/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hanime.tv/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hanime1.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hanime1.me/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hanimeone.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hardsextube.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hautelook.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hautelookcdn.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1842,6 +1852,7 @@
 [/helpster.de/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hembed.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/hentai.tv/]https://d-o-h.you-cf-domain.com/your-suffix
+[/hentaiclub.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/heqinglian.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/heritage.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/herokuapp.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -1987,6 +1998,7 @@
 [/iask.ca/]https://d-o-h.you-cf-domain.com/your-suffix
 [/iavian.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ibvpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/icdf.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/icedrive.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/icij.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/icl-fi.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2044,6 +2056,7 @@
 [/indiandefensenews.in/]https://d-o-h.you-cf-domain.com/your-suffix
 [/indiatoday.in/]https://d-o-h.you-cf-domain.com/your-suffix
 [/indiemerch.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/indsr.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/inews-api.tvb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/info-graf.fr/]https://d-o-h.you-cf-domain.com/your-suffix
 [/infosec.exchange/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2070,6 +2083,7 @@
 [/investing.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/invidio.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/inxian.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ipac.global/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipdefenseforum.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipfire.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ipfs.4everland.io/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2128,9 +2142,11 @@
 [/jav321.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javakiba.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javbus.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/javchu.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javdb.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javfinder.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javfor.me/]https://d-o-h.you-cf-domain.com/your-suffix
+[/javfree.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javhub.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javhuge.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/javlibrary.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2152,6 +2168,7 @@
 [/jinx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/jitouch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/jkb.cc/]https://d-o-h.you-cf-domain.com/your-suffix
+[/jkforum.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/jma.go.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/jmsc.hku.hk/]https://d-o-h.you-cf-domain.com/your-suffix
 [/jmscult.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2199,6 +2216,7 @@
 [/keycdn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kfor.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/khatrimaza.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/khc.edu.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kichiku-doujinko.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kik.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/killwall.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2244,6 +2262,7 @@
 [/lama.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lamayeshe.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lamnia.co.uk/]https://d-o-h.you-cf-domain.com/your-suffix
+[/landbank.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/landofhope.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/lantern.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/laogai.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2397,6 +2416,7 @@
 [/mastodon.xyz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/matainja.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/material.io/]https://d-o-h.you-cf-domain.com/your-suffix
+[/matichon.co.th/]https://d-o-h.you-cf-domain.com/your-suffix
 [/matome-plus.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/matome-plus.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/matrix.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2482,11 +2502,14 @@
 [/ministrybooks.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/minzhuzhongguo.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/miraheze.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/mirdc.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/miroguide.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mirror.xyz/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mirrorbooks.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mirrormedia.mg/]https://d-o-h.you-cf-domain.com/your-suffix
+[/missav.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/missav.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/missav.live/]https://d-o-h.you-cf-domain.com/your-suffix
 [/missav.ws/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mistral.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mitbbs.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2510,6 +2533,7 @@
 [/mod.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/modernchinastudies.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moeerolibrary.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/moeli-desu.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moeshare.cc/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mog.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mohu.club/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2589,6 +2613,7 @@
 [/nationalawakening.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nationalinterest.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nationalreview.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nationthailand.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nationwide.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/naughtyamerica.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/naver.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2600,6 +2625,7 @@
 [/nchrd.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ncn.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ndi.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ned.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nekoslovakia.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/neo-miracle.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/neodb.social/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2691,6 +2717,7 @@
 [/npsboost.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nradio.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nrk.no/]https://d-o-h.you-cf-domain.com/your-suffix
+[/nstc.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ntd.tv/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ntdtv.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ntdtv.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2929,6 +2956,7 @@
 [/points-media.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pokerstars.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pokerstars.net/]https://d-o-h.you-cf-domain.com/your-suffix
+[/poland.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/politicalchina.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/poloniex.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/polymarket.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3024,6 +3052,7 @@
 [/qiangwaikan.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qiangyou.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qianmo.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/qingse.one/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qiwen.lu/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qmp4.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/qobuz.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3126,6 +3155,7 @@
 [/rocket-inc.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocket.chat/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rocksdb.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/rocmgov.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rojo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rolfoundation.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/rolia.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3524,6 +3554,7 @@
 [/textnow.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/textnow.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tfc-taiwan.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tfd.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tfhub.dev/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tfiflve.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tg-me.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3717,6 +3748,7 @@
 [/tryheart.jp/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tsdr.uspto.gov/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tt1069.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/ttl.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tttan.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ttv.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ttvnw.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3769,6 +3801,7 @@
 [/tweez.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/twelve.today/]https://d-o-h.you-cf-domain.com/your-suffix
 [/twerkingbutt.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/twfhcsec.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/twftp.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/twgov.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/twgreatdaily.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -3811,6 +3844,7 @@
 [/twtkr.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/twttr.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tx.me/]https://d-o-h.you-cf-domain.com/your-suffix
+[/tybio.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/tycool.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/typepad.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/typeset.io/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4000,6 +4034,7 @@
 [/vrchat.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vrporn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vrsmash.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/vscc.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vtunnel.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/vultryhw.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/w-pool.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -4259,6 +4294,7 @@
 [/xvideos.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xvideos.es/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xvinlink.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/xx.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xxx.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xxx.xxx/]https://d-o-h.you-cf-domain.com/your-suffix
 [/xxxx.com.au/]https://d-o-h.you-cf-domain.com/your-suffix
