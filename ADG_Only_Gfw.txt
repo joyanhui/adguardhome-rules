@@ -58,6 +58,7 @@
 [/6parker.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/6parknews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/7capture.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/7x24hrs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/8-d.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/85cc.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/881903.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -2460,7 +2461,9 @@
 [/meripet.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/merit-times.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/messenger.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/meta.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/meta.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/metaaivm.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/metafilter.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/metamask.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/metart.com/]https://d-o-h.you-cf-domain.com/your-suffix

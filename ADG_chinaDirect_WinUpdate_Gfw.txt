@@ -214,7 +214,6 @@
 [/020ym.com/]tls://dot.pub
 [/020zp.net/]tls://dot.pub
 [/020ztc.com/]tls://dot.pub
-[/021-116114.com/]tls://dot.pub
 [/021.com/]tls://dot.pub
 [/021.net/]tls://dot.pub
 [/0214.com/]tls://dot.pub
@@ -491,7 +490,6 @@
 [/0515kf.com/]tls://dot.pub
 [/0515smw.com/]tls://dot.pub
 [/0515yc.com/]tls://dot.pub
-[/0515yy.com/]tls://dot.pub
 [/0516k.com/]tls://dot.pub
 [/0517.net/]tls://dot.pub
 [/0517cw.com/]tls://dot.pub
@@ -4361,7 +4359,6 @@
 [/3y1.com/]tls://dot.pub
 [/3y7h.com/]tls://dot.pub
 [/3yakj.com/]tls://dot.pub
-[/3ygww.com/]tls://dot.pub
 [/3yoqu.com/]tls://dot.pub
 [/3yt.com/]tls://dot.pub
 [/3yt.la/]tls://dot.pub
@@ -7784,7 +7781,6 @@
 [/81677.com/]tls://dot.pub
 [/816798.net/]tls://dot.pub
 [/8169.com/]tls://dot.pub
-[/817398.com/]tls://dot.pub
 [/81761.com/]tls://dot.pub
 [/818.com/]tls://dot.pub
 [/81813.com/]tls://dot.pub
@@ -8348,7 +8344,6 @@
 [/91360.com/]tls://dot.pub
 [/91378.com/]tls://dot.pub
 [/913pc.com/]tls://dot.pub
-[/913vr.com/]tls://dot.pub
 [/913you.com/]tls://dot.pub
 [/9149df3441020.beer/]tls://dot.pub
 [/915.com/]tls://dot.pub
@@ -9181,6 +9176,7 @@
 [/9fav.com/]tls://dot.pub
 [/9fb8d5b6bff66a4d.com/]tls://dot.pub
 [/9fbank.com/]tls://dot.pub
+[/9fe06a.fyi/]tls://dot.pub
 [/9fe3e7d4c10311.beer/]tls://dot.pub
 [/9fh5.com/]tls://dot.pub
 [/9first.com/]tls://dot.pub
@@ -9449,7 +9445,6 @@
 [/abbbio.com/]tls://dot.pub
 [/abbisko.com/]tls://dot.pub
 [/abbooa.com/]tls://dot.pub
-[/abbreviat.com/]tls://dot.pub
 [/abbyschoice.net/]tls://dot.pub
 [/abbyychina.com/]tls://dot.pub
 [/abc-ca.com/]tls://dot.pub
@@ -11084,7 +11079,6 @@
 [/alidnsv122.com/]tls://dot.pub
 [/alidnsv4.com/]tls://dot.pub
 [/alidnsv5.com/]tls://dot.pub
-[/aliedge.com/]tls://dot.pub
 [/aliensidea.com/]tls://dot.pub
 [/alientek.com/]tls://dot.pub
 [/aliexpress-media.com/]tls://dot.pub
@@ -11171,7 +11165,6 @@
 [/aliwork.com/]tls://dot.pub
 [/aliwx.net/]tls://dot.pub
 [/alixiaomi.com/]tls://dot.pub
-[/alixiaoyouhui.com/]tls://dot.pub
 [/alixixi.com/]tls://dot.pub
 [/alixox.com/]tls://dot.pub
 [/aliyiyao.com/]tls://dot.pub
@@ -14008,7 +14001,6 @@
 [/baofeng365.com/]tls://dot.pub
 [/baofoo.com/]tls://dot.pub
 [/baofoo.net/]tls://dot.pub
-[/baofu.art/]tls://dot.pub
 [/baofu.com/]tls://dot.pub
 [/baofu.info/]tls://dot.pub
 [/baofull.com/]tls://dot.pub
@@ -15122,7 +15114,6 @@
 [/bhidi.com/]tls://dot.pub
 [/bhjcsc.com/]tls://dot.pub
 [/bhjh168.com/]tls://dot.pub
-[/bhjinghao.com/]tls://dot.pub
 [/bhjjj360.com/]tls://dot.pub
 [/bhjuxian.com/]tls://dot.pub
 [/bhkyxy.com/]tls://dot.pub
@@ -16090,7 +16081,6 @@
 [/bjppa.com/]tls://dot.pub
 [/bjpryk.com/]tls://dot.pub
 [/bjqh.org/]tls://dot.pub
-[/bjqhgjj.com/]tls://dot.pub
 [/bjqichezl.com/]tls://dot.pub
 [/bjqingyang.com/]tls://dot.pub
 [/bjqlg.com/]tls://dot.pub
@@ -17000,7 +16990,6 @@
 [/bpqwxsh.com/]tls://dot.pub
 [/bpsemi.com/]tls://dot.pub
 [/bpteach.com/]tls://dot.pub
-[/bpuvuun0xg.com/]tls://dot.pub
 [/bpxxfw.com/]tls://dot.pub
 [/bpxxvo.com/]tls://dot.pub
 [/bq04.com/]tls://dot.pub
@@ -17519,7 +17508,6 @@
 [/byclean.net/]tls://dot.pub
 [/byd.auto/]tls://dot.pub
 [/byd.com/]tls://dot.pub
-[/byd119.com/]tls://dot.pub
 [/bydauto.com/]tls://dot.pub
 [/bydglobal.com/]tls://dot.pub
 [/bydhaiyang.com/]tls://dot.pub
@@ -17857,7 +17845,6 @@
 [/c558624c4b6f5f42.com/]tls://dot.pub
 [/c578801be1009.beer/]tls://dot.pub
 [/c57e6607c10292.beer/]tls://dot.pub
-[/c57fbfc585.skin/]tls://dot.pub
 [/c5a13eec21010.beer/]tls://dot.pub
 [/c5b27c7c01019.beer/]tls://dot.pub
 [/c5b6bpoq7q.world/]tls://dot.pub
@@ -20486,7 +20473,6 @@
 [/chihao.com/]tls://dot.pub
 [/chihealbio.com/]tls://dot.pub
 [/chiheba.com/]tls://dot.pub
-[/chiheshan.com/]tls://dot.pub
 [/chihkao.com/]tls://dot.pub
 [/chihm.com/]tls://dot.pub
 [/chiji-h5.com/]tls://dot.pub
@@ -25041,7 +25027,6 @@
 [/cqtkjj.com/]tls://dot.pub
 [/cqtkyy.com/]tls://dot.pub
 [/cqtl.org/]tls://dot.pub
-[/cqtlskj.com/]tls://dot.pub
 [/cqtn.com/]tls://dot.pub
 [/cqtnfs.com/]tls://dot.pub
 [/cqtqzx.com/]tls://dot.pub
@@ -25778,7 +25763,6 @@
 [/cthuwork.net/]tls://dot.pub
 [/cti-cert.com/]tls://dot.pub
 [/ctibet.com/]tls://dot.pub
-[/ctic-lab.com/]tls://dot.pub
 [/ctic-labs.com/]tls://dot.pub
 [/ctiea.com/]tls://dot.pub
 [/ctiforum.com/]tls://dot.pub
@@ -26158,7 +26142,6 @@
 [/cydiaa.com/]tls://dot.pub
 [/cydiakk.com/]tls://dot.pub
 [/cydow.com/]tls://dot.pub
-[/cyegushi.com/]tls://dot.pub
 [/cyfeng.com/]tls://dot.pub
 [/cyfengchao.com/]tls://dot.pub
 [/cyfyydyfy.com/]tls://dot.pub
@@ -26758,7 +26741,6 @@
 [/dalao.net/]tls://dot.pub
 [/dalaosz.com/]tls://dot.pub
 [/daleigroup.com/]tls://dot.pub
-[/dalelingtea.com/]tls://dot.pub
 [/dali-group.com/]tls://dot.pub
 [/dalian-chuanpiao.com/]tls://dot.pub
 [/dalianair-china.com/]tls://dot.pub
@@ -27098,7 +27080,6 @@
 [/dataodu.com/]tls://dot.pub
 [/dataojo.com/]tls://dot.pub
 [/dataoke.com/]tls://dot.pub
-[/datarelab.com/]tls://dot.pub
 [/datarj.com/]tls://dot.pub
 [/datasheet5.com/]tls://dot.pub
 [/datastoragesummit.com/]tls://dot.pub
@@ -27506,7 +27487,6 @@
 [/ddxhx.com/]tls://dot.pub
 [/ddxhyl.com/]tls://dot.pub
 [/ddxq.mobi/]tls://dot.pub
-[/ddxs.vip/]tls://dot.pub
 [/ddxsku.com/]tls://dot.pub
 [/ddxstxt8.com/]tls://dot.pub
 [/ddyjapp.com/]tls://dot.pub
@@ -28473,7 +28453,6 @@
 [/dingdone.com/]tls://dot.pub
 [/dingdongcloud.com/]tls://dot.pub
 [/dingdongebusiness.com/]tls://dot.pub
-[/dingdongmao.com/]tls://dot.pub
 [/dingdongxiaoqu.com/]tls://dot.pub
 [/dingdx.com/]tls://dot.pub
 [/dingefactory.com/]tls://dot.pub
@@ -28595,6 +28574,7 @@
 [/ditiezu.com/]tls://dot.pub
 [/ditiezu.net/]tls://dot.pub
 [/ditrit.com/]tls://dot.pub
+[/dittocdn.com/]tls://dot.pub
 [/ditu.live.com/]tls://dot.pub
 [/dituhui.com/]tls://dot.pub
 [/dituw.net/]tls://dot.pub
@@ -28943,6 +28923,7 @@
 [/dns-waf.com/]tls://dot.pub
 [/dns.com/]tls://dot.pub
 [/dns.la/]tls://dot.pub
+[/dns.lat/]tls://dot.pub
 [/dns.pub/]tls://dot.pub
 [/dns002.com/]tls://dot.pub
 [/dns0755.net/]tls://dot.pub
@@ -30398,7 +30379,6 @@
 [/dyswl.com/]tls://dot.pub
 [/dytmgm.com/]tls://dot.pub
 [/dytss.com/]tls://dot.pub
-[/dytt2028.cc/]tls://dot.pub
 [/dytt789.com/]tls://dot.pub
 [/dytt7899.com/]tls://dot.pub
 [/dytt8.com/]tls://dot.pub
@@ -34477,7 +34457,6 @@
 [/fnnas.com/]tls://dot.pub
 [/fnnas.net/]tls://dot.pub
 [/fnnsh.com/]tls://dot.pub
-[/fnnspa.com/]tls://dot.pub
 [/fnos.net/]tls://dot.pub
 [/fnrcw.com/]tls://dot.pub
 [/fnrczp.com/]tls://dot.pub
@@ -35317,7 +35296,6 @@
 [/fuxiaoli.com/]tls://dot.pub
 [/fuxila.com/]tls://dot.pub
 [/fuxinbank.com/]tls://dot.pub
-[/fuxinews.com/]tls://dot.pub
 [/fuxinghf.com/]tls://dot.pub
 [/fuxingtech.com/]tls://dot.pub
 [/fuxingwang.com/]tls://dot.pub
@@ -35658,7 +35636,6 @@
 [/g1080.com/]tls://dot.pub
 [/g12e.com/]tls://dot.pub
 [/g12e.org/]tls://dot.pub
-[/g15wt3ci68.com/]tls://dot.pub
 [/g188.net/]tls://dot.pub
 [/g1c5.com/]tls://dot.pub
 [/g1d.net/]tls://dot.pub
@@ -36351,7 +36328,6 @@
 [/gdgrsw.com/]tls://dot.pub
 [/gdguangdong.com/]tls://dot.pub
 [/gdguozhi.com/]tls://dot.pub
-[/gdgwyw.com/]tls://dot.pub
 [/gdgxw.com/]tls://dot.pub
 [/gdgxxbw.com/]tls://dot.pub
 [/gdgzhengzhou.com/]tls://dot.pub
@@ -38149,7 +38125,6 @@
 [/googleplus.party/]tls://dot.pub
 [/googleppy.com/]tls://dot.pub
 [/googlevoice.org/]tls://dot.pub
-[/googley8rb.com/]tls://dot.pub
 [/googleyixia.com/]tls://dot.pub
 [/googoc.com/]tls://dot.pub
 [/googol-power.com/]tls://dot.pub
@@ -38397,6 +38372,7 @@
 [/graueneko.xyz/]tls://dot.pub
 [/gravity-engine.com/]tls://dot.pub
 [/graz.quest/]tls://dot.pub
+[/grboi.com/]tls://dot.pub
 [/grcbank.com/]tls://dot.pub
 [/grchina.com/]tls://dot.pub
 [/great-future.com/]tls://dot.pub
@@ -39929,7 +39905,6 @@
 [/gxhtjx.com/]tls://dot.pub
 [/gxhtte.com/]tls://dot.pub
 [/gxhuabao.com/]tls://dot.pub
-[/gxhuachi.com/]tls://dot.pub
 [/gxhuachuang.com/]tls://dot.pub
 [/gxhuadu.com/]tls://dot.pub
 [/gxhuaen.com/]tls://dot.pub
@@ -42608,7 +42583,6 @@
 [/haomenke.com/]tls://dot.pub
 [/haomifi.com/]tls://dot.pub
 [/haomingguan.com/]tls://dot.pub
-[/haommn.com/]tls://dot.pub
 [/haomo-tech.com/]tls://dot.pub
 [/haomove.com/]tls://dot.pub
 [/haomzl.com/]tls://dot.pub
@@ -50667,7 +50641,6 @@
 [/iquickfish.com/]tls://dot.pub
 [/iqujing.com/]tls://dot.pub
 [/iqunix.com/]tls://dot.pub
-[/iqunix.store/]tls://dot.pub
 [/iqupdate.com/]tls://dot.pub
 [/iqxedu.com/]tls://dot.pub
 [/ir56.com/]tls://dot.pub
@@ -54173,7 +54146,6 @@
 [/johnlz.com/]tls://dot.pub
 [/johnmedia.com/]tls://dot.pub
 [/johouse.com/]tls://dot.pub
-[/joi09110pt.com/]tls://dot.pub
 [/joiest.com/]tls://dot.pub
 [/joinchitchat.com/]tls://dot.pub
 [/joindata.net/]tls://dot.pub
@@ -56930,7 +56902,6 @@
 [/kilamanbo.com/]tls://dot.pub
 [/kililife.com/]tls://dot.pub
 [/killdb.com/]tls://dot.pub
-[/kilo1kw.com/]tls://dot.pub
 [/kiloai.com/]tls://dot.pub
 [/kimberley-technology.com/]tls://dot.pub
 [/kimderlite.com/]tls://dot.pub
@@ -58768,7 +58739,6 @@
 [/laravel-admin.org/]tls://dot.pub
 [/laravelacademy.org/]tls://dot.pub
 [/larenla.com/]tls://dot.pub
-[/large.net/]tls://dot.pub
 [/lark-passport-qa-sg.net/]tls://dot.pub
 [/larkapp.com/]tls://dot.pub
 [/larkcloud.com/]tls://dot.pub
@@ -60001,7 +59971,6 @@
 [/lighte-tech.com/]tls://dot.pub
 [/lightgx.com/]tls://dot.pub
 [/lighthg.com/]tls://dot.pub
-[/lighting-china.net/]tls://dot.pub
 [/lightingchina.com/]tls://dot.pub
 [/lightinit.com/]tls://dot.pub
 [/lightky.com/]tls://dot.pub
@@ -60031,7 +60000,6 @@
 [/lihua.com/]tls://dot.pub
 [/lihuadonghua.com/]tls://dot.pub
 [/lihuamuye.com/]tls://dot.pub
-[/lihuashouji.com/]tls://dot.pub
 [/lihuasoft.net/]tls://dot.pub
 [/lihui.net/]tls://dot.pub
 [/lihuia.com/]tls://dot.pub
@@ -63897,7 +63865,6 @@
 [/mekedoo.com/]tls://dot.pub
 [/meldingcloud.com/]tls://dot.pub
 [/melecode.com/]tls://dot.pub
-[/melizhi.com/]tls://dot.pub
 [/mellowactivy.com/]tls://dot.pub
 [/mellowgroups.com/]tls://dot.pub
 [/melon-eptc.com/]tls://dot.pub
@@ -67942,7 +67909,6 @@
 [/njkskn.com/]tls://dot.pub
 [/njkzgjj.com/]tls://dot.pub
 [/njlanwu.com/]tls://dot.pub
-[/njletop.com/]tls://dot.pub
 [/njlg56.com/]tls://dot.pub
 [/njlhzn.com/]tls://dot.pub
 [/njlianyang.com/]tls://dot.pub
@@ -69688,7 +69654,6 @@
 [/onkocares.com/]tls://dot.pub
 [/online-cmcc.net/]tls://dot.pub
 [/online-edu.org/]tls://dot.pub
-[/online-phaidon.shop/]tls://dot.pub
 [/onlinecn.com/]tls://dot.pub
 [/onlineding.com/]tls://dot.pub
 [/onlinedown.net/]tls://dot.pub
@@ -70504,7 +70469,6 @@
 [/pangdago.com/]tls://dot.pub
 [/pangdasc.com/]tls://dot.pub
 [/pangdly.com/]tls://dot.pub
-[/panggugu.com/]tls://dot.pub
 [/panghuasheng.com/]tls://dot.pub
 [/pangjun.com/]tls://dot.pub
 [/pangku.com/]tls://dot.pub
@@ -71177,7 +71141,6 @@
 [/php168.net/]tls://dot.pub
 [/php318.com/]tls://dot.pub
 [/phpbbchina.com/]tls://dot.pub
-[/phpcashshare.com/]tls://dot.pub
 [/phpchina.com/]tls://dot.pub
 [/phpcom.net/]tls://dot.pub
 [/phpcomposer.com/]tls://dot.pub
@@ -71829,7 +71792,6 @@
 [/porlockz.com/]tls://dot.pub
 [/port-m.com/]tls://dot.pub
 [/portalcdn.cdnetworks.com/]tls://dot.pub
-[/portcontainer.com/]tls://dot.pub
 [/porthebei.com/]tls://dot.pub
 [/portjs.com/]tls://dot.pub
 [/portjs.net/]tls://dot.pub
@@ -72490,6 +72452,7 @@
 [/pymh.com/]tls://dot.pub
 [/pyneo.com/]tls://dot.pub
 [/pyou.com/]tls://dot.pub
+[/pyquan.com/]tls://dot.pub
 [/pyrc.net/]tls://dot.pub
 [/pyshszh.com/]tls://dot.pub
 [/pystar.com/]tls://dot.pub
@@ -79559,6 +79522,7 @@
 [/shengsci.com/]tls://dot.pub
 [/shengshizhicheng.com/]tls://dot.pub
 [/shengtai.com/]tls://dot.pub
+[/shengtai.cyou/]tls://dot.pub
 [/shengtaigroup.net/]tls://dot.pub
 [/shengtian.com/]tls://dot.pub
 [/shengtiangames.com/]tls://dot.pub
@@ -80552,7 +80516,6 @@
 [/shuangxingseed.com/]tls://dot.pub
 [/shuangxinhui.com/]tls://dot.pub
 [/shuangxiumall.com/]tls://dot.pub
-[/shuangyanjie.com/]tls://dot.pub
 [/shuangyingmenye.net/]tls://dot.pub
 [/shuangyingsx.com/]tls://dot.pub
 [/shuangyuejn.com/]tls://dot.pub
@@ -86321,7 +86284,6 @@
 [/teambition.com/]tls://dot.pub
 [/teambition.net/]tls://dot.pub
 [/teambitionapis.com/]tls://dot.pub
-[/teamlogs.com/]tls://dot.pub
 [/teamminus.com/]tls://dot.pub
 [/teamshub.com/]tls://dot.pub
 [/teamtop.com/]tls://dot.pub
@@ -86706,6 +86668,7 @@
 [/tenganxinxi.com/]tls://dot.pub
 [/tengbai-it.com/]tls://dot.pub
 [/tengbo.cc/]tls://dot.pub
+[/tengcanxi.com/]tls://dot.pub
 [/tengchangjiancai.com/]tls://dot.pub
 [/tengdatumu.com/]tls://dot.pub
 [/tengdawl.com/]tls://dot.pub
@@ -87095,7 +87058,6 @@
 [/thmzedu.com/]tls://dot.pub
 [/thny.cc/]tls://dot.pub
 [/thojmhw.com/]tls://dot.pub
-[/thomanmustore.shop/]tls://dot.pub
 [/thomasschools.com/]tls://dot.pub
 [/thoreco.com/]tls://dot.pub
 [/thorn.red/]tls://dot.pub
@@ -89692,7 +89654,6 @@
 [/tyust.net/]tls://dot.pub
 [/tyuyan.com/]tls://dot.pub
 [/tyuyan.net/]tls://dot.pub
-[/tywbw.com/]tls://dot.pub
 [/tywh.com/]tls://dot.pub
 [/tywheels.com/]tls://dot.pub
 [/tywx.com/]tls://dot.pub
@@ -94793,7 +94754,6 @@
 [/woc.space/]tls://dot.pub
 [/woc88.com/]tls://dot.pub
 [/wochacha.com/]tls://dot.pub
-[/wochaw.com/]tls://dot.pub
 [/woda.com/]tls://dot.pub
 [/wodasi.com/]tls://dot.pub
 [/wodavip.com/]tls://dot.pub
@@ -96795,6 +96755,7 @@
 [/xhjyxxw.com/]tls://dot.pub
 [/xhlcsl.com/]tls://dot.pub
 [/xhlsgs.com/]tls://dot.pub
+[/xhlylx.com/]tls://dot.pub
 [/xhma.com/]tls://dot.pub
 [/xhmedia.com/]tls://dot.pub
 [/xhmwxy.com/]tls://dot.pub
@@ -97657,7 +97618,6 @@
 [/xiguaapp.com/]tls://dot.pub
 [/xiguabook.com/]tls://dot.pub
 [/xiguaji.com/]tls://dot.pub
-[/xiguang.xyz/]tls://dot.pub
 [/xiguaplayer.com/]tls://dot.pub
 [/xiguashipin.net/]tls://dot.pub
 [/xiguavideo.net/]tls://dot.pub
@@ -98824,7 +98784,6 @@
 [/xmkanshu.com/]tls://dot.pub
 [/xmkj.beer/]tls://dot.pub
 [/xml-journal.net/]tls://dot.pub
-[/xmldz4.com/]tls://dot.pub
 [/xmlhifi.com/]tls://dot.pub
 [/xmlib.net/]tls://dot.pub
 [/xmlvbarcode.com/]tls://dot.pub
@@ -99091,7 +99050,6 @@
 [/xn--w9q675dm1p7em.net/]tls://dot.pub
 [/xn--w9qr0k.com/]tls://dot.pub
 [/xn--w9qy23cc6adz7d.net/]tls://dot.pub
-[/xn--wbsz85a2a.com/]tls://dot.pub
 [/xn--wlq49r6tr7zal0u.com/]tls://dot.pub
 [/xn--wxtr44c.live/]tls://dot.pub
 [/xn--xcry9n251cvcar5xj6r.com/]tls://dot.pub
@@ -99602,7 +99560,6 @@
 [/xueshu.com/]tls://dot.pub
 [/xueshu5.com/]tls://dot.pub
 [/xueshuda.com/]tls://dot.pub
-[/xueshujia.com/]tls://dot.pub
 [/xueshut.com/]tls://dot.pub
 [/xueshuwenhai.com/]tls://dot.pub
 [/xuesongshuwood.com/]tls://dot.pub
@@ -108140,7 +108097,6 @@
 [/zjhwgroup.com/]tls://dot.pub
 [/zjhx520.com/]tls://dot.pub
 [/zjhxgf.com/]tls://dot.pub
-[/zjhxw.com/]tls://dot.pub
 [/zjhyrcb.com/]tls://dot.pub
 [/zjhzgy.com/]tls://dot.pub
 [/zjhzjt.com/]tls://dot.pub
@@ -111159,6 +111115,7 @@
 [/6parker.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/6parknews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/7capture.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/7x24hrs.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/8-d.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/85cc.us/]https://d-o-h.you-cf-domain.com/your-suffix
 [/881903.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -113561,7 +113518,9 @@
 [/meripet.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/merit-times.com.tw/]https://d-o-h.you-cf-domain.com/your-suffix
 [/messenger.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/meta.ai/]https://d-o-h.you-cf-domain.com/your-suffix
 [/meta.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/metaaivm.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/metafilter.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/metamask.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/metart.com/]https://d-o-h.you-cf-domain.com/your-suffix
