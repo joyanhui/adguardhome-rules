@@ -85244,6 +85244,8 @@
 [/szty56.com/]tls://dot.pub
 [/sztz.org/]tls://dot.pub
 [/sztzzs.com/]tls://dot.pub
+[/szu.app/]tls://dot.pub
+[/szu.moe/]tls://dot.pub
 [/szuavia.org/]tls://dot.pub
 [/szudad.com/]tls://dot.pub
 [/szunionlab.com/]tls://dot.pub
