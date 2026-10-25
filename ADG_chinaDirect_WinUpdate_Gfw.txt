@@ -19124,6 +19124,7 @@
 [/cdqz.net/]tls://dot.pub
 [/cdrbs.net/]tls://dot.pub
 [/cdrcb.com/]tls://dot.pub
+[/cdrcbank.com/]tls://dot.pub
 [/cdren.net/]tls://dot.pub
 [/cdrich.com/]tls://dot.pub
 [/cdrjob.com/]tls://dot.pub
@@ -24989,6 +24990,7 @@
 [/cqyygz.com/]tls://dot.pub
 [/cqyyjc.com/]tls://dot.pub
 [/cqyysx.com/]tls://dot.pub
+[/cqyyxc.com/]tls://dot.pub
 [/cqyyzy.com/]tls://dot.pub
 [/cqyznews.com/]tls://dot.pub
 [/cqzbcg.com/]tls://dot.pub
@@ -48498,6 +48500,7 @@
 [/ibaizhu.com/]tls://dot.pub
 [/ibanana.club/]tls://dot.pub
 [/ibanbu.com/]tls://dot.pub
+[/ibangbank.com/]tls://dot.pub
 [/ibanggo.com/]tls://dot.pub
 [/ibangkf.com/]tls://dot.pub
 [/ibangtiao.com/]tls://dot.pub
@@ -50569,6 +50572,7 @@
 [/isi-gf.com/]tls://dot.pub
 [/isiabio.com/]tls://dot.pub
 [/isign.ren/]tls://dot.pub
+[/isigning.com/]tls://dot.pub
 [/isigu.com/]tls://dot.pub
 [/isilent.me/]tls://dot.pub
 [/isilicontech.com/]tls://dot.pub
@@ -64946,7 +64950,6 @@
 [/moefactory.com/]tls://dot.pub
 [/moefantasy.com/]tls://dot.pub
 [/moefou.org/]tls://dot.pub
-[/moegirl.org/]tls://dot.pub
 [/moegirl.tw/]tls://dot.pub
 [/moehot.com/]tls://dot.pub
 [/moehu.org/]tls://dot.pub
@@ -66379,6 +66382,7 @@
 [/nannjlnk.com/]tls://dot.pub
 [/nanobody-biolab.com/]tls://dot.pub
 [/nanochrom.com/]tls://dot.pub
+[/nanocorechip.com/]tls://dot.pub
 [/nanoeast.net/]tls://dot.pub
 [/nanoer.net/]tls://dot.pub
 [/nanoinglobal.com/]tls://dot.pub
@@ -109715,6 +109719,7 @@
 [/app-measurement-cn.com/]tls://dot.pub
 [/app-measurement.com/]tls://dot.pub
 [/app-site-association.cdn-apple.com/]tls://dot.pub
+[/app.moegirl.org.cn/]tls://dot.pub
 [/appldnld.apple.com/]tls://dot.pub
 [/appldnld.g.aaplimg.com/]tls://dot.pub
 [/appleid.cdn-apple.com/]tls://dot.pub
@@ -110163,6 +110168,7 @@
 [/status.alibabacloud.com/]tls://dot.pub
 [/stocks-sparkline-lb.apple.com.akadns.net/]tls://dot.pub
 [/stocks-sparkline.apple.com/]tls://dot.pub
+[/storage.moegirl.org.cn/]tls://dot.pub
 [/store.apple.com/]tls://dot.pub
 [/store.apple.com.edgekey.net/]tls://dot.pub
 [/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub
@@ -110782,6 +110788,7 @@
 [/10musume.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/123av.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/123av.me/]https://d-o-h.you-cf-domain.com/your-suffix
+[/123av.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/12bet.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/12vpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/12vpn.net/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -112999,6 +113006,7 @@
 [/kichiku-doujinko.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kik.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/killwall.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/kimootoko.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kindle4rss.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kindleren.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/kingdomsalvation.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -113281,6 +113289,7 @@
 [/minhhue.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/miningpoolhub.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/ministrybooks.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/minkch.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/minzhuzhongguo.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/miraheze.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mirdc.org.tw/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -113342,6 +113351,7 @@
 [/mosavi.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/motherless.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/movements.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/movie.eroterest.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/moviefap.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mpettis.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/mpfinance.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -113475,6 +113485,9 @@
 [/niu.moe/]https://d-o-h.you-cf-domain.com/your-suffix
 [/niusnews.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/njactb.org/]https://d-o-h.you-cf-domain.com/your-suffix
+[/njav.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/njav.tv/]https://d-o-h.you-cf-domain.com/your-suffix
+[/njavtv.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nlfreevpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nmsl.website/]https://d-o-h.you-cf-domain.com/your-suffix
 [/nnews.eu/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -113728,6 +113741,7 @@
 [/plurk.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/plus.codes/]https://d-o-h.you-cf-domain.com/your-suffix
 [/pmatehunter.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/po-kaki-to.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/po2b.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/podbean.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/podcast.co/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -115199,6 +115213,7 @@
 [/zophar.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zorrovpn.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zozotown.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/zozovideo.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zpn.im/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zspeeder.me/]https://d-o-h.you-cf-domain.com/your-suffix
 [/zuo.la/]https://d-o-h.you-cf-domain.com/your-suffix
