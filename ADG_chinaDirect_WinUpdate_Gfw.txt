@@ -33757,6 +33757,7 @@
 [/fillersmart.com/]tls://dot.pub
 [/fillseo.com/]tls://dot.pub
 [/film-yuelongchina.com/]tls://dot.pub
+[/filmorigin.com/]tls://dot.pub
 [/fily.fun/]tls://dot.pub
 [/fim34s.com/]tls://dot.pub
 [/fimmu.com/]tls://dot.pub
@@ -55953,6 +55954,7 @@
 [/kakappt.com/]tls://dot.pub
 [/kakashuzi.net/]tls://dot.pub
 [/kakatx.com/]tls://dot.pub
+[/kakaxing.com/]tls://dot.pub
 [/kakayuy.net/]tls://dot.pub
 [/kaken-china.com/]tls://dot.pub
 [/kaku-scdn.com/]tls://dot.pub
