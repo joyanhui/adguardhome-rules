@@ -60855,8 +60855,6 @@
 [/longanlaw.com/]tls://dot.pub
 [/longau.com/]tls://dot.pub
 [/longbenren.com/]tls://dot.pub
-[/longbridgeapp.com/]tls://dot.pub
-[/longbridgehk.com/]tls://dot.pub
 [/longcai.com/]tls://dot.pub
 [/longcai027.com/]tls://dot.pub
 [/longcat.chat/]tls://dot.pub
@@ -110152,7 +110150,9 @@
 [/sequoia.apple.com/]tls://dot.pub
 [/service.urchin.com/]tls://dot.pub
 [/sf-api-token-service.itunes.apple.com/]tls://dot.pub
+[/sh-pod1-smp-device.apple.com/]tls://dot.pub
 [/sh-pod2-smp-device.apple.com/]tls://dot.pub
+[/sh-pod3-smp-device.apple.com/]tls://dot.pub
 [/shazam-insights.cdn-apple.com/]tls://dot.pub
 [/shell.cdn.office.net/]tls://dot.pub
 [/smp-device-content.apple.com/]tls://dot.pub
