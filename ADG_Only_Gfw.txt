@@ -204,6 +204,7 @@
 [/anonfiles.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anonymouse.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anthonycalzadilla.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/anthropic.auth0.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/anthropic.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/antiwave.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/antpool.com/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -573,6 +574,7 @@
 [/brookings.edu/]https://d-o-h.you-cf-domain.com/your-suffix
 [/brutaltgp.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bsky.app/]https://d-o-h.you-cf-domain.com/your-suffix
+[/bsky.chat/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bsky.network/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bsky.social/]https://d-o-h.you-cf-domain.com/your-suffix
 [/bt4g.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -798,7 +800,10 @@
 [/clashyun.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/classicalguitarblog.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/claude.ai/]https://d-o-h.you-cf-domain.com/your-suffix
+[/claude.app/]https://d-o-h.you-cf-domain.com/your-suffix
 [/claude.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/claudemcpcontent.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/claudeusercontent.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/cldr.unicode.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/clearsurance.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/clementine-player.org/]https://d-o-h.you-cf-domain.com/your-suffix
