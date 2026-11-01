@@ -110955,6 +110955,7 @@
 [/api.recaptcha.net/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.shuaiapi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/api.steampowered.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/api.themoviedb.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apiary.io/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apigee.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/apk.support/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -114466,6 +114467,7 @@
 [/torproject.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torrentgalaxy.to/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torrentkitty.tv/]https://d-o-h.you-cf-domain.com/your-suffix
+[/torrentleech.org/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torrentprivacy.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torrentproject.se/]https://d-o-h.you-cf-domain.com/your-suffix
 [/torrenty.org/]https://d-o-h.you-cf-domain.com/your-suffix
@@ -115095,6 +115097,7 @@
 [/youtubegaming.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/youtubekids.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/youversion.com/]https://d-o-h.you-cf-domain.com/your-suffix
+[/youversionapi.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/youwin.com/]https://d-o-h.you-cf-domain.com/your-suffix
 [/youxu.info/]https://d-o-h.you-cf-domain.com/your-suffix
 [/yt.be/]https://d-o-h.you-cf-domain.com/your-suffix
