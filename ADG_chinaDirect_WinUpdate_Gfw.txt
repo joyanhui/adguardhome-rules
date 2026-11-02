@@ -17098,6 +17098,7 @@
 [/bustoprint.com/]tls://dot.pub
 [/bustruckexpo.com/]tls://dot.pub
 [/busuanzi.cc/]tls://dot.pub
+[/busyming.com/]tls://dot.pub
 [/but7.com/]tls://dot.pub
 [/butair.com/]tls://dot.pub
 [/butao.com/]tls://dot.pub
@@ -29106,6 +29107,7 @@
 [/doubanio.com/]tls://dot.pub
 [/doubao-dev.com/]tls://dot.pub
 [/doubao.com/]tls://dot.pub
+[/doubaoapps.com/]tls://dot.pub
 [/doubaocdn.com/]tls://dot.pub
 [/doubaozhidao.com/]tls://dot.pub
 [/doubean.com/]tls://dot.pub
@@ -109355,6 +109357,7 @@
 [/zymc1.com/]tls://dot.pub
 [/zymkcdn.com/]tls://dot.pub
 [/zymkshop.com/]tls://dot.pub
+[/zymls.com/]tls://dot.pub
 [/zyoffice.com/]tls://dot.pub
 [/zyoo.net/]tls://dot.pub
 [/zyoogame.com/]tls://dot.pub
