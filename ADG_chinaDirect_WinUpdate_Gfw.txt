@@ -16857,6 +16857,7 @@
 [/bsdongxin.com/]tls://dot.pub
 [/bsdt1688.com/]tls://dot.pub
 [/bsehk.com/]tls://dot.pub
+[/bseinfo.net/]tls://dot.pub
 [/bseqp.com/]tls://dot.pub
 [/bserc.com/]tls://dot.pub
 [/bsgcnc.com/]tls://dot.pub
@@ -21762,7 +21763,6 @@
 [/chuxinvip.com/]tls://dot.pub
 [/chuxueyun.com/]tls://dot.pub
 [/chuyaer.com/]tls://dot.pub
-[/chuyu.me/]tls://dot.pub
 [/chuzhaobiao.com/]tls://dot.pub
 [/chvacuum.com/]tls://dot.pub
 [/chvoice.com/]tls://dot.pub
@@ -35453,14 +35453,12 @@
 [/gamehaopu.com/]tls://dot.pub
 [/gamehome.tv/]tls://dot.pub
 [/gameinns.com/]tls://dot.pub
-[/gameitop.com/]tls://dot.pub
 [/gamejym.com/]tls://dot.pub
 [/gamekee.com/]tls://dot.pub
 [/gamekezhan.com/]tls://dot.pub
 [/gamekuaishou.com/]tls://dot.pub
 [/gamelet.games/]tls://dot.pub
 [/gameley.com/]tls://dot.pub
-[/gameloop.com/]tls://dot.pub
 [/gameloop.fun/]tls://dot.pub
 [/gamemale.com/]tls://dot.pub
 [/gamemcu.com/]tls://dot.pub
@@ -49696,7 +49694,6 @@
 [/in-tencentclb.com/]tls://dot.pub
 [/in-tencentclb.net/]tls://dot.pub
 [/in-tencentclb.work/]tls://dot.pub
-[/in.th/]tls://dot.pub
 [/in001.com/]tls://dot.pub
 [/in66.com/]tls://dot.pub
 [/in800.com/]tls://dot.pub
@@ -61518,6 +61515,7 @@
 [/luyinla.com/]tls://dot.pub
 [/luyinzhushou.com/]tls://dot.pub
 [/luyitong.com/]tls://dot.pub
+[/luyong.com/]tls://dot.pub
 [/luyor.net/]tls://dot.pub
 [/luyouqi.com/]tls://dot.pub
 [/luyouwang.com/]tls://dot.pub
@@ -62316,9 +62314,6 @@
 [/magpiepharma.com/]tls://dot.pub
 [/magtechjournal.com/]tls://dot.pub
 [/magvision.com/]tls://dot.pub
-[/mahjongai.net/]tls://dot.pub
-[/mahjongcup.com/]tls://dot.pub
-[/mahjongcup.net/]tls://dot.pub
 [/mahoupao.com/]tls://dot.pub
 [/mahua.com/]tls://dot.pub
 [/mai.com/]tls://dot.pub
@@ -71762,7 +71757,6 @@
 [/proup.club/]tls://dot.pub
 [/providence-chemicals.com/]tls://dot.pub
 [/prowine-shanghai.com/]tls://dot.pub
-[/proximabeta.com/]tls://dot.pub
 [/proya-group.com/]tls://dot.pub
 [/proya.com/]tls://dot.pub
 [/proyy.com/]tls://dot.pub
@@ -78171,6 +78165,7 @@
 [/senra.me/]tls://dot.pub
 [/sense-hk.com/]tls://dot.pub
 [/senseagro.com/]tls://dot.pub
+[/senseavatar.com/]tls://dot.pub
 [/senselock.com/]tls://dot.pub
 [/senseluxury.com/]tls://dot.pub
 [/senser.group/]tls://dot.pub
@@ -80423,6 +80418,7 @@
 [/shutu.cc/]tls://dot.pub
 [/shutwin.com/]tls://dot.pub
 [/shuwangxing.com/]tls://dot.pub
+[/shuwen.com/]tls://dot.pub
 [/shuwenxianyun.com/]tls://dot.pub
 [/shuwulou.com/]tls://dot.pub
 [/shuxiangmuye.com/]tls://dot.pub
@@ -86479,8 +86475,6 @@
 [/tetuijiudian.com/]tls://dot.pub
 [/tevachem.com/]tls://dot.pub
 [/tex68.com/]tls://dot.pub
-[/texasholdemcup.com/]tls://dot.pub
-[/texasholdemcup.net/]tls://dot.pub
 [/texpage.com/]tls://dot.pub
 [/texpageusercontent.com/]tls://dot.pub
 [/texpro-group.com/]tls://dot.pub
@@ -87086,6 +87080,7 @@
 [/tidemedia.com/]tls://dot.pub
 [/tidepharm.com/]tls://dot.pub
 [/tidesec.com/]tls://dot.pub
+[/tidesight.com/]tls://dot.pub
 [/tideswing.fun/]tls://dot.pub
 [/tidi.mobi/]tls://dot.pub
 [/tiduyun.com/]tls://dot.pub
@@ -90141,6 +90136,7 @@
 [/upsapp.com/]tls://dot.pub
 [/upseller.com/]tls://dot.pub
 [/upskyshanghai.com/]tls://dot.pub
+[/upsort.com/]tls://dot.pub
 [/upst86.com/]tls://dot.pub
 [/uptom.com/]tls://dot.pub
 [/uptougu.com/]tls://dot.pub
@@ -103946,6 +103942,7 @@
 [/yundonghao.com/]tls://dot.pub
 [/yundongit.com/]tls://dot.pub
 [/yundousoft.com/]tls://dot.pub
+[/yundouxueyuan.com/]tls://dot.pub
 [/yundui.cc/]tls://dot.pub
 [/yunduimedia.com/]tls://dot.pub
 [/yundun.com/]tls://dot.pub
@@ -104595,6 +104592,7 @@
 [/yy960.com/]tls://dot.pub
 [/yyaotec.com/]tls://dot.pub
 [/yyarea.com/]tls://dot.pub
+[/yybip.com/]tls://dot.pub
 [/yyblly.com/]tls://dot.pub
 [/yybnet.net/]tls://dot.pub
 [/yybox.cc/]tls://dot.pub
@@ -110043,6 +110041,7 @@
 [/publicassets.cdn-apple.com/]tls://dot.pub
 [/qiao-cn.com/]tls://dot.pub
 [/qpx.googleflights.net/]tls://dot.pub
+[/radio.itunes.apple.com/]tls://dot.pub
 [/recaptcha-cn.net/]tls://dot.pub
 [/recaptcha.net/]tls://dot.pub
 [/redirector.bdn.dev/]tls://dot.pub
