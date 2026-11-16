@@ -18012,6 +18012,7 @@
 [/capsuleshanghai.com/]tls://dot.pub
 [/captain-cro.com/]tls://dot.pub
 [/captainbi.com/]tls://dot.pub
+[/captive.apple.com/]tls://dot.pub
 [/capturetheflag.fun/]tls://dot.pub
 [/capvision.com/]tls://dot.pub
 [/capwhale.com/]tls://dot.pub
@@ -109791,6 +109792,7 @@
 [/communities.apple.com/]tls://dot.pub
 [/configuration.apple.com/]tls://dot.pub
 [/configuration.apple.com.akadns.net/]tls://dot.pub
+[/configuration.ls.apple.com/]tls://dot.pub
 [/connectivitycheck.gstatic.com/]tls://dot.pub
 [/crashlyticsreports-pa.googleapis.com/]tls://dot.pub
 [/crl-lb.apple.com.akadns.net/]tls://dot.pub
@@ -110007,10 +110009,12 @@
 [/msdprod-ad.download.prss.microsoft.com/]tls://dot.pub
 [/msproduct.download.prss.microsoft.com/]tls://dot.pub
 [/music.apple.com/]tls://dot.pub
+[/musicstatus.itunes.apple.com/]tls://dot.pub
 [/musicstatus.music.apple.com/]tls://dot.pub
 [/mvod.itunes.apple.com/]tls://dot.pub
 [/myapp.itunes.apple.com/]tls://dot.pub
 [/myvs.download.prss.microsoft.com/]tls://dot.pub
+[/mzstorekit.itunes.apple.com/]tls://dot.pub
 [/np-edge.itunes.apple.com/]tls://dot.pub
 [/ntp.aliyun.com/]tls://dot.pub
 [/ntp.tencent.com/]tls://dot.pub
