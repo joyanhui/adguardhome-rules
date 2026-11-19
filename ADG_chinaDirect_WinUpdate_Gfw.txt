@@ -59014,6 +59014,7 @@
 [/lenovoconnect.com/]tls://dot.pub
 [/lenovoeservice.com/]tls://dot.pub
 [/lenovofile.com/]tls://dot.pub
+[/lenovofuturecenter.com/]tls://dot.pub
 [/lenovogame.com/]tls://dot.pub
 [/lenovohci.com/]tls://dot.pub
 [/lenovohuishang.com/]tls://dot.pub
@@ -73681,6 +73682,7 @@
 [/qpkaifa.com/]tls://dot.pub
 [/qplus.com/]tls://dot.pub
 [/qplusstatic.com/]tls://dot.pub
+[/qpmcn.com/]tls://dot.pub
 [/qpoc.com/]tls://dot.pub
 [/qpstar.com/]tls://dot.pub
 [/qpwater.com/]tls://dot.pub
@@ -88465,6 +88467,7 @@
 [/trpc.center/]tls://dot.pub
 [/trpc.group/]tls://dot.pub
 [/trpc.tech/]tls://dot.pub
+[/trpcdn.com/]tls://dot.pub
 [/trpcdn.net/]tls://dot.pub
 [/trs-logistics.com/]tls://dot.pub
 [/trsoft.vip/]tls://dot.pub
@@ -106066,6 +106069,7 @@
 [/zhaokuaizhao.com/]tls://dot.pub
 [/zhaolaobanla.com/]tls://dot.pub
 [/zhaoliangji.com/]tls://dot.pub
+[/zhaoliangjipc.com/]tls://dot.pub
 [/zhaoliming.net/]tls://dot.pub
 [/zhaoming.biz/]tls://dot.pub
 [/zhaomishijie.com/]tls://dot.pub
